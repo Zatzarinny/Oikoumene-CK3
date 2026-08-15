@@ -1,0 +1,365 @@
+﻿# Oikoumene title-name override bridge controller.
+#
+# Why this exists:
+# title history and vanilla scripts can store an explicit title localisation key.
+# Stored names take precedence over ordinary cultural_names. These effects explicitly
+# restore the correct Oikoumene key for supported name lists while preserving vanilla
+# state for unsupported cultures.
+
+
+oik_set_k_east_francia_cultural_name = {
+	if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_anglo_saxon } } }
+		set_title_name = cn_oik_anglo_saxon_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_castilian } } }
+		set_title_name = cn_oik_castilian_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_english } } }
+		set_title_name = cn_oik_english_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_french } } }
+		set_title_name = cn_oik_french_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_greek } } }
+		set_title_name = cn_oik_greek_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_han } } }
+		set_title_name = cn_oik_han_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_mongol } } }
+		set_title_name = cn_oik_mongol_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norman } } }
+		set_title_name = cn_oik_norman_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norse } } }
+		set_title_name = cn_oik_norse_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_persian } } }
+		set_title_name = cn_oik_persian_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
+		set_title_name = cn_oik_roman_k_east_francia
+	}
+	else = {
+		set_title_name = EAST_FRANCIA
+	}
+}
+
+oik_set_k_germany_cultural_name = {
+	if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_anglo_saxon } } }
+		set_title_name = cn_oik_alias_anglo_saxon_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_castilian } } }
+		set_title_name = cn_oik_alias_castilian_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_english } } }
+		set_title_name = cn_oik_alias_english_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_french } } }
+		set_title_name = cn_oik_alias_french_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_greek } } }
+		set_title_name = cn_oik_alias_greek_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_han } } }
+		set_title_name = cn_oik_alias_han_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_mongol } } }
+		set_title_name = cn_oik_alias_mongol_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norman } } }
+		set_title_name = cn_oik_alias_norman_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norse } } }
+		set_title_name = cn_oik_alias_norse_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_persian } } }
+		set_title_name = cn_oik_alias_persian_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
+		set_title_name = cn_oik_alias_roman_k_germany
+	}
+	else = {
+		set_title_name = k_germany
+	}
+}
+
+oik_refresh_k_east_francia_title_override = {
+	if = {
+		limit = {
+			exists = holder
+			has_global_variable = east_francia_renamed
+		}
+		oik_set_k_germany_cultural_name = yes
+	}
+	else_if = {
+		limit = { exists = holder }
+		oik_set_k_east_francia_cultural_name = yes
+	}
+}
+
+oik_set_k_france_cultural_name = {
+	if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_anglo_saxon } } }
+		set_title_name = cn_oik_anglo_saxon_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_castilian } } }
+		set_title_name = cn_oik_castilian_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_english } } }
+		set_title_name = cn_oik_english_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_french } } }
+		set_title_name = cn_oik_french_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_greek } } }
+		set_title_name = cn_oik_greek_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_han } } }
+		set_title_name = cn_oik_han_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_mongol } } }
+		set_title_name = cn_oik_mongol_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norman } } }
+		set_title_name = cn_oik_norman_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norse } } }
+		set_title_name = cn_oik_norse_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_persian } } }
+		set_title_name = cn_oik_persian_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
+		set_title_name = cn_oik_roman_k_france
+	}
+	else = {
+		reset_title_name = yes
+	}
+}
+
+oik_set_k_west_francia_cultural_name = {
+	if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_anglo_saxon } } }
+		set_title_name = cn_oik_alias_anglo_saxon_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_castilian } } }
+		set_title_name = cn_oik_alias_castilian_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_english } } }
+		set_title_name = cn_oik_alias_english_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_french } } }
+		set_title_name = cn_oik_alias_french_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_greek } } }
+		set_title_name = cn_oik_alias_greek_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_han } } }
+		set_title_name = cn_oik_alias_han_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_mongol } } }
+		set_title_name = cn_oik_alias_mongol_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norman } } }
+		set_title_name = cn_oik_alias_norman_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norse } } }
+		set_title_name = cn_oik_alias_norse_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_persian } } }
+		set_title_name = cn_oik_alias_persian_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
+		set_title_name = cn_oik_alias_roman_k_west_francia
+	}
+	else = {
+		set_title_name = WEST_FRANCIA
+	}
+}
+
+oik_refresh_k_france_title_override = {
+	if = {
+		limit = {
+			exists = holder
+			has_global_variable = west_francia_renamed
+		}
+		oik_set_k_france_cultural_name = yes
+	}
+	else_if = {
+		limit = { exists = holder }
+		oik_set_k_west_francia_cultural_name = yes
+	}
+}
+
+oik_set_k_lotharingia_cultural_name = {
+	if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_anglo_saxon } } }
+		set_title_name = cn_oik_anglo_saxon_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_castilian } } }
+		set_title_name = cn_oik_castilian_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_english } } }
+		set_title_name = cn_oik_english_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_french } } }
+		set_title_name = cn_oik_french_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_greek } } }
+		set_title_name = cn_oik_greek_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_han } } }
+		set_title_name = cn_oik_han_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_mongol } } }
+		set_title_name = cn_oik_mongol_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norman } } }
+		set_title_name = cn_oik_norman_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norse } } }
+		set_title_name = cn_oik_norse_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_persian } } }
+		set_title_name = cn_oik_persian_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
+		set_title_name = cn_oik_roman_k_lotharingia
+	}
+	else = {
+		if = {
+			limit = { current_date >= 855.8.22 }
+			set_title_name = LOTHARINGIA
+		}
+		else = { reset_title_name = yes }
+	}
+}
+
+oik_refresh_k_lotharingia_title_override = {
+	if = {
+		limit = { exists = holder }
+		oik_set_k_lotharingia_cultural_name = yes
+	}
+}
+
+oik_set_d_northumberland_cultural_name = {
+	if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_anglo_saxon } } }
+		set_title_name = cn_oik_anglo_saxon_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_castilian } } }
+		set_title_name = cn_oik_castilian_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_english } } }
+		set_title_name = cn_oik_english_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_french } } }
+		set_title_name = cn_oik_french_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_greek } } }
+		set_title_name = cn_oik_greek_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_han } } }
+		set_title_name = cn_oik_han_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_mongol } } }
+		set_title_name = cn_oik_mongol_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norman } } }
+		set_title_name = cn_oik_norman_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_norse } } }
+		set_title_name = cn_oik_norse_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_persian } } }
+		set_title_name = cn_oik_persian_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
+		set_title_name = cn_oik_roman_d_northumberland
+	}
+	else = {
+		if = {
+			limit = { current_date >= 1178.1.1 }
+			set_title_name = NORTHUMBERLAND
+		}
+		else = { reset_title_name = yes }
+	}
+}
+
+oik_refresh_d_northumberland_title_override = {
+	if = {
+		limit = { exists = holder }
+		oik_set_d_northumberland_cultural_name = yes
+	}
+}
+
+oik_refresh_all_title_name_overrides = {
+	title:k_east_francia = { oik_refresh_k_east_francia_title_override = yes }
+	title:k_france = { oik_refresh_k_france_title_override = yes }
+	title:k_lotharingia = { oik_refresh_k_lotharingia_title_override = yes }
+	title:d_northumberland = { oik_refresh_d_northumberland_title_override = yes }
+}

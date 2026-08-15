@@ -1,0 +1,8 @@
+﻿l_german:
+ rule_oik_special_title_names:0 "Oikoumene: Special & Institutional Titles"
+ setting_oik_special_names_interface:0 "Keep Familiar Names (Recommended)"
+ setting_oik_special_names_interface_desc:0 "The Papacy, Patriarchates, Holy Orders, ceremonial thrones, and similar special titles keep their familiar English names. Normal realms and place names still change with culture."
+ setting_oik_special_names_holder:0 "Use Holder's Culture"
+ setting_oik_special_names_holder_desc:0 "Special titles use the cultural name of the character who holds them. For example, if a Greek character holds the Papacy, the Papacy uses its Greek name."
+ setting_oik_special_names_foreign_rule:0 "Use Foreign Overlord's Culture"
+ setting_oik_special_names_foreign_rule_desc:0 "Special titles keep their familiar names while independent. If they become vassals of a foreign top liege, they use that ruler's cultural name; for example, a Pope vassalized by a Greek emperor uses the Greek form."

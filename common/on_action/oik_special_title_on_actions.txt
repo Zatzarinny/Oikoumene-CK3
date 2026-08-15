@@ -1,0 +1,133 @@
+﻿# Oikoumene title-name controllers.
+#
+# All additions use custom sub-on-actions. The delayed repeat avoids races with
+# concurrent vanilla title events that call set_title_name/reset_title_name.
+
+on_game_start = {
+	on_actions = {
+		oik_special_names_on_game_start
+		oik_title_overrides_on_game_start
+	}
+}
+
+on_game_start_after_lobby = {
+	on_actions = {
+		oik_title_overrides_on_game_start_after_lobby
+		delay = { days = 1 }
+		oik_title_overrides_on_game_start_after_lobby
+	}
+}
+
+on_title_gain = {
+	on_actions = {
+		oik_special_names_on_title_gain
+		oik_title_overrides_on_title_gain
+		delay = { days = 1 }
+		oik_title_overrides_on_title_gain
+	}
+}
+
+on_character_culture_change = {
+	on_actions = {
+		oik_special_names_on_culture_change
+		oik_title_overrides_on_culture_change
+	}
+}
+
+yearly_global_pulse = {
+	on_actions = {
+		oik_special_names_foreign_yearly_safety
+		oik_title_overrides_yearly_safety
+	}
+}
+
+oik_special_names_on_game_start = {
+	effect = { oik_refresh_all_special_title_names = yes }
+}
+
+oik_special_names_on_title_gain = {
+	effect = {
+		every_held_title = {
+			limit = { oik_is_rule_controlled_special_title = yes }
+			oik_refresh_special_title_name = yes
+		}
+	}
+}
+
+oik_special_names_on_culture_change = {
+	effect = {
+		every_held_title = {
+			limit = { oik_is_rule_controlled_special_title = yes }
+			oik_refresh_special_title_name = yes
+		}
+		if = {
+			limit = { top_liege = this has_game_rule = oik_special_names_foreign_rule }
+			oik_refresh_all_special_title_names = yes
+		}
+	}
+}
+
+oik_special_names_foreign_yearly_safety = {
+	trigger = { has_game_rule = oik_special_names_foreign_rule }
+	effect = { oik_refresh_all_special_title_names = yes }
+}
+
+# Comprehensive title-name override bridges.
+
+oik_title_overrides_on_game_start = {
+	effect = { oik_refresh_all_title_name_overrides = yes }
+}
+
+oik_title_overrides_on_game_start_after_lobby = {
+	effect = { oik_refresh_all_title_name_overrides = yes }
+}
+
+oik_title_overrides_on_title_gain = {
+	effect = {
+		if = {
+			limit = { has_title = title:k_east_francia }
+			title:k_east_francia = { oik_refresh_k_east_francia_title_override = yes }
+		}
+		if = {
+			limit = { has_title = title:k_france }
+			title:k_france = { oik_refresh_k_france_title_override = yes }
+		}
+		if = {
+			limit = { has_title = title:k_lotharingia }
+			title:k_lotharingia = { oik_refresh_k_lotharingia_title_override = yes }
+		}
+		if = {
+			limit = { has_title = title:d_northumberland }
+			title:d_northumberland = { oik_refresh_d_northumberland_title_override = yes }
+		}
+	}
+}
+
+oik_title_overrides_on_culture_change = {
+	effect = {
+		if = {
+			limit = { has_title = title:k_east_francia }
+			title:k_east_francia = { oik_refresh_k_east_francia_title_override = yes }
+		}
+		if = {
+			limit = { has_title = title:k_france }
+			title:k_france = { oik_refresh_k_france_title_override = yes }
+		}
+		if = {
+			limit = { has_title = title:k_lotharingia }
+			title:k_lotharingia = { oik_refresh_k_lotharingia_title_override = yes }
+		}
+		if = {
+			limit = { has_title = title:d_northumberland }
+			title:d_northumberland = { oik_refresh_d_northumberland_title_override = yes }
+		}
+	}
+}
+
+oik_title_overrides_yearly_safety = {
+	effect = {
+		# Four direct title scopes only. No character, vassal, realm or world scan.
+		oik_refresh_all_title_name_overrides = yes
+	}
+}
+

@@ -1,0 +1,8 @@
+﻿oik_special_title_names = {
+	categories = { flavor titles }
+	default = oik_special_names_interface
+
+	oik_special_names_interface = { }
+	oik_special_names_holder = { }
+	oik_special_names_foreign_rule = { }
+}
