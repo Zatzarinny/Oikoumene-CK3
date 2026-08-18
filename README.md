@@ -2,7 +2,7 @@
 
 Oikoumenē expands CK3's dynamic title names. The same county, duchy, kingdom or empire will now appear under different names. Each language in the mod is made for the ** whole playable map**  before I release it. Old Norse is not limited to Scandinavia, Persian to Iran, or Old English to Britain.
 
-**Current version:** v0.1 – “Alisaunder”
+**Current version:** v0.2 – “Orlando”
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3783694512) · [Latest release](https://github.com/Zatzarinny/Oikoumene-CK3/releases/latest) · [Support Oikoumenē](https://ko-fi.com/oikoumene)
 
