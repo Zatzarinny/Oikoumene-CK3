@@ -64,6 +64,12 @@ e_japan = {
 		name_list_norse = cn_oik_norse_e_japan
 		name_list_persian = cn_oik_persian_e_japan
 		name_list_roman = cn_oik_roman_e_japan
+	name_list_italian = cn_oik_italian_e_japan
+	name_list_cisalpine = cn_oik_cisalpine_e_japan
+	name_list_lombard = cn_oik_lombard_e_japan
+	name_list_sicilian = cn_oik_sicilian_e_japan
+	name_list_sardinian = cn_oik_sardinian_e_japan
+	name_list_vlach = cn_oik_vlach_e_japan
 	}
 
 k_yamato = {
@@ -95,6 +101,12 @@ k_yamato = {
 			name_list_norse = cn_oik_norse_k_yamato
 			name_list_persian = cn_oik_persian_k_yamato
 			name_list_roman = cn_oik_roman_k_yamato
+	name_list_italian = cn_oik_italian_k_yamato
+	name_list_cisalpine = cn_oik_cisalpine_k_yamato
+	name_list_lombard = cn_oik_lombard_k_yamato
+	name_list_sicilian = cn_oik_sicilian_k_yamato
+	name_list_sardinian = cn_oik_sardinian_k_yamato
+	name_list_vlach = cn_oik_vlach_k_yamato
 		}
 
 d_kinai = {
@@ -118,6 +130,12 @@ d_kinai = {
 				name_list_norse = cn_oik_norse_d_kinai
 				name_list_persian = cn_oik_persian_d_kinai
 				name_list_roman = cn_oik_roman_d_kinai
+	name_list_italian = cn_oik_italian_d_kinai
+	name_list_cisalpine = cn_oik_cisalpine_d_kinai
+	name_list_lombard = cn_oik_lombard_d_kinai
+	name_list_sicilian = cn_oik_sicilian_d_kinai
+	name_list_sardinian = cn_oik_sardinian_d_kinai
+	name_list_vlach = cn_oik_vlach_d_kinai
 			}
 
 c_yamashiro = {
@@ -135,6 +153,12 @@ c_yamashiro = {
 					name_list_norse = cn_oik_norse_c_yamashiro
 					name_list_persian = cn_oik_persian_c_yamashiro
 					name_list_roman = cn_oik_roman_c_yamashiro
+	name_list_italian = cn_oik_italian_c_yamashiro
+	name_list_cisalpine = cn_oik_cisalpine_c_yamashiro
+	name_list_lombard = cn_oik_lombard_c_yamashiro
+	name_list_sicilian = cn_oik_sicilian_c_yamashiro
+	name_list_sardinian = cn_oik_sardinian_c_yamashiro
+	name_list_vlach = cn_oik_vlach_c_yamashiro
 				}
 
 b_kyo = {
@@ -153,6 +177,12 @@ b_kyo = {
 						name_list_norse = cn_oik_norse_b_kyo
 						name_list_persian = cn_oik_persian_b_kyo
 						name_list_roman = cn_oik_roman_b_kyo
+	name_list_italian = cn_oik_italian_b_kyo
+	name_list_cisalpine = cn_oik_cisalpine_b_kyo
+	name_list_lombard = cn_oik_lombard_b_kyo
+	name_list_sicilian = cn_oik_sicilian_b_kyo
+	name_list_sardinian = cn_oik_sardinian_b_kyo
+	name_list_vlach = cn_oik_vlach_b_kyo
 					}
 
 }
@@ -172,6 +202,12 @@ b_kyo = {
 						name_list_norse = cn_oik_norse_b_uji
 						name_list_persian = cn_oik_persian_b_uji
 						name_list_roman = cn_oik_roman_b_uji
+	name_list_italian = cn_oik_italian_b_uji
+	name_list_cisalpine = cn_oik_cisalpine_b_uji
+	name_list_lombard = cn_oik_lombard_b_uji
+	name_list_sicilian = cn_oik_sicilian_b_uji
+	name_list_sardinian = cn_oik_sardinian_b_uji
+	name_list_vlach = cn_oik_vlach_b_uji
 					}
 
 }
@@ -192,6 +228,12 @@ b_kyo = {
 					name_list_norse = cn_oik_norse_c_settsu
 					name_list_persian = cn_oik_persian_c_settsu
 					name_list_roman = cn_oik_roman_c_settsu
+	name_list_italian = cn_oik_italian_c_settsu
+	name_list_cisalpine = cn_oik_cisalpine_c_settsu
+	name_list_lombard = cn_oik_lombard_c_settsu
+	name_list_sicilian = cn_oik_sicilian_c_settsu
+	name_list_sardinian = cn_oik_sardinian_c_settsu
+	name_list_vlach = cn_oik_vlach_c_settsu
 				}
 
 b_fukuhara = {
@@ -210,6 +252,12 @@ b_fukuhara = {
 						name_list_norse = cn_oik_norse_b_fukuhara
 						name_list_persian = cn_oik_persian_b_fukuhara
 						name_list_roman = cn_oik_roman_b_fukuhara
+	name_list_italian = cn_oik_italian_b_fukuhara
+	name_list_cisalpine = cn_oik_cisalpine_b_fukuhara
+	name_list_lombard = cn_oik_lombard_b_fukuhara
+	name_list_sicilian = cn_oik_sicilian_b_fukuhara
+	name_list_sardinian = cn_oik_sardinian_b_fukuhara
+	name_list_vlach = cn_oik_vlach_b_fukuhara
 					}
 
 }
@@ -229,6 +277,12 @@ b_fukuhara = {
 						name_list_norse = cn_oik_norse_b_watanabe
 						name_list_persian = cn_oik_persian_b_watanabe
 						name_list_roman = cn_oik_roman_b_watanabe
+	name_list_italian = cn_oik_italian_b_watanabe
+	name_list_cisalpine = cn_oik_cisalpine_b_watanabe
+	name_list_lombard = cn_oik_lombard_b_watanabe
+	name_list_sicilian = cn_oik_sicilian_b_watanabe
+	name_list_sardinian = cn_oik_sardinian_b_watanabe
+	name_list_vlach = cn_oik_vlach_b_watanabe
 					}
 
 }
@@ -248,6 +302,12 @@ b_fukuhara = {
 						name_list_norse = cn_oik_norse_b_nose
 						name_list_persian = cn_oik_persian_b_nose
 						name_list_roman = cn_oik_roman_b_nose
+	name_list_italian = cn_oik_italian_b_nose
+	name_list_cisalpine = cn_oik_cisalpine_b_nose
+	name_list_lombard = cn_oik_lombard_b_nose
+	name_list_sicilian = cn_oik_sicilian_b_nose
+	name_list_sardinian = cn_oik_sardinian_b_nose
+	name_list_vlach = cn_oik_vlach_b_nose
 					}
 
 }
@@ -268,6 +328,12 @@ b_fukuhara = {
 					name_list_norse = cn_oik_norse_c_yamato
 					name_list_persian = cn_oik_persian_c_yamato
 					name_list_roman = cn_oik_roman_c_yamato
+	name_list_italian = cn_oik_italian_c_yamato
+	name_list_cisalpine = cn_oik_cisalpine_c_yamato
+	name_list_lombard = cn_oik_lombard_c_yamato
+	name_list_sicilian = cn_oik_sicilian_c_yamato
+	name_list_sardinian = cn_oik_sardinian_c_yamato
+	name_list_vlach = cn_oik_vlach_c_yamato
 				}
 
 b_yoshino = {
@@ -286,6 +352,12 @@ b_yoshino = {
 						name_list_norse = cn_oik_norse_b_yoshino
 						name_list_persian = cn_oik_persian_b_yoshino
 						name_list_roman = cn_oik_roman_b_yoshino
+	name_list_italian = cn_oik_italian_b_yoshino
+	name_list_cisalpine = cn_oik_cisalpine_b_yoshino
+	name_list_lombard = cn_oik_lombard_b_yoshino
+	name_list_sicilian = cn_oik_sicilian_b_yoshino
+	name_list_sardinian = cn_oik_sardinian_b_yoshino
+	name_list_vlach = cn_oik_vlach_b_yoshino
 					}
 
 }
@@ -305,6 +377,12 @@ b_yoshino = {
 						name_list_norse = cn_oik_norse_b_kofuku_ji
 						name_list_persian = cn_oik_persian_b_kofuku_ji
 						name_list_roman = cn_oik_roman_b_kofuku_ji
+	name_list_italian = cn_oik_italian_b_kofuku_ji
+	name_list_cisalpine = cn_oik_cisalpine_b_kofuku_ji
+	name_list_lombard = cn_oik_lombard_b_kofuku_ji
+	name_list_sicilian = cn_oik_sicilian_b_kofuku_ji
+	name_list_sardinian = cn_oik_sardinian_b_kofuku_ji
+	name_list_vlach = cn_oik_vlach_b_kofuku_ji
 					}
 
 }
@@ -324,6 +402,12 @@ b_yoshino = {
 						name_list_norse = cn_oik_norse_b_omine
 						name_list_persian = cn_oik_persian_b_omine
 						name_list_roman = cn_oik_roman_b_omine
+	name_list_italian = cn_oik_italian_b_omine
+	name_list_cisalpine = cn_oik_cisalpine_b_omine
+	name_list_lombard = cn_oik_lombard_b_omine
+	name_list_sicilian = cn_oik_sicilian_b_omine
+	name_list_sardinian = cn_oik_sardinian_b_omine
+	name_list_vlach = cn_oik_vlach_b_omine
 					}
 
 }
@@ -343,6 +427,12 @@ b_yoshino = {
 						name_list_norse = cn_oik_norse_b_totsukawa
 						name_list_persian = cn_oik_persian_b_totsukawa
 						name_list_roman = cn_oik_roman_b_totsukawa
+	name_list_italian = cn_oik_italian_b_totsukawa
+	name_list_cisalpine = cn_oik_cisalpine_b_totsukawa
+	name_list_lombard = cn_oik_lombard_b_totsukawa
+	name_list_sicilian = cn_oik_sicilian_b_totsukawa
+	name_list_sardinian = cn_oik_sardinian_b_totsukawa
+	name_list_vlach = cn_oik_vlach_b_totsukawa
 					}
 
 }
@@ -363,6 +453,12 @@ b_yoshino = {
 					name_list_norse = cn_oik_norse_c_kawachi
 					name_list_persian = cn_oik_persian_c_kawachi
 					name_list_roman = cn_oik_roman_c_kawachi
+	name_list_italian = cn_oik_italian_c_kawachi
+	name_list_cisalpine = cn_oik_cisalpine_c_kawachi
+	name_list_lombard = cn_oik_lombard_c_kawachi
+	name_list_sicilian = cn_oik_sicilian_c_kawachi
+	name_list_sardinian = cn_oik_sardinian_c_kawachi
+	name_list_vlach = cn_oik_vlach_c_kawachi
 				}
 
 b_kawachi = {
@@ -381,6 +477,12 @@ b_kawachi = {
 						name_list_norse = cn_oik_norse_b_kawachi
 						name_list_persian = cn_oik_persian_b_kawachi
 						name_list_roman = cn_oik_roman_b_kawachi
+	name_list_italian = cn_oik_italian_b_kawachi
+	name_list_cisalpine = cn_oik_cisalpine_b_kawachi
+	name_list_lombard = cn_oik_lombard_b_kawachi
+	name_list_sicilian = cn_oik_sicilian_b_kawachi
+	name_list_sardinian = cn_oik_sardinian_b_kawachi
+	name_list_vlach = cn_oik_vlach_b_kawachi
 					}
 
 }
@@ -400,6 +502,12 @@ b_kawachi = {
 						name_list_norse = cn_oik_norse_b_otori
 						name_list_persian = cn_oik_persian_b_otori
 						name_list_roman = cn_oik_roman_b_otori
+	name_list_italian = cn_oik_italian_b_otori
+	name_list_cisalpine = cn_oik_cisalpine_b_otori
+	name_list_lombard = cn_oik_lombard_b_otori
+	name_list_sicilian = cn_oik_sicilian_b_otori
+	name_list_sardinian = cn_oik_sardinian_b_otori
+	name_list_vlach = cn_oik_vlach_b_otori
 					}
 
 }
@@ -419,6 +527,12 @@ b_kawachi = {
 						name_list_norse = cn_oik_norse_b_izumi
 						name_list_persian = cn_oik_persian_b_izumi
 						name_list_roman = cn_oik_roman_b_izumi
+	name_list_italian = cn_oik_italian_b_izumi
+	name_list_cisalpine = cn_oik_cisalpine_b_izumi
+	name_list_lombard = cn_oik_lombard_b_izumi
+	name_list_sicilian = cn_oik_sicilian_b_izumi
+	name_list_sardinian = cn_oik_sardinian_b_izumi
+	name_list_vlach = cn_oik_vlach_b_izumi
 					}
 
 }
@@ -446,6 +560,12 @@ b_kawachi = {
 				name_list_norse = cn_oik_norse_d_nankaido
 				name_list_persian = cn_oik_persian_d_nankaido
 				name_list_roman = cn_oik_roman_d_nankaido
+	name_list_italian = cn_oik_italian_d_nankaido
+	name_list_cisalpine = cn_oik_cisalpine_d_nankaido
+	name_list_lombard = cn_oik_lombard_d_nankaido
+	name_list_sicilian = cn_oik_sicilian_d_nankaido
+	name_list_sardinian = cn_oik_sardinian_d_nankaido
+	name_list_vlach = cn_oik_vlach_d_nankaido
 			}
 
 c_iyo = {
@@ -463,6 +583,12 @@ c_iyo = {
 					name_list_norse = cn_oik_norse_c_iyo
 					name_list_persian = cn_oik_persian_c_iyo
 					name_list_roman = cn_oik_roman_c_iyo
+	name_list_italian = cn_oik_italian_c_iyo
+	name_list_cisalpine = cn_oik_cisalpine_c_iyo
+	name_list_lombard = cn_oik_lombard_c_iyo
+	name_list_sicilian = cn_oik_sicilian_c_iyo
+	name_list_sardinian = cn_oik_sardinian_c_iyo
+	name_list_vlach = cn_oik_vlach_c_iyo
 				}
 
 b_iyo = {
@@ -481,6 +607,12 @@ b_iyo = {
 						name_list_norse = cn_oik_norse_b_iyo
 						name_list_persian = cn_oik_persian_b_iyo
 						name_list_roman = cn_oik_roman_b_iyo
+	name_list_italian = cn_oik_italian_b_iyo
+	name_list_cisalpine = cn_oik_cisalpine_b_iyo
+	name_list_lombard = cn_oik_lombard_b_iyo
+	name_list_sicilian = cn_oik_sicilian_b_iyo
+	name_list_sardinian = cn_oik_sardinian_b_iyo
+	name_list_vlach = cn_oik_vlach_b_iyo
 					}
 
 }
@@ -500,6 +632,12 @@ b_iyo = {
 						name_list_norse = cn_oik_norse_b_ishizuchi
 						name_list_persian = cn_oik_persian_b_ishizuchi
 						name_list_roman = cn_oik_roman_b_ishizuchi
+	name_list_italian = cn_oik_italian_b_ishizuchi
+	name_list_cisalpine = cn_oik_cisalpine_b_ishizuchi
+	name_list_lombard = cn_oik_lombard_b_ishizuchi
+	name_list_sicilian = cn_oik_sicilian_b_ishizuchi
+	name_list_sardinian = cn_oik_sardinian_b_ishizuchi
+	name_list_vlach = cn_oik_vlach_b_ishizuchi
 					}
 
 }
@@ -519,6 +657,12 @@ b_iyo = {
 						name_list_norse = cn_oik_norse_b_uma
 						name_list_persian = cn_oik_persian_b_uma
 						name_list_roman = cn_oik_roman_b_uma
+	name_list_italian = cn_oik_italian_b_uma
+	name_list_cisalpine = cn_oik_cisalpine_b_uma
+	name_list_lombard = cn_oik_lombard_b_uma
+	name_list_sicilian = cn_oik_sicilian_b_uma
+	name_list_sardinian = cn_oik_sardinian_b_uma
+	name_list_vlach = cn_oik_vlach_b_uma
 					}
 
 }
@@ -538,6 +682,12 @@ b_iyo = {
 						name_list_norse = cn_oik_norse_b_kita_iyo
 						name_list_persian = cn_oik_persian_b_kita_iyo
 						name_list_roman = cn_oik_roman_b_kita_iyo
+	name_list_italian = cn_oik_italian_b_kita_iyo
+	name_list_cisalpine = cn_oik_cisalpine_b_kita_iyo
+	name_list_lombard = cn_oik_lombard_b_kita_iyo
+	name_list_sicilian = cn_oik_sicilian_b_kita_iyo
+	name_list_sardinian = cn_oik_sardinian_b_kita_iyo
+	name_list_vlach = cn_oik_vlach_b_kita_iyo
 					}
 
 }
@@ -557,6 +707,12 @@ b_iyo = {
 						name_list_norse = cn_oik_norse_b_uwa
 						name_list_persian = cn_oik_persian_b_uwa
 						name_list_roman = cn_oik_roman_b_uwa
+	name_list_italian = cn_oik_italian_b_uwa
+	name_list_cisalpine = cn_oik_cisalpine_b_uwa
+	name_list_lombard = cn_oik_lombard_b_uwa
+	name_list_sicilian = cn_oik_sicilian_b_uwa
+	name_list_sardinian = cn_oik_sardinian_b_uwa
+	name_list_vlach = cn_oik_vlach_b_uwa
 					}
 
 }
@@ -577,6 +733,12 @@ b_iyo = {
 					name_list_norse = cn_oik_norse_c_awa
 					name_list_persian = cn_oik_persian_c_awa
 					name_list_roman = cn_oik_roman_c_awa
+	name_list_italian = cn_oik_italian_c_awa
+	name_list_cisalpine = cn_oik_cisalpine_c_awa
+	name_list_lombard = cn_oik_lombard_c_awa
+	name_list_sicilian = cn_oik_sicilian_c_awa
+	name_list_sardinian = cn_oik_sardinian_c_awa
+	name_list_vlach = cn_oik_vlach_c_awa
 				}
 
 b_nakata = {
@@ -595,6 +757,12 @@ b_nakata = {
 						name_list_norse = cn_oik_norse_b_nakata
 						name_list_persian = cn_oik_persian_b_nakata
 						name_list_roman = cn_oik_roman_b_nakata
+	name_list_italian = cn_oik_italian_b_nakata
+	name_list_cisalpine = cn_oik_cisalpine_b_nakata
+	name_list_lombard = cn_oik_lombard_b_nakata
+	name_list_sicilian = cn_oik_sicilian_b_nakata
+	name_list_sardinian = cn_oik_sardinian_b_nakata
+	name_list_vlach = cn_oik_vlach_b_nakata
 					}
 
 }
@@ -614,6 +782,12 @@ b_nakata = {
 						name_list_norse = cn_oik_norse_b_tsurugi
 						name_list_persian = cn_oik_persian_b_tsurugi
 						name_list_roman = cn_oik_roman_b_tsurugi
+	name_list_italian = cn_oik_italian_b_tsurugi
+	name_list_cisalpine = cn_oik_cisalpine_b_tsurugi
+	name_list_lombard = cn_oik_lombard_b_tsurugi
+	name_list_sicilian = cn_oik_sicilian_b_tsurugi
+	name_list_sardinian = cn_oik_sardinian_b_tsurugi
+	name_list_vlach = cn_oik_vlach_b_tsurugi
 					}
 
 }
@@ -633,6 +807,12 @@ b_nakata = {
 						name_list_norse = cn_oik_norse_b_kaifu
 						name_list_persian = cn_oik_persian_b_kaifu
 						name_list_roman = cn_oik_roman_b_kaifu
+	name_list_italian = cn_oik_italian_b_kaifu
+	name_list_cisalpine = cn_oik_cisalpine_b_kaifu
+	name_list_lombard = cn_oik_lombard_b_kaifu
+	name_list_sicilian = cn_oik_sicilian_b_kaifu
+	name_list_sardinian = cn_oik_sardinian_b_kaifu
+	name_list_vlach = cn_oik_vlach_b_kaifu
 					}
 
 }
@@ -652,6 +832,12 @@ b_nakata = {
 						name_list_norse = cn_oik_norse_b_naka_awa
 						name_list_persian = cn_oik_persian_b_naka_awa
 						name_list_roman = cn_oik_roman_b_naka_awa
+	name_list_italian = cn_oik_italian_b_naka_awa
+	name_list_cisalpine = cn_oik_cisalpine_b_naka_awa
+	name_list_lombard = cn_oik_lombard_b_naka_awa
+	name_list_sicilian = cn_oik_sicilian_b_naka_awa
+	name_list_sardinian = cn_oik_sardinian_b_naka_awa
+	name_list_vlach = cn_oik_vlach_b_naka_awa
 					}
 
 }
@@ -672,6 +858,12 @@ b_nakata = {
 					name_list_norse = cn_oik_norse_c_sanuki
 					name_list_persian = cn_oik_persian_c_sanuki
 					name_list_roman = cn_oik_roman_c_sanuki
+	name_list_italian = cn_oik_italian_c_sanuki
+	name_list_cisalpine = cn_oik_cisalpine_c_sanuki
+	name_list_lombard = cn_oik_lombard_c_sanuki
+	name_list_sicilian = cn_oik_sicilian_c_sanuki
+	name_list_sardinian = cn_oik_sardinian_c_sanuki
+	name_list_vlach = cn_oik_vlach_c_sanuki
 				}
 
 b_yashima = {
@@ -690,6 +882,12 @@ b_yashima = {
 						name_list_norse = cn_oik_norse_b_yashima
 						name_list_persian = cn_oik_persian_b_yashima
 						name_list_roman = cn_oik_roman_b_yashima
+	name_list_italian = cn_oik_italian_b_yashima
+	name_list_cisalpine = cn_oik_cisalpine_b_yashima
+	name_list_lombard = cn_oik_lombard_b_yashima
+	name_list_sicilian = cn_oik_sicilian_b_yashima
+	name_list_sardinian = cn_oik_sardinian_b_yashima
+	name_list_vlach = cn_oik_vlach_b_yashima
 					}
 
 }
@@ -709,6 +907,12 @@ b_yashima = {
 						name_list_norse = cn_oik_norse_b_kotohira
 						name_list_persian = cn_oik_persian_b_kotohira
 						name_list_roman = cn_oik_roman_b_kotohira
+	name_list_italian = cn_oik_italian_b_kotohira
+	name_list_cisalpine = cn_oik_cisalpine_b_kotohira
+	name_list_lombard = cn_oik_lombard_b_kotohira
+	name_list_sicilian = cn_oik_sicilian_b_kotohira
+	name_list_sardinian = cn_oik_sardinian_b_kotohira
+	name_list_vlach = cn_oik_vlach_b_kotohira
 					}
 
 }
@@ -728,6 +932,12 @@ b_yashima = {
 						name_list_norse = cn_oik_norse_b_sangawa
 						name_list_persian = cn_oik_persian_b_sangawa
 						name_list_roman = cn_oik_roman_b_sangawa
+	name_list_italian = cn_oik_italian_b_sangawa
+	name_list_cisalpine = cn_oik_cisalpine_b_sangawa
+	name_list_lombard = cn_oik_lombard_b_sangawa
+	name_list_sicilian = cn_oik_sicilian_b_sangawa
+	name_list_sardinian = cn_oik_sardinian_b_sangawa
+	name_list_vlach = cn_oik_vlach_b_sangawa
 					}
 
 }
@@ -748,6 +958,12 @@ b_yashima = {
 					name_list_norse = cn_oik_norse_c_tosa
 					name_list_persian = cn_oik_persian_c_tosa
 					name_list_roman = cn_oik_roman_c_tosa
+	name_list_italian = cn_oik_italian_c_tosa
+	name_list_cisalpine = cn_oik_cisalpine_c_tosa
+	name_list_lombard = cn_oik_lombard_c_tosa
+	name_list_sicilian = cn_oik_sicilian_c_tosa
+	name_list_sardinian = cn_oik_sardinian_c_tosa
+	name_list_vlach = cn_oik_vlach_c_tosa
 				}
 
 b_nagaoka = {
@@ -766,6 +982,12 @@ b_nagaoka = {
 						name_list_norse = cn_oik_norse_b_nagaoka
 						name_list_persian = cn_oik_persian_b_nagaoka
 						name_list_roman = cn_oik_roman_b_nagaoka
+	name_list_italian = cn_oik_italian_b_nagaoka
+	name_list_cisalpine = cn_oik_cisalpine_b_nagaoka
+	name_list_lombard = cn_oik_lombard_b_nagaoka
+	name_list_sicilian = cn_oik_sicilian_b_nagaoka
+	name_list_sardinian = cn_oik_sardinian_b_nagaoka
+	name_list_vlach = cn_oik_vlach_b_nagaoka
 					}
 
 }
@@ -785,6 +1007,12 @@ b_nagaoka = {
 						name_list_norse = cn_oik_norse_b_kami
 						name_list_persian = cn_oik_persian_b_kami
 						name_list_roman = cn_oik_roman_b_kami
+	name_list_italian = cn_oik_italian_b_kami
+	name_list_cisalpine = cn_oik_cisalpine_b_kami
+	name_list_lombard = cn_oik_lombard_b_kami
+	name_list_sicilian = cn_oik_sicilian_b_kami
+	name_list_sardinian = cn_oik_sardinian_b_kami
+	name_list_vlach = cn_oik_vlach_b_kami
 					}
 
 }
@@ -804,6 +1032,12 @@ b_nagaoka = {
 						name_list_norse = cn_oik_norse_b_aki
 						name_list_persian = cn_oik_persian_b_aki
 						name_list_roman = cn_oik_roman_b_aki
+	name_list_italian = cn_oik_italian_b_aki
+	name_list_cisalpine = cn_oik_cisalpine_b_aki
+	name_list_lombard = cn_oik_lombard_b_aki
+	name_list_sicilian = cn_oik_sicilian_b_aki
+	name_list_sardinian = cn_oik_sardinian_b_aki
+	name_list_vlach = cn_oik_vlach_b_aki
 					}
 
 }
@@ -823,6 +1057,12 @@ b_nagaoka = {
 						name_list_norse = cn_oik_norse_b_takaoka
 						name_list_persian = cn_oik_persian_b_takaoka
 						name_list_roman = cn_oik_roman_b_takaoka
+	name_list_italian = cn_oik_italian_b_takaoka
+	name_list_cisalpine = cn_oik_cisalpine_b_takaoka
+	name_list_lombard = cn_oik_lombard_b_takaoka
+	name_list_sicilian = cn_oik_sicilian_b_takaoka
+	name_list_sardinian = cn_oik_sardinian_b_takaoka
+	name_list_vlach = cn_oik_vlach_b_takaoka
 					}
 
 }
@@ -842,6 +1082,12 @@ b_nagaoka = {
 						name_list_norse = cn_oik_norse_b_hata
 						name_list_persian = cn_oik_persian_b_hata
 						name_list_roman = cn_oik_roman_b_hata
+	name_list_italian = cn_oik_italian_b_hata
+	name_list_cisalpine = cn_oik_cisalpine_b_hata
+	name_list_lombard = cn_oik_lombard_b_hata
+	name_list_sicilian = cn_oik_sicilian_b_hata
+	name_list_sardinian = cn_oik_sardinian_b_hata
+	name_list_vlach = cn_oik_vlach_b_hata
 					}
 
 }
@@ -862,6 +1108,12 @@ b_nagaoka = {
 					name_list_norse = cn_oik_norse_c_kii
 					name_list_persian = cn_oik_persian_c_kii
 					name_list_roman = cn_oik_roman_c_kii
+	name_list_italian = cn_oik_italian_c_kii
+	name_list_cisalpine = cn_oik_cisalpine_c_kii
+	name_list_lombard = cn_oik_lombard_c_kii
+	name_list_sicilian = cn_oik_sicilian_c_kii
+	name_list_sardinian = cn_oik_sardinian_c_kii
+	name_list_vlach = cn_oik_vlach_c_kii
 				}
 
 b_nagusa = {
@@ -880,6 +1132,12 @@ b_nagusa = {
 						name_list_norse = cn_oik_norse_b_nagusa
 						name_list_persian = cn_oik_persian_b_nagusa
 						name_list_roman = cn_oik_roman_b_nagusa
+	name_list_italian = cn_oik_italian_b_nagusa
+	name_list_cisalpine = cn_oik_cisalpine_b_nagusa
+	name_list_lombard = cn_oik_lombard_b_nagusa
+	name_list_sicilian = cn_oik_sicilian_b_nagusa
+	name_list_sardinian = cn_oik_sardinian_b_nagusa
+	name_list_vlach = cn_oik_vlach_b_nagusa
 					}
 
 }
@@ -899,6 +1157,12 @@ b_nagusa = {
 						name_list_norse = cn_oik_norse_b_kongobu_ji
 						name_list_persian = cn_oik_persian_b_kongobu_ji
 						name_list_roman = cn_oik_roman_b_kongobu_ji
+	name_list_italian = cn_oik_italian_b_kongobu_ji
+	name_list_cisalpine = cn_oik_cisalpine_b_kongobu_ji
+	name_list_lombard = cn_oik_lombard_b_kongobu_ji
+	name_list_sicilian = cn_oik_sicilian_b_kongobu_ji
+	name_list_sardinian = cn_oik_sardinian_b_kongobu_ji
+	name_list_vlach = cn_oik_vlach_b_kongobu_ji
 					}
 
 }
@@ -918,6 +1182,12 @@ b_nagusa = {
 						name_list_norse = cn_oik_norse_b_hidaka
 						name_list_persian = cn_oik_persian_b_hidaka
 						name_list_roman = cn_oik_roman_b_hidaka
+	name_list_italian = cn_oik_italian_b_hidaka
+	name_list_cisalpine = cn_oik_cisalpine_b_hidaka
+	name_list_lombard = cn_oik_lombard_b_hidaka
+	name_list_sicilian = cn_oik_sicilian_b_hidaka
+	name_list_sardinian = cn_oik_sardinian_b_hidaka
+	name_list_vlach = cn_oik_vlach_b_hidaka
 					}
 
 }
@@ -937,6 +1207,12 @@ b_nagusa = {
 						name_list_norse = cn_oik_norse_b_muro
 						name_list_persian = cn_oik_persian_b_muro
 						name_list_roman = cn_oik_roman_b_muro
+	name_list_italian = cn_oik_italian_b_muro
+	name_list_cisalpine = cn_oik_cisalpine_b_muro
+	name_list_lombard = cn_oik_lombard_b_muro
+	name_list_sicilian = cn_oik_sicilian_b_muro
+	name_list_sardinian = cn_oik_sardinian_b_muro
+	name_list_vlach = cn_oik_vlach_b_muro
 					}
 
 }
@@ -956,6 +1232,12 @@ b_nagusa = {
 						name_list_norse = cn_oik_norse_b_kumano
 						name_list_persian = cn_oik_persian_b_kumano
 						name_list_roman = cn_oik_roman_b_kumano
+	name_list_italian = cn_oik_italian_b_kumano
+	name_list_cisalpine = cn_oik_cisalpine_b_kumano
+	name_list_lombard = cn_oik_lombard_b_kumano
+	name_list_sicilian = cn_oik_sicilian_b_kumano
+	name_list_sardinian = cn_oik_sardinian_b_kumano
+	name_list_vlach = cn_oik_vlach_b_kumano
 					}
 
 }
@@ -976,6 +1258,12 @@ b_nagusa = {
 					name_list_norse = cn_oik_norse_c_awaji
 					name_list_persian = cn_oik_persian_c_awaji
 					name_list_roman = cn_oik_roman_c_awaji
+	name_list_italian = cn_oik_italian_c_awaji
+	name_list_cisalpine = cn_oik_cisalpine_c_awaji
+	name_list_lombard = cn_oik_lombard_c_awaji
+	name_list_sicilian = cn_oik_sicilian_c_awaji
+	name_list_sardinian = cn_oik_sardinian_c_awaji
+	name_list_vlach = cn_oik_vlach_c_awaji
 				}
 
 b_awaji = {
@@ -994,6 +1282,12 @@ b_awaji = {
 						name_list_norse = cn_oik_norse_b_awaji
 						name_list_persian = cn_oik_persian_b_awaji
 						name_list_roman = cn_oik_roman_b_awaji
+	name_list_italian = cn_oik_italian_b_awaji
+	name_list_cisalpine = cn_oik_cisalpine_b_awaji
+	name_list_lombard = cn_oik_lombard_b_awaji
+	name_list_sicilian = cn_oik_sicilian_b_awaji
+	name_list_sardinian = cn_oik_sardinian_b_awaji
+	name_list_vlach = cn_oik_vlach_b_awaji
 					}
 
 }
@@ -1021,6 +1315,12 @@ b_awaji = {
 				name_list_norse = cn_oik_norse_d_east_sanindo
 				name_list_persian = cn_oik_persian_d_east_sanindo
 				name_list_roman = cn_oik_roman_d_east_sanindo
+	name_list_italian = cn_oik_italian_d_east_sanindo
+	name_list_cisalpine = cn_oik_cisalpine_d_east_sanindo
+	name_list_lombard = cn_oik_lombard_d_east_sanindo
+	name_list_sicilian = cn_oik_sicilian_d_east_sanindo
+	name_list_sardinian = cn_oik_sardinian_d_east_sanindo
+	name_list_vlach = cn_oik_vlach_d_east_sanindo
 			}
 
 c_tanba = {
@@ -1038,6 +1338,12 @@ c_tanba = {
 					name_list_norse = cn_oik_norse_c_tanba
 					name_list_persian = cn_oik_persian_c_tanba
 					name_list_roman = cn_oik_roman_c_tanba
+	name_list_italian = cn_oik_italian_c_tanba
+	name_list_cisalpine = cn_oik_cisalpine_c_tanba
+	name_list_lombard = cn_oik_lombard_c_tanba
+	name_list_sicilian = cn_oik_sicilian_c_tanba
+	name_list_sardinian = cn_oik_sardinian_c_tanba
+	name_list_vlach = cn_oik_vlach_c_tanba
 				}
 
 b_kuwada = {
@@ -1056,6 +1362,12 @@ b_kuwada = {
 						name_list_norse = cn_oik_norse_b_kuwada
 						name_list_persian = cn_oik_persian_b_kuwada
 						name_list_roman = cn_oik_roman_b_kuwada
+	name_list_italian = cn_oik_italian_b_kuwada
+	name_list_cisalpine = cn_oik_cisalpine_b_kuwada
+	name_list_lombard = cn_oik_lombard_b_kuwada
+	name_list_sicilian = cn_oik_sicilian_b_kuwada
+	name_list_sardinian = cn_oik_sardinian_b_kuwada
+	name_list_vlach = cn_oik_vlach_b_kuwada
 					}
 
 }
@@ -1075,6 +1387,12 @@ b_kuwada = {
 						name_list_norse = cn_oik_norse_b_funai
 						name_list_persian = cn_oik_persian_b_funai
 						name_list_roman = cn_oik_roman_b_funai
+	name_list_italian = cn_oik_italian_b_funai
+	name_list_cisalpine = cn_oik_cisalpine_b_funai
+	name_list_lombard = cn_oik_lombard_b_funai
+	name_list_sicilian = cn_oik_sicilian_b_funai
+	name_list_sardinian = cn_oik_sardinian_b_funai
+	name_list_vlach = cn_oik_vlach_b_funai
 					}
 
 }
@@ -1094,6 +1412,12 @@ b_kuwada = {
 						name_list_norse = cn_oik_norse_b_hikami
 						name_list_persian = cn_oik_persian_b_hikami
 						name_list_roman = cn_oik_roman_b_hikami
+	name_list_italian = cn_oik_italian_b_hikami
+	name_list_cisalpine = cn_oik_cisalpine_b_hikami
+	name_list_lombard = cn_oik_lombard_b_hikami
+	name_list_sicilian = cn_oik_sicilian_b_hikami
+	name_list_sardinian = cn_oik_sardinian_b_hikami
+	name_list_vlach = cn_oik_vlach_b_hikami
 					}
 
 }
@@ -1114,6 +1438,12 @@ b_kuwada = {
 					name_list_norse = cn_oik_norse_c_tajima
 					name_list_persian = cn_oik_persian_c_tajima
 					name_list_roman = cn_oik_roman_c_tajima
+	name_list_italian = cn_oik_italian_c_tajima
+	name_list_cisalpine = cn_oik_cisalpine_c_tajima
+	name_list_lombard = cn_oik_lombard_c_tajima
+	name_list_sicilian = cn_oik_sicilian_c_tajima
+	name_list_sardinian = cn_oik_sardinian_c_tajima
+	name_list_vlach = cn_oik_vlach_c_tajima
 				}
 
 b_keta_tajima = {
@@ -1132,6 +1462,12 @@ b_keta_tajima = {
 						name_list_norse = cn_oik_norse_b_keta_tajima
 						name_list_persian = cn_oik_persian_b_keta_tajima
 						name_list_roman = cn_oik_roman_b_keta_tajima
+	name_list_italian = cn_oik_italian_b_keta_tajima
+	name_list_cisalpine = cn_oik_cisalpine_b_keta_tajima
+	name_list_lombard = cn_oik_lombard_b_keta_tajima
+	name_list_sicilian = cn_oik_sicilian_b_keta_tajima
+	name_list_sardinian = cn_oik_sardinian_b_keta_tajima
+	name_list_vlach = cn_oik_vlach_b_keta_tajima
 					}
 
 }
@@ -1151,6 +1487,12 @@ b_keta_tajima = {
 						name_list_norse = cn_oik_norse_b_kinosaki
 						name_list_persian = cn_oik_persian_b_kinosaki
 						name_list_roman = cn_oik_roman_b_kinosaki
+	name_list_italian = cn_oik_italian_b_kinosaki
+	name_list_cisalpine = cn_oik_cisalpine_b_kinosaki
+	name_list_lombard = cn_oik_lombard_b_kinosaki
+	name_list_sicilian = cn_oik_sicilian_b_kinosaki
+	name_list_sardinian = cn_oik_sardinian_b_kinosaki
+	name_list_vlach = cn_oik_vlach_b_kinosaki
 					}
 
 }
@@ -1170,6 +1512,12 @@ b_keta_tajima = {
 						name_list_norse = cn_oik_norse_b_asago
 						name_list_persian = cn_oik_persian_b_asago
 						name_list_roman = cn_oik_roman_b_asago
+	name_list_italian = cn_oik_italian_b_asago
+	name_list_cisalpine = cn_oik_cisalpine_b_asago
+	name_list_lombard = cn_oik_lombard_b_asago
+	name_list_sicilian = cn_oik_sicilian_b_asago
+	name_list_sardinian = cn_oik_sardinian_b_asago
+	name_list_vlach = cn_oik_vlach_b_asago
 					}
 
 }
@@ -1190,6 +1538,12 @@ b_keta_tajima = {
 					name_list_norse = cn_oik_norse_c_inaba
 					name_list_persian = cn_oik_persian_c_inaba
 					name_list_roman = cn_oik_roman_c_inaba
+	name_list_italian = cn_oik_italian_c_inaba
+	name_list_cisalpine = cn_oik_cisalpine_c_inaba
+	name_list_lombard = cn_oik_lombard_c_inaba
+	name_list_sicilian = cn_oik_sicilian_c_inaba
+	name_list_sardinian = cn_oik_sardinian_c_inaba
+	name_list_vlach = cn_oik_vlach_c_inaba
 				}
 
 b_homi = {
@@ -1208,6 +1562,12 @@ b_homi = {
 						name_list_norse = cn_oik_norse_b_homi
 						name_list_persian = cn_oik_persian_b_homi
 						name_list_roman = cn_oik_roman_b_homi
+	name_list_italian = cn_oik_italian_b_homi
+	name_list_cisalpine = cn_oik_cisalpine_b_homi
+	name_list_lombard = cn_oik_lombard_b_homi
+	name_list_sicilian = cn_oik_sicilian_b_homi
+	name_list_sardinian = cn_oik_sardinian_b_homi
+	name_list_vlach = cn_oik_vlach_b_homi
 					}
 
 }
@@ -1227,6 +1587,12 @@ b_homi = {
 						name_list_norse = cn_oik_norse_b_yakami
 						name_list_persian = cn_oik_persian_b_yakami
 						name_list_roman = cn_oik_roman_b_yakami
+	name_list_italian = cn_oik_italian_b_yakami
+	name_list_cisalpine = cn_oik_cisalpine_b_yakami
+	name_list_lombard = cn_oik_lombard_b_yakami
+	name_list_sicilian = cn_oik_sicilian_b_yakami
+	name_list_sardinian = cn_oik_sardinian_b_yakami
+	name_list_vlach = cn_oik_vlach_b_yakami
 					}
 
 }
@@ -1246,6 +1612,12 @@ b_homi = {
 						name_list_norse = cn_oik_norse_b_takakusa
 						name_list_persian = cn_oik_persian_b_takakusa
 						name_list_roman = cn_oik_roman_b_takakusa
+	name_list_italian = cn_oik_italian_b_takakusa
+	name_list_cisalpine = cn_oik_cisalpine_b_takakusa
+	name_list_lombard = cn_oik_lombard_b_takakusa
+	name_list_sicilian = cn_oik_sicilian_b_takakusa
+	name_list_sardinian = cn_oik_sardinian_b_takakusa
+	name_list_vlach = cn_oik_vlach_b_takakusa
 					}
 
 }
@@ -1266,6 +1638,12 @@ b_homi = {
 					name_list_norse = cn_oik_norse_c_tango
 					name_list_persian = cn_oik_persian_c_tango
 					name_list_roman = cn_oik_roman_c_tango
+	name_list_italian = cn_oik_italian_c_tango
+	name_list_cisalpine = cn_oik_cisalpine_c_tango
+	name_list_lombard = cn_oik_lombard_c_tango
+	name_list_sicilian = cn_oik_sicilian_c_tango
+	name_list_sardinian = cn_oik_sardinian_c_tango
+	name_list_vlach = cn_oik_vlach_c_tango
 				}
 
 b_kumano_tango = {
@@ -1284,6 +1662,12 @@ b_kumano_tango = {
 						name_list_norse = cn_oik_norse_b_kumano_tango
 						name_list_persian = cn_oik_persian_b_kumano_tango
 						name_list_roman = cn_oik_roman_b_kumano_tango
+	name_list_italian = cn_oik_italian_b_kumano_tango
+	name_list_cisalpine = cn_oik_cisalpine_b_kumano_tango
+	name_list_lombard = cn_oik_lombard_b_kumano_tango
+	name_list_sicilian = cn_oik_sicilian_b_kumano_tango
+	name_list_sardinian = cn_oik_sardinian_b_kumano_tango
+	name_list_vlach = cn_oik_vlach_b_kumano_tango
 					}
 
 }
@@ -1303,6 +1687,12 @@ b_kumano_tango = {
 						name_list_norse = cn_oik_norse_b_kasa_tango
 						name_list_persian = cn_oik_persian_b_kasa_tango
 						name_list_roman = cn_oik_roman_b_kasa_tango
+	name_list_italian = cn_oik_italian_b_kasa_tango
+	name_list_cisalpine = cn_oik_cisalpine_b_kasa_tango
+	name_list_lombard = cn_oik_lombard_b_kasa_tango
+	name_list_sicilian = cn_oik_sicilian_b_kasa_tango
+	name_list_sardinian = cn_oik_sardinian_b_kasa_tango
+	name_list_vlach = cn_oik_vlach_b_kasa_tango
 					}
 
 }
@@ -1330,6 +1720,12 @@ b_kumano_tango = {
 				name_list_norse = cn_oik_norse_d_west_sanindo
 				name_list_persian = cn_oik_persian_d_west_sanindo
 				name_list_roman = cn_oik_roman_d_west_sanindo
+	name_list_italian = cn_oik_italian_d_west_sanindo
+	name_list_cisalpine = cn_oik_cisalpine_d_west_sanindo
+	name_list_lombard = cn_oik_lombard_d_west_sanindo
+	name_list_sicilian = cn_oik_sicilian_d_west_sanindo
+	name_list_sardinian = cn_oik_sardinian_d_west_sanindo
+	name_list_vlach = cn_oik_vlach_d_west_sanindo
 			}
 
 c_izumo = {
@@ -1347,6 +1743,12 @@ c_izumo = {
 					name_list_norse = cn_oik_norse_c_izumo
 					name_list_persian = cn_oik_persian_c_izumo
 					name_list_roman = cn_oik_roman_c_izumo
+	name_list_italian = cn_oik_italian_c_izumo
+	name_list_cisalpine = cn_oik_cisalpine_c_izumo
+	name_list_lombard = cn_oik_lombard_c_izumo
+	name_list_sicilian = cn_oik_sicilian_c_izumo
+	name_list_sardinian = cn_oik_sardinian_c_izumo
+	name_list_vlach = cn_oik_vlach_c_izumo
 				}
 
 b_ou = {
@@ -1365,6 +1767,12 @@ b_ou = {
 						name_list_norse = cn_oik_norse_b_ou
 						name_list_persian = cn_oik_persian_b_ou
 						name_list_roman = cn_oik_roman_b_ou
+	name_list_italian = cn_oik_italian_b_ou
+	name_list_cisalpine = cn_oik_cisalpine_b_ou
+	name_list_lombard = cn_oik_lombard_b_ou
+	name_list_sicilian = cn_oik_sicilian_b_ou
+	name_list_sardinian = cn_oik_sardinian_b_ou
+	name_list_vlach = cn_oik_vlach_b_ou
 					}
 
 }
@@ -1384,6 +1792,12 @@ b_ou = {
 						name_list_norse = cn_oik_norse_b_kizuki_taisha
 						name_list_persian = cn_oik_persian_b_kizuki_taisha
 						name_list_roman = cn_oik_roman_b_kizuki_taisha
+	name_list_italian = cn_oik_italian_b_kizuki_taisha
+	name_list_cisalpine = cn_oik_cisalpine_b_kizuki_taisha
+	name_list_lombard = cn_oik_lombard_b_kizuki_taisha
+	name_list_sicilian = cn_oik_sicilian_b_kizuki_taisha
+	name_list_sardinian = cn_oik_sardinian_b_kizuki_taisha
+	name_list_vlach = cn_oik_vlach_b_kizuki_taisha
 					}
 
 }
@@ -1403,6 +1817,12 @@ b_ou = {
 						name_list_norse = cn_oik_norse_b_shimane
 						name_list_persian = cn_oik_persian_b_shimane
 						name_list_roman = cn_oik_roman_b_shimane
+	name_list_italian = cn_oik_italian_b_shimane
+	name_list_cisalpine = cn_oik_cisalpine_b_shimane
+	name_list_lombard = cn_oik_lombard_b_shimane
+	name_list_sicilian = cn_oik_sicilian_b_shimane
+	name_list_sardinian = cn_oik_sardinian_b_shimane
+	name_list_vlach = cn_oik_vlach_b_shimane
 					}
 
 }
@@ -1422,6 +1842,12 @@ b_ou = {
 						name_list_norse = cn_oik_norse_b_nita
 						name_list_persian = cn_oik_persian_b_nita
 						name_list_roman = cn_oik_roman_b_nita
+	name_list_italian = cn_oik_italian_b_nita
+	name_list_cisalpine = cn_oik_cisalpine_b_nita
+	name_list_lombard = cn_oik_lombard_b_nita
+	name_list_sicilian = cn_oik_sicilian_b_nita
+	name_list_sardinian = cn_oik_sardinian_b_nita
+	name_list_vlach = cn_oik_vlach_b_nita
 					}
 
 }
@@ -1442,6 +1868,12 @@ b_ou = {
 					name_list_norse = cn_oik_norse_c_iwami
 					name_list_persian = cn_oik_persian_c_iwami
 					name_list_roman = cn_oik_roman_c_iwami
+	name_list_italian = cn_oik_italian_c_iwami
+	name_list_cisalpine = cn_oik_cisalpine_c_iwami
+	name_list_lombard = cn_oik_lombard_c_iwami
+	name_list_sicilian = cn_oik_sicilian_c_iwami
+	name_list_sardinian = cn_oik_sardinian_c_iwami
+	name_list_vlach = cn_oik_vlach_c_iwami
 				}
 
 b_naka_iwami = {
@@ -1460,6 +1892,12 @@ b_naka_iwami = {
 						name_list_norse = cn_oik_norse_b_naka_iwami
 						name_list_persian = cn_oik_persian_b_naka_iwami
 						name_list_roman = cn_oik_roman_b_naka_iwami
+	name_list_italian = cn_oik_italian_b_naka_iwami
+	name_list_cisalpine = cn_oik_cisalpine_b_naka_iwami
+	name_list_lombard = cn_oik_lombard_b_naka_iwami
+	name_list_sicilian = cn_oik_sicilian_b_naka_iwami
+	name_list_sardinian = cn_oik_sardinian_b_naka_iwami
+	name_list_vlach = cn_oik_vlach_b_naka_iwami
 					}
 
 }
@@ -1479,6 +1917,12 @@ b_naka_iwami = {
 						name_list_norse = cn_oik_norse_b_kanoashi
 						name_list_persian = cn_oik_persian_b_kanoashi
 						name_list_roman = cn_oik_roman_b_kanoashi
+	name_list_italian = cn_oik_italian_b_kanoashi
+	name_list_cisalpine = cn_oik_cisalpine_b_kanoashi
+	name_list_lombard = cn_oik_lombard_b_kanoashi
+	name_list_sicilian = cn_oik_sicilian_b_kanoashi
+	name_list_sardinian = cn_oik_sardinian_b_kanoashi
+	name_list_vlach = cn_oik_vlach_b_kanoashi
 					}
 
 }
@@ -1498,6 +1942,12 @@ b_naka_iwami = {
 						name_list_norse = cn_oik_norse_b_mino
 						name_list_persian = cn_oik_persian_b_mino
 						name_list_roman = cn_oik_roman_b_mino
+	name_list_italian = cn_oik_italian_b_mino
+	name_list_cisalpine = cn_oik_cisalpine_b_mino
+	name_list_lombard = cn_oik_lombard_b_mino
+	name_list_sicilian = cn_oik_sicilian_b_mino
+	name_list_sardinian = cn_oik_sardinian_b_mino
+	name_list_vlach = cn_oik_vlach_b_mino
 					}
 
 }
@@ -1517,6 +1967,12 @@ b_naka_iwami = {
 						name_list_norse = cn_oik_norse_b_ochi
 						name_list_persian = cn_oik_persian_b_ochi
 						name_list_roman = cn_oik_roman_b_ochi
+	name_list_italian = cn_oik_italian_b_ochi
+	name_list_cisalpine = cn_oik_cisalpine_b_ochi
+	name_list_lombard = cn_oik_lombard_b_ochi
+	name_list_sicilian = cn_oik_sicilian_b_ochi
+	name_list_sardinian = cn_oik_sardinian_b_ochi
+	name_list_vlach = cn_oik_vlach_b_ochi
 					}
 
 }
@@ -1537,6 +1993,12 @@ b_naka_iwami = {
 					name_list_norse = cn_oik_norse_c_hoki
 					name_list_persian = cn_oik_persian_c_hoki
 					name_list_roman = cn_oik_roman_c_hoki
+	name_list_italian = cn_oik_italian_c_hoki
+	name_list_cisalpine = cn_oik_cisalpine_c_hoki
+	name_list_lombard = cn_oik_lombard_c_hoki
+	name_list_sicilian = cn_oik_sicilian_c_hoki
+	name_list_sardinian = cn_oik_sardinian_c_hoki
+	name_list_vlach = cn_oik_vlach_c_hoki
 				}
 
 b_kume = {
@@ -1555,6 +2017,12 @@ b_kume = {
 						name_list_norse = cn_oik_norse_b_kume
 						name_list_persian = cn_oik_persian_b_kume
 						name_list_roman = cn_oik_roman_b_kume
+	name_list_italian = cn_oik_italian_b_kume
+	name_list_cisalpine = cn_oik_cisalpine_b_kume
+	name_list_lombard = cn_oik_lombard_b_kume
+	name_list_sicilian = cn_oik_sicilian_b_kume
+	name_list_sardinian = cn_oik_sardinian_b_kume
+	name_list_vlach = cn_oik_vlach_b_kume
 					}
 
 }
@@ -1574,6 +2042,12 @@ b_kume = {
 						name_list_norse = cn_oik_norse_b_daisen
 						name_list_persian = cn_oik_persian_b_daisen
 						name_list_roman = cn_oik_roman_b_daisen
+	name_list_italian = cn_oik_italian_b_daisen
+	name_list_cisalpine = cn_oik_cisalpine_b_daisen
+	name_list_lombard = cn_oik_lombard_b_daisen
+	name_list_sicilian = cn_oik_sicilian_b_daisen
+	name_list_sardinian = cn_oik_sardinian_b_daisen
+	name_list_vlach = cn_oik_vlach_b_daisen
 					}
 
 }
@@ -1593,6 +2067,12 @@ b_kume = {
 						name_list_norse = cn_oik_norse_b_hino
 						name_list_persian = cn_oik_persian_b_hino
 						name_list_roman = cn_oik_roman_b_hino
+	name_list_italian = cn_oik_italian_b_hino
+	name_list_cisalpine = cn_oik_cisalpine_b_hino
+	name_list_lombard = cn_oik_lombard_b_hino
+	name_list_sicilian = cn_oik_sicilian_b_hino
+	name_list_sardinian = cn_oik_sardinian_b_hino
+	name_list_vlach = cn_oik_vlach_b_hino
 					}
 
 }
@@ -1613,6 +2093,12 @@ b_kume = {
 					name_list_norse = cn_oik_norse_c_oki
 					name_list_persian = cn_oik_persian_c_oki
 					name_list_roman = cn_oik_roman_c_oki
+	name_list_italian = cn_oik_italian_c_oki
+	name_list_cisalpine = cn_oik_cisalpine_c_oki
+	name_list_lombard = cn_oik_lombard_c_oki
+	name_list_sicilian = cn_oik_sicilian_c_oki
+	name_list_sardinian = cn_oik_sardinian_c_oki
+	name_list_vlach = cn_oik_vlach_c_oki
 				}
 
 b_oki = {
@@ -1631,6 +2117,12 @@ b_oki = {
 						name_list_norse = cn_oik_norse_b_oki
 						name_list_persian = cn_oik_persian_b_oki
 						name_list_roman = cn_oik_roman_b_oki
+	name_list_italian = cn_oik_italian_b_oki
+	name_list_cisalpine = cn_oik_cisalpine_b_oki
+	name_list_lombard = cn_oik_lombard_b_oki
+	name_list_sicilian = cn_oik_sicilian_b_oki
+	name_list_sardinian = cn_oik_sardinian_b_oki
+	name_list_vlach = cn_oik_vlach_b_oki
 					}
 
 }
@@ -1658,6 +2150,12 @@ b_oki = {
 				name_list_norse = cn_oik_norse_d_west_sanyodo
 				name_list_persian = cn_oik_persian_d_west_sanyodo
 				name_list_roman = cn_oik_roman_d_west_sanyodo
+	name_list_italian = cn_oik_italian_d_west_sanyodo
+	name_list_cisalpine = cn_oik_cisalpine_d_west_sanyodo
+	name_list_lombard = cn_oik_lombard_d_west_sanyodo
+	name_list_sicilian = cn_oik_sicilian_d_west_sanyodo
+	name_list_sardinian = cn_oik_sardinian_d_west_sanyodo
+	name_list_vlach = cn_oik_vlach_d_west_sanyodo
 			}
 
 c_aki = {
@@ -1675,6 +2173,12 @@ c_aki = {
 					name_list_norse = cn_oik_norse_c_aki
 					name_list_persian = cn_oik_persian_c_aki
 					name_list_roman = cn_oik_roman_c_aki
+	name_list_italian = cn_oik_italian_c_aki
+	name_list_cisalpine = cn_oik_cisalpine_c_aki
+	name_list_lombard = cn_oik_lombard_c_aki
+	name_list_sicilian = cn_oik_sicilian_c_aki
+	name_list_sardinian = cn_oik_sardinian_c_aki
+	name_list_vlach = cn_oik_vlach_c_aki
 				}
 
 b_kamo = {
@@ -1693,6 +2197,12 @@ b_kamo = {
 						name_list_norse = cn_oik_norse_b_kamo
 						name_list_persian = cn_oik_persian_b_kamo
 						name_list_roman = cn_oik_roman_b_kamo
+	name_list_italian = cn_oik_italian_b_kamo
+	name_list_cisalpine = cn_oik_cisalpine_b_kamo
+	name_list_lombard = cn_oik_lombard_b_kamo
+	name_list_sicilian = cn_oik_sicilian_b_kamo
+	name_list_sardinian = cn_oik_sardinian_b_kamo
+	name_list_vlach = cn_oik_vlach_b_kamo
 					}
 
 }
@@ -1712,6 +2222,12 @@ b_kamo = {
 						name_list_norse = cn_oik_norse_b_itsukushima
 						name_list_persian = cn_oik_persian_b_itsukushima
 						name_list_roman = cn_oik_roman_b_itsukushima
+	name_list_italian = cn_oik_italian_b_itsukushima
+	name_list_cisalpine = cn_oik_cisalpine_b_itsukushima
+	name_list_lombard = cn_oik_lombard_b_itsukushima
+	name_list_sicilian = cn_oik_sicilian_b_itsukushima
+	name_list_sardinian = cn_oik_sardinian_b_itsukushima
+	name_list_vlach = cn_oik_vlach_b_itsukushima
 					}
 
 }
@@ -1731,6 +2247,12 @@ b_kamo = {
 						name_list_norse = cn_oik_norse_b_yamagata
 						name_list_persian = cn_oik_persian_b_yamagata
 						name_list_roman = cn_oik_roman_b_yamagata
+	name_list_italian = cn_oik_italian_b_yamagata
+	name_list_cisalpine = cn_oik_cisalpine_b_yamagata
+	name_list_lombard = cn_oik_lombard_b_yamagata
+	name_list_sicilian = cn_oik_sicilian_b_yamagata
+	name_list_sardinian = cn_oik_sardinian_b_yamagata
+	name_list_vlach = cn_oik_vlach_b_yamagata
 					}
 
 }
@@ -1750,6 +2272,12 @@ b_kamo = {
 						name_list_norse = cn_oik_norse_b_takada
 						name_list_persian = cn_oik_persian_b_takada
 						name_list_roman = cn_oik_roman_b_takada
+	name_list_italian = cn_oik_italian_b_takada
+	name_list_cisalpine = cn_oik_cisalpine_b_takada
+	name_list_lombard = cn_oik_lombard_b_takada
+	name_list_sicilian = cn_oik_sicilian_b_takada
+	name_list_sardinian = cn_oik_sardinian_b_takada
+	name_list_vlach = cn_oik_vlach_b_takada
 					}
 
 }
@@ -1770,6 +2298,12 @@ b_kamo = {
 					name_list_norse = cn_oik_norse_c_bingo
 					name_list_persian = cn_oik_persian_c_bingo
 					name_list_roman = cn_oik_roman_c_bingo
+	name_list_italian = cn_oik_italian_c_bingo
+	name_list_cisalpine = cn_oik_cisalpine_c_bingo
+	name_list_lombard = cn_oik_lombard_c_bingo
+	name_list_sicilian = cn_oik_sicilian_c_bingo
+	name_list_sardinian = cn_oik_sardinian_c_bingo
+	name_list_vlach = cn_oik_vlach_c_bingo
 				}
 
 b_yasuna = {
@@ -1788,6 +2322,12 @@ b_yasuna = {
 						name_list_norse = cn_oik_norse_b_yasuna
 						name_list_persian = cn_oik_persian_b_yasuna
 						name_list_roman = cn_oik_roman_b_yasuna
+	name_list_italian = cn_oik_italian_b_yasuna
+	name_list_cisalpine = cn_oik_cisalpine_b_yasuna
+	name_list_lombard = cn_oik_lombard_b_yasuna
+	name_list_sicilian = cn_oik_sicilian_b_yasuna
+	name_list_sardinian = cn_oik_sardinian_b_yasuna
+	name_list_vlach = cn_oik_vlach_b_yasuna
 					}
 
 }
@@ -1807,6 +2347,12 @@ b_yasuna = {
 						name_list_norse = cn_oik_norse_b_mitsugi
 						name_list_persian = cn_oik_persian_b_mitsugi
 						name_list_roman = cn_oik_roman_b_mitsugi
+	name_list_italian = cn_oik_italian_b_mitsugi
+	name_list_cisalpine = cn_oik_cisalpine_b_mitsugi
+	name_list_lombard = cn_oik_lombard_b_mitsugi
+	name_list_sicilian = cn_oik_sicilian_b_mitsugi
+	name_list_sardinian = cn_oik_sardinian_b_mitsugi
+	name_list_vlach = cn_oik_vlach_b_mitsugi
 					}
 
 }
@@ -1826,6 +2372,12 @@ b_yasuna = {
 						name_list_norse = cn_oik_norse_b_konu
 						name_list_persian = cn_oik_persian_b_konu
 						name_list_roman = cn_oik_roman_b_konu
+	name_list_italian = cn_oik_italian_b_konu
+	name_list_cisalpine = cn_oik_cisalpine_b_konu
+	name_list_lombard = cn_oik_lombard_b_konu
+	name_list_sicilian = cn_oik_sicilian_b_konu
+	name_list_sardinian = cn_oik_sardinian_b_konu
+	name_list_vlach = cn_oik_vlach_b_konu
 					}
 
 }
@@ -1845,6 +2397,12 @@ b_yasuna = {
 						name_list_norse = cn_oik_norse_b_mikami
 						name_list_persian = cn_oik_persian_b_mikami
 						name_list_roman = cn_oik_roman_b_mikami
+	name_list_italian = cn_oik_italian_b_mikami
+	name_list_cisalpine = cn_oik_cisalpine_b_mikami
+	name_list_lombard = cn_oik_lombard_b_mikami
+	name_list_sicilian = cn_oik_sicilian_b_mikami
+	name_list_sardinian = cn_oik_sardinian_b_mikami
+	name_list_vlach = cn_oik_vlach_b_mikami
 					}
 
 }
@@ -1865,6 +2423,12 @@ b_yasuna = {
 					name_list_norse = cn_oik_norse_c_nagato
 					name_list_persian = cn_oik_persian_c_nagato
 					name_list_roman = cn_oik_roman_c_nagato
+	name_list_italian = cn_oik_italian_c_nagato
+	name_list_cisalpine = cn_oik_cisalpine_c_nagato
+	name_list_lombard = cn_oik_lombard_c_nagato
+	name_list_sicilian = cn_oik_sicilian_c_nagato
+	name_list_sardinian = cn_oik_sardinian_c_nagato
+	name_list_vlach = cn_oik_vlach_c_nagato
 				}
 
 b_toyora = {
@@ -1883,6 +2447,12 @@ b_toyora = {
 						name_list_norse = cn_oik_norse_b_toyora
 						name_list_persian = cn_oik_persian_b_toyora
 						name_list_roman = cn_oik_roman_b_toyora
+	name_list_italian = cn_oik_italian_b_toyora
+	name_list_cisalpine = cn_oik_cisalpine_b_toyora
+	name_list_lombard = cn_oik_lombard_b_toyora
+	name_list_sicilian = cn_oik_sicilian_b_toyora
+	name_list_sardinian = cn_oik_sardinian_b_toyora
+	name_list_vlach = cn_oik_vlach_b_toyora
 					}
 
 }
@@ -1902,6 +2472,12 @@ b_toyora = {
 						name_list_norse = cn_oik_norse_b_asa
 						name_list_persian = cn_oik_persian_b_asa
 						name_list_roman = cn_oik_roman_b_asa
+	name_list_italian = cn_oik_italian_b_asa
+	name_list_cisalpine = cn_oik_cisalpine_b_asa
+	name_list_lombard = cn_oik_lombard_b_asa
+	name_list_sicilian = cn_oik_sicilian_b_asa
+	name_list_sardinian = cn_oik_sardinian_b_asa
+	name_list_vlach = cn_oik_vlach_b_asa
 					}
 
 }
@@ -1921,6 +2497,12 @@ b_toyora = {
 						name_list_norse = cn_oik_norse_b_otsu
 						name_list_persian = cn_oik_persian_b_otsu
 						name_list_roman = cn_oik_roman_b_otsu
+	name_list_italian = cn_oik_italian_b_otsu
+	name_list_cisalpine = cn_oik_cisalpine_b_otsu
+	name_list_lombard = cn_oik_lombard_b_otsu
+	name_list_sicilian = cn_oik_sicilian_b_otsu
+	name_list_sardinian = cn_oik_sardinian_b_otsu
+	name_list_vlach = cn_oik_vlach_b_otsu
 					}
 
 }
@@ -1940,6 +2522,12 @@ b_toyora = {
 						name_list_norse = cn_oik_norse_b_abu
 						name_list_persian = cn_oik_persian_b_abu
 						name_list_roman = cn_oik_roman_b_abu
+	name_list_italian = cn_oik_italian_b_abu
+	name_list_cisalpine = cn_oik_cisalpine_b_abu
+	name_list_lombard = cn_oik_lombard_b_abu
+	name_list_sicilian = cn_oik_sicilian_b_abu
+	name_list_sardinian = cn_oik_sardinian_b_abu
+	name_list_vlach = cn_oik_vlach_b_abu
 					}
 
 }
@@ -1960,6 +2548,12 @@ b_toyora = {
 					name_list_norse = cn_oik_norse_c_suo
 					name_list_persian = cn_oik_persian_c_suo
 					name_list_roman = cn_oik_roman_c_suo
+	name_list_italian = cn_oik_italian_c_suo
+	name_list_cisalpine = cn_oik_cisalpine_c_suo
+	name_list_lombard = cn_oik_lombard_c_suo
+	name_list_sicilian = cn_oik_sicilian_c_suo
+	name_list_sardinian = cn_oik_sardinian_c_suo
+	name_list_vlach = cn_oik_vlach_c_suo
 				}
 
 b_yoshiki = {
@@ -1978,6 +2572,12 @@ b_yoshiki = {
 						name_list_norse = cn_oik_norse_b_yoshiki
 						name_list_persian = cn_oik_persian_b_yoshiki
 						name_list_roman = cn_oik_roman_b_yoshiki
+	name_list_italian = cn_oik_italian_b_yoshiki
+	name_list_cisalpine = cn_oik_cisalpine_b_yoshiki
+	name_list_lombard = cn_oik_lombard_b_yoshiki
+	name_list_sicilian = cn_oik_sicilian_b_yoshiki
+	name_list_sardinian = cn_oik_sardinian_b_yoshiki
+	name_list_vlach = cn_oik_vlach_b_yoshiki
 					}
 
 }
@@ -1997,6 +2597,12 @@ b_yoshiki = {
 						name_list_norse = cn_oik_norse_b_tsuno
 						name_list_persian = cn_oik_persian_b_tsuno
 						name_list_roman = cn_oik_roman_b_tsuno
+	name_list_italian = cn_oik_italian_b_tsuno
+	name_list_cisalpine = cn_oik_cisalpine_b_tsuno
+	name_list_lombard = cn_oik_lombard_b_tsuno
+	name_list_sicilian = cn_oik_sicilian_b_tsuno
+	name_list_sardinian = cn_oik_sardinian_b_tsuno
+	name_list_vlach = cn_oik_vlach_b_tsuno
 					}
 
 }
@@ -2016,6 +2622,12 @@ b_yoshiki = {
 						name_list_norse = cn_oik_norse_b_kumage
 						name_list_persian = cn_oik_persian_b_kumage
 						name_list_roman = cn_oik_roman_b_kumage
+	name_list_italian = cn_oik_italian_b_kumage
+	name_list_cisalpine = cn_oik_cisalpine_b_kumage
+	name_list_lombard = cn_oik_lombard_b_kumage
+	name_list_sicilian = cn_oik_sicilian_b_kumage
+	name_list_sardinian = cn_oik_sardinian_b_kumage
+	name_list_vlach = cn_oik_vlach_b_kumage
 					}
 
 }
@@ -2035,6 +2647,12 @@ b_yoshiki = {
 						name_list_norse = cn_oik_norse_b_kuga
 						name_list_persian = cn_oik_persian_b_kuga
 						name_list_roman = cn_oik_roman_b_kuga
+	name_list_italian = cn_oik_italian_b_kuga
+	name_list_cisalpine = cn_oik_cisalpine_b_kuga
+	name_list_lombard = cn_oik_lombard_b_kuga
+	name_list_sicilian = cn_oik_sicilian_b_kuga
+	name_list_sardinian = cn_oik_sardinian_b_kuga
+	name_list_vlach = cn_oik_vlach_b_kuga
 					}
 
 }
@@ -2062,6 +2680,12 @@ b_yoshiki = {
 				name_list_norse = cn_oik_norse_d_east_sanyodo
 				name_list_persian = cn_oik_persian_d_east_sanyodo
 				name_list_roman = cn_oik_roman_d_east_sanyodo
+	name_list_italian = cn_oik_italian_d_east_sanyodo
+	name_list_cisalpine = cn_oik_cisalpine_d_east_sanyodo
+	name_list_lombard = cn_oik_lombard_d_east_sanyodo
+	name_list_sicilian = cn_oik_sicilian_d_east_sanyodo
+	name_list_sardinian = cn_oik_sardinian_d_east_sanyodo
+	name_list_vlach = cn_oik_vlach_d_east_sanyodo
 			}
 
 c_harima = {
@@ -2079,6 +2703,12 @@ c_harima = {
 					name_list_norse = cn_oik_norse_c_harima
 					name_list_persian = cn_oik_persian_c_harima
 					name_list_roman = cn_oik_roman_c_harima
+	name_list_italian = cn_oik_italian_c_harima
+	name_list_cisalpine = cn_oik_cisalpine_c_harima
+	name_list_lombard = cn_oik_lombard_c_harima
+	name_list_sicilian = cn_oik_sicilian_c_harima
+	name_list_sardinian = cn_oik_sardinian_c_harima
+	name_list_vlach = cn_oik_vlach_c_harima
 				}
 
 b_shikama = {
@@ -2097,6 +2727,12 @@ b_shikama = {
 						name_list_norse = cn_oik_norse_b_shikama
 						name_list_persian = cn_oik_persian_b_shikama
 						name_list_roman = cn_oik_roman_b_shikama
+	name_list_italian = cn_oik_italian_b_shikama
+	name_list_cisalpine = cn_oik_cisalpine_b_shikama
+	name_list_lombard = cn_oik_lombard_b_shikama
+	name_list_sicilian = cn_oik_sicilian_b_shikama
+	name_list_sardinian = cn_oik_sardinian_b_shikama
+	name_list_vlach = cn_oik_vlach_b_shikama
 					}
 
 }
@@ -2116,6 +2752,12 @@ b_shikama = {
 						name_list_norse = cn_oik_norse_b_ibo
 						name_list_persian = cn_oik_persian_b_ibo
 						name_list_roman = cn_oik_roman_b_ibo
+	name_list_italian = cn_oik_italian_b_ibo
+	name_list_cisalpine = cn_oik_cisalpine_b_ibo
+	name_list_lombard = cn_oik_lombard_b_ibo
+	name_list_sicilian = cn_oik_sicilian_b_ibo
+	name_list_sardinian = cn_oik_sardinian_b_ibo
+	name_list_vlach = cn_oik_vlach_b_ibo
 					}
 
 }
@@ -2135,6 +2777,12 @@ b_shikama = {
 						name_list_norse = cn_oik_norse_b_akashi
 						name_list_persian = cn_oik_persian_b_akashi
 						name_list_roman = cn_oik_roman_b_akashi
+	name_list_italian = cn_oik_italian_b_akashi
+	name_list_cisalpine = cn_oik_cisalpine_b_akashi
+	name_list_lombard = cn_oik_lombard_b_akashi
+	name_list_sicilian = cn_oik_sicilian_b_akashi
+	name_list_sardinian = cn_oik_sardinian_b_akashi
+	name_list_vlach = cn_oik_vlach_b_akashi
 					}
 
 }
@@ -2154,6 +2802,12 @@ b_shikama = {
 						name_list_norse = cn_oik_norse_b_shiso
 						name_list_persian = cn_oik_persian_b_shiso
 						name_list_roman = cn_oik_roman_b_shiso
+	name_list_italian = cn_oik_italian_b_shiso
+	name_list_cisalpine = cn_oik_cisalpine_b_shiso
+	name_list_lombard = cn_oik_lombard_b_shiso
+	name_list_sicilian = cn_oik_sicilian_b_shiso
+	name_list_sardinian = cn_oik_sardinian_b_shiso
+	name_list_vlach = cn_oik_vlach_b_shiso
 					}
 
 }
@@ -2173,6 +2827,12 @@ b_shikama = {
 						name_list_norse = cn_oik_norse_b_taka
 						name_list_persian = cn_oik_persian_b_taka
 						name_list_roman = cn_oik_roman_b_taka
+	name_list_italian = cn_oik_italian_b_taka
+	name_list_cisalpine = cn_oik_cisalpine_b_taka
+	name_list_lombard = cn_oik_lombard_b_taka
+	name_list_sicilian = cn_oik_sicilian_b_taka
+	name_list_sardinian = cn_oik_sardinian_b_taka
+	name_list_vlach = cn_oik_vlach_b_taka
 					}
 
 }
@@ -2193,6 +2853,12 @@ b_shikama = {
 					name_list_norse = cn_oik_norse_c_bitchu
 					name_list_persian = cn_oik_persian_c_bitchu
 					name_list_roman = cn_oik_roman_c_bitchu
+	name_list_italian = cn_oik_italian_c_bitchu
+	name_list_cisalpine = cn_oik_cisalpine_c_bitchu
+	name_list_lombard = cn_oik_lombard_c_bitchu
+	name_list_sicilian = cn_oik_sicilian_c_bitchu
+	name_list_sardinian = cn_oik_sardinian_c_bitchu
+	name_list_vlach = cn_oik_vlach_c_bitchu
 				}
 
 b_kuboya = {
@@ -2211,6 +2877,12 @@ b_kuboya = {
 						name_list_norse = cn_oik_norse_b_kuboya
 						name_list_persian = cn_oik_persian_b_kuboya
 						name_list_roman = cn_oik_roman_b_kuboya
+	name_list_italian = cn_oik_italian_b_kuboya
+	name_list_cisalpine = cn_oik_cisalpine_b_kuboya
+	name_list_lombard = cn_oik_lombard_b_kuboya
+	name_list_sicilian = cn_oik_sicilian_b_kuboya
+	name_list_sardinian = cn_oik_sardinian_b_kuboya
+	name_list_vlach = cn_oik_vlach_b_kuboya
 					}
 
 }
@@ -2230,6 +2902,12 @@ b_kuboya = {
 						name_list_norse = cn_oik_norse_b_kibitsu
 						name_list_persian = cn_oik_persian_b_kibitsu
 						name_list_roman = cn_oik_roman_b_kibitsu
+	name_list_italian = cn_oik_italian_b_kibitsu
+	name_list_cisalpine = cn_oik_cisalpine_b_kibitsu
+	name_list_lombard = cn_oik_lombard_b_kibitsu
+	name_list_sicilian = cn_oik_sicilian_b_kibitsu
+	name_list_sardinian = cn_oik_sardinian_b_kibitsu
+	name_list_vlach = cn_oik_vlach_b_kibitsu
 					}
 
 }
@@ -2249,6 +2927,12 @@ b_kuboya = {
 						name_list_norse = cn_oik_norse_b_tetta
 						name_list_persian = cn_oik_persian_b_tetta
 						name_list_roman = cn_oik_roman_b_tetta
+	name_list_italian = cn_oik_italian_b_tetta
+	name_list_cisalpine = cn_oik_cisalpine_b_tetta
+	name_list_lombard = cn_oik_lombard_b_tetta
+	name_list_sicilian = cn_oik_sicilian_b_tetta
+	name_list_sardinian = cn_oik_sardinian_b_tetta
+	name_list_vlach = cn_oik_vlach_b_tetta
 					}
 
 }
@@ -2269,6 +2953,12 @@ b_kuboya = {
 					name_list_norse = cn_oik_norse_c_bizen
 					name_list_persian = cn_oik_persian_c_bizen
 					name_list_roman = cn_oik_roman_c_bizen
+	name_list_italian = cn_oik_italian_c_bizen
+	name_list_cisalpine = cn_oik_cisalpine_c_bizen
+	name_list_lombard = cn_oik_lombard_c_bizen
+	name_list_sicilian = cn_oik_sicilian_c_bizen
+	name_list_sardinian = cn_oik_sardinian_c_bizen
+	name_list_vlach = cn_oik_vlach_c_bizen
 				}
 
 b_joto = {
@@ -2287,6 +2977,12 @@ b_joto = {
 						name_list_norse = cn_oik_norse_b_joto
 						name_list_persian = cn_oik_persian_b_joto
 						name_list_roman = cn_oik_roman_b_joto
+	name_list_italian = cn_oik_italian_b_joto
+	name_list_cisalpine = cn_oik_cisalpine_b_joto
+	name_list_lombard = cn_oik_lombard_b_joto
+	name_list_sicilian = cn_oik_sicilian_b_joto
+	name_list_sardinian = cn_oik_sardinian_b_joto
+	name_list_vlach = cn_oik_vlach_b_joto
 					}
 
 }
@@ -2306,6 +3002,12 @@ b_joto = {
 						name_list_norse = cn_oik_norse_b_oku
 						name_list_persian = cn_oik_persian_b_oku
 						name_list_roman = cn_oik_roman_b_oku
+	name_list_italian = cn_oik_italian_b_oku
+	name_list_cisalpine = cn_oik_cisalpine_b_oku
+	name_list_lombard = cn_oik_lombard_b_oku
+	name_list_sicilian = cn_oik_sicilian_b_oku
+	name_list_sardinian = cn_oik_sardinian_b_oku
+	name_list_vlach = cn_oik_vlach_b_oku
 					}
 
 }
@@ -2326,6 +3028,12 @@ b_joto = {
 					name_list_norse = cn_oik_norse_c_mimasaka
 					name_list_persian = cn_oik_persian_c_mimasaka
 					name_list_roman = cn_oik_roman_c_mimasaka
+	name_list_italian = cn_oik_italian_c_mimasaka
+	name_list_cisalpine = cn_oik_cisalpine_c_mimasaka
+	name_list_lombard = cn_oik_lombard_c_mimasaka
+	name_list_sicilian = cn_oik_sicilian_c_mimasaka
+	name_list_sardinian = cn_oik_sardinian_c_mimasaka
+	name_list_vlach = cn_oik_vlach_c_mimasaka
 				}
 
 b_tomata = {
@@ -2344,6 +3052,12 @@ b_tomata = {
 						name_list_norse = cn_oik_norse_b_tomata
 						name_list_persian = cn_oik_persian_b_tomata
 						name_list_roman = cn_oik_roman_b_tomata
+	name_list_italian = cn_oik_italian_b_tomata
+	name_list_cisalpine = cn_oik_cisalpine_b_tomata
+	name_list_lombard = cn_oik_lombard_b_tomata
+	name_list_sicilian = cn_oik_sicilian_b_tomata
+	name_list_sardinian = cn_oik_sardinian_b_tomata
+	name_list_vlach = cn_oik_vlach_b_tomata
 					}
 
 }
@@ -2363,6 +3077,12 @@ b_tomata = {
 						name_list_norse = cn_oik_norse_b_mashima
 						name_list_persian = cn_oik_persian_b_mashima
 						name_list_roman = cn_oik_roman_b_mashima
+	name_list_italian = cn_oik_italian_b_mashima
+	name_list_cisalpine = cn_oik_cisalpine_b_mashima
+	name_list_lombard = cn_oik_lombard_b_mashima
+	name_list_sicilian = cn_oik_sicilian_b_mashima
+	name_list_sardinian = cn_oik_sardinian_b_mashima
+	name_list_vlach = cn_oik_vlach_b_mashima
 					}
 
 }
@@ -2382,6 +3102,12 @@ b_tomata = {
 						name_list_norse = cn_oik_norse_b_aida
 						name_list_persian = cn_oik_persian_b_aida
 						name_list_roman = cn_oik_roman_b_aida
+	name_list_italian = cn_oik_italian_b_aida
+	name_list_cisalpine = cn_oik_cisalpine_b_aida
+	name_list_lombard = cn_oik_lombard_b_aida
+	name_list_sicilian = cn_oik_sicilian_b_aida
+	name_list_sardinian = cn_oik_sardinian_b_aida
+	name_list_vlach = cn_oik_vlach_b_aida
 					}
 
 }
@@ -2411,6 +3137,12 @@ b_tomata = {
 			name_list_norse = cn_oik_norse_k_azuma
 			name_list_persian = cn_oik_persian_k_azuma
 			name_list_roman = cn_oik_roman_k_azuma
+	name_list_italian = cn_oik_italian_k_azuma
+	name_list_cisalpine = cn_oik_cisalpine_k_azuma
+	name_list_lombard = cn_oik_lombard_k_azuma
+	name_list_sicilian = cn_oik_sicilian_k_azuma
+	name_list_sardinian = cn_oik_sardinian_k_azuma
+	name_list_vlach = cn_oik_vlach_k_azuma
 		}
 
 d_east_bando = {
@@ -2434,6 +3166,12 @@ d_east_bando = {
 				name_list_norse = cn_oik_norse_d_east_bando
 				name_list_persian = cn_oik_persian_d_east_bando
 				name_list_roman = cn_oik_roman_d_east_bando
+	name_list_italian = cn_oik_italian_d_east_bando
+	name_list_cisalpine = cn_oik_cisalpine_d_east_bando
+	name_list_lombard = cn_oik_lombard_d_east_bando
+	name_list_sicilian = cn_oik_sicilian_d_east_bando
+	name_list_sardinian = cn_oik_sardinian_d_east_bando
+	name_list_vlach = cn_oik_vlach_d_east_bando
 			}
 
 c_shimosa = {
@@ -2451,6 +3189,12 @@ c_shimosa = {
 					name_list_norse = cn_oik_norse_c_shimosa
 					name_list_persian = cn_oik_persian_c_shimosa
 					name_list_roman = cn_oik_roman_c_shimosa
+	name_list_italian = cn_oik_italian_c_shimosa
+	name_list_cisalpine = cn_oik_cisalpine_c_shimosa
+	name_list_lombard = cn_oik_lombard_c_shimosa
+	name_list_sicilian = cn_oik_sicilian_c_shimosa
+	name_list_sardinian = cn_oik_sardinian_c_shimosa
+	name_list_vlach = cn_oik_vlach_c_shimosa
 				}
 
 b_katsushika = {
@@ -2469,6 +3213,12 @@ b_katsushika = {
 						name_list_norse = cn_oik_norse_b_katsushika
 						name_list_persian = cn_oik_persian_b_katsushika
 						name_list_roman = cn_oik_roman_b_katsushika
+	name_list_italian = cn_oik_italian_b_katsushika
+	name_list_cisalpine = cn_oik_cisalpine_b_katsushika
+	name_list_lombard = cn_oik_lombard_b_katsushika
+	name_list_sicilian = cn_oik_sicilian_b_katsushika
+	name_list_sardinian = cn_oik_sardinian_b_katsushika
+	name_list_vlach = cn_oik_vlach_b_katsushika
 					}
 
 }
@@ -2488,6 +3238,12 @@ b_katsushika = {
 						name_list_norse = cn_oik_norse_b_katori
 						name_list_persian = cn_oik_persian_b_katori
 						name_list_roman = cn_oik_roman_b_katori
+	name_list_italian = cn_oik_italian_b_katori
+	name_list_cisalpine = cn_oik_cisalpine_b_katori
+	name_list_lombard = cn_oik_lombard_b_katori
+	name_list_sicilian = cn_oik_sicilian_b_katori
+	name_list_sardinian = cn_oik_sardinian_b_katori
+	name_list_vlach = cn_oik_vlach_b_katori
 					}
 
 }
@@ -2507,6 +3263,12 @@ b_katsushika = {
 						name_list_norse = cn_oik_norse_b_chiba
 						name_list_persian = cn_oik_persian_b_chiba
 						name_list_roman = cn_oik_roman_b_chiba
+	name_list_italian = cn_oik_italian_b_chiba
+	name_list_cisalpine = cn_oik_cisalpine_b_chiba
+	name_list_lombard = cn_oik_lombard_b_chiba
+	name_list_sicilian = cn_oik_sicilian_b_chiba
+	name_list_sardinian = cn_oik_sardinian_b_chiba
+	name_list_vlach = cn_oik_vlach_b_chiba
 					}
 
 }
@@ -2526,6 +3288,12 @@ b_katsushika = {
 						name_list_norse = cn_oik_norse_b_inba
 						name_list_persian = cn_oik_persian_b_inba
 						name_list_roman = cn_oik_roman_b_inba
+	name_list_italian = cn_oik_italian_b_inba
+	name_list_cisalpine = cn_oik_cisalpine_b_inba
+	name_list_lombard = cn_oik_lombard_b_inba
+	name_list_sicilian = cn_oik_sicilian_b_inba
+	name_list_sardinian = cn_oik_sardinian_b_inba
+	name_list_vlach = cn_oik_vlach_b_inba
 					}
 
 }
@@ -2546,6 +3314,12 @@ b_katsushika = {
 					name_list_norse = cn_oik_norse_c_hitachi
 					name_list_persian = cn_oik_persian_c_hitachi
 					name_list_roman = cn_oik_roman_c_hitachi
+	name_list_italian = cn_oik_italian_c_hitachi
+	name_list_cisalpine = cn_oik_cisalpine_c_hitachi
+	name_list_lombard = cn_oik_lombard_c_hitachi
+	name_list_sicilian = cn_oik_sicilian_c_hitachi
+	name_list_sardinian = cn_oik_sardinian_c_hitachi
+	name_list_vlach = cn_oik_vlach_c_hitachi
 				}
 
 b_ibaraki = {
@@ -2564,6 +3338,12 @@ b_ibaraki = {
 						name_list_norse = cn_oik_norse_b_ibaraki
 						name_list_persian = cn_oik_persian_b_ibaraki
 						name_list_roman = cn_oik_roman_b_ibaraki
+	name_list_italian = cn_oik_italian_b_ibaraki
+	name_list_cisalpine = cn_oik_cisalpine_b_ibaraki
+	name_list_lombard = cn_oik_lombard_b_ibaraki
+	name_list_sicilian = cn_oik_sicilian_b_ibaraki
+	name_list_sardinian = cn_oik_sardinian_b_ibaraki
+	name_list_vlach = cn_oik_vlach_b_ibaraki
 					}
 
 }
@@ -2583,6 +3363,12 @@ b_ibaraki = {
 						name_list_norse = cn_oik_norse_b_kashima_hitachi
 						name_list_persian = cn_oik_persian_b_kashima_hitachi
 						name_list_roman = cn_oik_roman_b_kashima_hitachi
+	name_list_italian = cn_oik_italian_b_kashima_hitachi
+	name_list_cisalpine = cn_oik_cisalpine_b_kashima_hitachi
+	name_list_lombard = cn_oik_lombard_b_kashima_hitachi
+	name_list_sicilian = cn_oik_sicilian_b_kashima_hitachi
+	name_list_sardinian = cn_oik_sardinian_b_kashima_hitachi
+	name_list_vlach = cn_oik_vlach_b_kashima_hitachi
 					}
 
 }
@@ -2602,6 +3388,12 @@ b_ibaraki = {
 						name_list_norse = cn_oik_norse_b_naka_hitachi
 						name_list_persian = cn_oik_persian_b_naka_hitachi
 						name_list_roman = cn_oik_roman_b_naka_hitachi
+	name_list_italian = cn_oik_italian_b_naka_hitachi
+	name_list_cisalpine = cn_oik_cisalpine_b_naka_hitachi
+	name_list_lombard = cn_oik_lombard_b_naka_hitachi
+	name_list_sicilian = cn_oik_sicilian_b_naka_hitachi
+	name_list_sardinian = cn_oik_sardinian_b_naka_hitachi
+	name_list_vlach = cn_oik_vlach_b_naka_hitachi
 					}
 
 }
@@ -2621,6 +3413,12 @@ b_ibaraki = {
 						name_list_norse = cn_oik_norse_b_taga_hitachi
 						name_list_persian = cn_oik_persian_b_taga_hitachi
 						name_list_roman = cn_oik_roman_b_taga_hitachi
+	name_list_italian = cn_oik_italian_b_taga_hitachi
+	name_list_cisalpine = cn_oik_cisalpine_b_taga_hitachi
+	name_list_lombard = cn_oik_lombard_b_taga_hitachi
+	name_list_sicilian = cn_oik_sicilian_b_taga_hitachi
+	name_list_sardinian = cn_oik_sardinian_b_taga_hitachi
+	name_list_vlach = cn_oik_vlach_b_taga_hitachi
 					}
 
 }
@@ -2640,6 +3438,12 @@ b_ibaraki = {
 						name_list_norse = cn_oik_norse_b_tsukuba
 						name_list_persian = cn_oik_persian_b_tsukuba
 						name_list_roman = cn_oik_roman_b_tsukuba
+	name_list_italian = cn_oik_italian_b_tsukuba
+	name_list_cisalpine = cn_oik_cisalpine_b_tsukuba
+	name_list_lombard = cn_oik_lombard_b_tsukuba
+	name_list_sicilian = cn_oik_sicilian_b_tsukuba
+	name_list_sardinian = cn_oik_sardinian_b_tsukuba
+	name_list_vlach = cn_oik_vlach_b_tsukuba
 					}
 
 }
@@ -2660,6 +3464,12 @@ b_ibaraki = {
 					name_list_norse = cn_oik_norse_c_kazusa
 					name_list_persian = cn_oik_persian_c_kazusa
 					name_list_roman = cn_oik_roman_c_kazusa
+	name_list_italian = cn_oik_italian_c_kazusa
+	name_list_cisalpine = cn_oik_cisalpine_c_kazusa
+	name_list_lombard = cn_oik_lombard_c_kazusa
+	name_list_sicilian = cn_oik_sicilian_c_kazusa
+	name_list_sardinian = cn_oik_sardinian_c_kazusa
+	name_list_vlach = cn_oik_vlach_c_kazusa
 				}
 
 b_ichihara = {
@@ -2678,6 +3488,12 @@ b_ichihara = {
 						name_list_norse = cn_oik_norse_b_ichihara
 						name_list_persian = cn_oik_persian_b_ichihara
 						name_list_roman = cn_oik_roman_b_ichihara
+	name_list_italian = cn_oik_italian_b_ichihara
+	name_list_cisalpine = cn_oik_cisalpine_b_ichihara
+	name_list_lombard = cn_oik_lombard_b_ichihara
+	name_list_sicilian = cn_oik_sicilian_b_ichihara
+	name_list_sardinian = cn_oik_sardinian_b_ichihara
+	name_list_vlach = cn_oik_vlach_b_ichihara
 					}
 
 }
@@ -2697,6 +3513,12 @@ b_ichihara = {
 						name_list_norse = cn_oik_norse_b_awa
 						name_list_persian = cn_oik_persian_b_awa
 						name_list_roman = cn_oik_roman_b_awa
+	name_list_italian = cn_oik_italian_b_awa
+	name_list_cisalpine = cn_oik_cisalpine_b_awa
+	name_list_lombard = cn_oik_lombard_b_awa
+	name_list_sicilian = cn_oik_sicilian_b_awa
+	name_list_sardinian = cn_oik_sardinian_b_awa
+	name_list_vlach = cn_oik_vlach_b_awa
 					}
 
 }
@@ -2716,6 +3538,12 @@ b_ichihara = {
 						name_list_norse = cn_oik_norse_b_ichinomiya
 						name_list_persian = cn_oik_persian_b_ichinomiya
 						name_list_roman = cn_oik_roman_b_ichinomiya
+	name_list_italian = cn_oik_italian_b_ichinomiya
+	name_list_cisalpine = cn_oik_cisalpine_b_ichinomiya
+	name_list_lombard = cn_oik_lombard_b_ichinomiya
+	name_list_sicilian = cn_oik_sicilian_b_ichinomiya
+	name_list_sardinian = cn_oik_sardinian_b_ichinomiya
+	name_list_vlach = cn_oik_vlach_b_ichinomiya
 					}
 
 }
@@ -2736,6 +3564,12 @@ b_ichihara = {
 					name_list_norse = cn_oik_norse_c_shimotsuke
 					name_list_persian = cn_oik_persian_c_shimotsuke
 					name_list_roman = cn_oik_roman_c_shimotsuke
+	name_list_italian = cn_oik_italian_c_shimotsuke
+	name_list_cisalpine = cn_oik_cisalpine_c_shimotsuke
+	name_list_lombard = cn_oik_lombard_c_shimotsuke
+	name_list_sicilian = cn_oik_sicilian_c_shimotsuke
+	name_list_sardinian = cn_oik_sardinian_c_shimotsuke
+	name_list_vlach = cn_oik_vlach_c_shimotsuke
 				}
 
 b_ashikaga = {
@@ -2754,6 +3588,12 @@ b_ashikaga = {
 						name_list_norse = cn_oik_norse_b_ashikaga
 						name_list_persian = cn_oik_persian_b_ashikaga
 						name_list_roman = cn_oik_roman_b_ashikaga
+	name_list_italian = cn_oik_italian_b_ashikaga
+	name_list_cisalpine = cn_oik_cisalpine_b_ashikaga
+	name_list_lombard = cn_oik_lombard_b_ashikaga
+	name_list_sicilian = cn_oik_sicilian_b_ashikaga
+	name_list_sardinian = cn_oik_sardinian_b_ashikaga
+	name_list_vlach = cn_oik_vlach_b_ashikaga
 					}
 
 }
@@ -2773,6 +3613,12 @@ b_ashikaga = {
 						name_list_norse = cn_oik_norse_b_futara
 						name_list_persian = cn_oik_persian_b_futara
 						name_list_roman = cn_oik_roman_b_futara
+	name_list_italian = cn_oik_italian_b_futara
+	name_list_cisalpine = cn_oik_cisalpine_b_futara
+	name_list_lombard = cn_oik_lombard_b_futara
+	name_list_sicilian = cn_oik_sicilian_b_futara
+	name_list_sardinian = cn_oik_sardinian_b_futara
+	name_list_vlach = cn_oik_vlach_b_futara
 					}
 
 }
@@ -2792,6 +3638,12 @@ b_ashikaga = {
 						name_list_norse = cn_oik_norse_b_nasu
 						name_list_persian = cn_oik_persian_b_nasu
 						name_list_roman = cn_oik_roman_b_nasu
+	name_list_italian = cn_oik_italian_b_nasu
+	name_list_cisalpine = cn_oik_cisalpine_b_nasu
+	name_list_lombard = cn_oik_lombard_b_nasu
+	name_list_sicilian = cn_oik_sicilian_b_nasu
+	name_list_sardinian = cn_oik_sardinian_b_nasu
+	name_list_vlach = cn_oik_vlach_b_nasu
 					}
 
 }
@@ -2811,6 +3663,12 @@ b_ashikaga = {
 						name_list_norse = cn_oik_norse_b_utsunomiya
 						name_list_persian = cn_oik_persian_b_utsunomiya
 						name_list_roman = cn_oik_roman_b_utsunomiya
+	name_list_italian = cn_oik_italian_b_utsunomiya
+	name_list_cisalpine = cn_oik_cisalpine_b_utsunomiya
+	name_list_lombard = cn_oik_lombard_b_utsunomiya
+	name_list_sicilian = cn_oik_sicilian_b_utsunomiya
+	name_list_sardinian = cn_oik_sardinian_b_utsunomiya
+	name_list_vlach = cn_oik_vlach_b_utsunomiya
 					}
 
 }
@@ -2830,6 +3688,12 @@ b_ashikaga = {
 						name_list_norse = cn_oik_norse_b_shioya
 						name_list_persian = cn_oik_persian_b_shioya
 						name_list_roman = cn_oik_roman_b_shioya
+	name_list_italian = cn_oik_italian_b_shioya
+	name_list_cisalpine = cn_oik_cisalpine_b_shioya
+	name_list_lombard = cn_oik_lombard_b_shioya
+	name_list_sicilian = cn_oik_sicilian_b_shioya
+	name_list_sardinian = cn_oik_sardinian_b_shioya
+	name_list_vlach = cn_oik_vlach_b_shioya
 					}
 
 }
@@ -2857,6 +3721,12 @@ b_ashikaga = {
 				name_list_norse = cn_oik_norse_d_west_bando
 				name_list_persian = cn_oik_persian_d_west_bando
 				name_list_roman = cn_oik_roman_d_west_bando
+	name_list_italian = cn_oik_italian_d_west_bando
+	name_list_cisalpine = cn_oik_cisalpine_d_west_bando
+	name_list_lombard = cn_oik_lombard_d_west_bando
+	name_list_sicilian = cn_oik_sicilian_d_west_bando
+	name_list_sardinian = cn_oik_sardinian_d_west_bando
+	name_list_vlach = cn_oik_vlach_d_west_bando
 			}
 
 c_musashi = {
@@ -2874,6 +3744,12 @@ c_musashi = {
 					name_list_norse = cn_oik_norse_c_musashi
 					name_list_persian = cn_oik_persian_c_musashi
 					name_list_roman = cn_oik_roman_c_musashi
+	name_list_italian = cn_oik_italian_c_musashi
+	name_list_cisalpine = cn_oik_cisalpine_c_musashi
+	name_list_lombard = cn_oik_lombard_c_musashi
+	name_list_sicilian = cn_oik_sicilian_c_musashi
+	name_list_sardinian = cn_oik_sardinian_c_musashi
+	name_list_vlach = cn_oik_vlach_c_musashi
 				}
 
 b_tama_musashi = {
@@ -2892,6 +3768,12 @@ b_tama_musashi = {
 						name_list_norse = cn_oik_norse_b_tama_musashi
 						name_list_persian = cn_oik_persian_b_tama_musashi
 						name_list_roman = cn_oik_roman_b_tama_musashi
+	name_list_italian = cn_oik_italian_b_tama_musashi
+	name_list_cisalpine = cn_oik_cisalpine_b_tama_musashi
+	name_list_lombard = cn_oik_lombard_b_tama_musashi
+	name_list_sicilian = cn_oik_sicilian_b_tama_musashi
+	name_list_sardinian = cn_oik_sardinian_b_tama_musashi
+	name_list_vlach = cn_oik_vlach_b_tama_musashi
 					}
 
 }
@@ -2911,6 +3793,12 @@ b_tama_musashi = {
 						name_list_norse = cn_oik_norse_b_adachi_musashi
 						name_list_persian = cn_oik_persian_b_adachi_musashi
 						name_list_roman = cn_oik_roman_b_adachi_musashi
+	name_list_italian = cn_oik_italian_b_adachi_musashi
+	name_list_cisalpine = cn_oik_cisalpine_b_adachi_musashi
+	name_list_lombard = cn_oik_lombard_b_adachi_musashi
+	name_list_sicilian = cn_oik_sicilian_b_adachi_musashi
+	name_list_sardinian = cn_oik_sardinian_b_adachi_musashi
+	name_list_vlach = cn_oik_vlach_b_adachi_musashi
 					}
 
 }
@@ -2930,6 +3818,12 @@ b_tama_musashi = {
 						name_list_norse = cn_oik_norse_b_toshima
 						name_list_persian = cn_oik_persian_b_toshima
 						name_list_roman = cn_oik_roman_b_toshima
+	name_list_italian = cn_oik_italian_b_toshima
+	name_list_cisalpine = cn_oik_cisalpine_b_toshima
+	name_list_lombard = cn_oik_lombard_b_toshima
+	name_list_sicilian = cn_oik_sicilian_b_toshima
+	name_list_sardinian = cn_oik_sardinian_b_toshima
+	name_list_vlach = cn_oik_vlach_b_toshima
 					}
 
 }
@@ -2949,6 +3843,12 @@ b_tama_musashi = {
 						name_list_norse = cn_oik_norse_b_iruma
 						name_list_persian = cn_oik_persian_b_iruma
 						name_list_roman = cn_oik_roman_b_iruma
+	name_list_italian = cn_oik_italian_b_iruma
+	name_list_cisalpine = cn_oik_cisalpine_b_iruma
+	name_list_lombard = cn_oik_lombard_b_iruma
+	name_list_sicilian = cn_oik_sicilian_b_iruma
+	name_list_sardinian = cn_oik_sardinian_b_iruma
+	name_list_vlach = cn_oik_vlach_b_iruma
 					}
 
 }
@@ -2968,6 +3868,12 @@ b_tama_musashi = {
 						name_list_norse = cn_oik_norse_b_chichibu
 						name_list_persian = cn_oik_persian_b_chichibu
 						name_list_roman = cn_oik_roman_b_chichibu
+	name_list_italian = cn_oik_italian_b_chichibu
+	name_list_cisalpine = cn_oik_cisalpine_b_chichibu
+	name_list_lombard = cn_oik_lombard_b_chichibu
+	name_list_sicilian = cn_oik_sicilian_b_chichibu
+	name_list_sardinian = cn_oik_sardinian_b_chichibu
+	name_list_vlach = cn_oik_vlach_b_chichibu
 					}
 
 }
@@ -2988,6 +3894,12 @@ b_tama_musashi = {
 					name_list_norse = cn_oik_norse_c_sagami
 					name_list_persian = cn_oik_persian_c_sagami
 					name_list_roman = cn_oik_roman_c_sagami
+	name_list_italian = cn_oik_italian_c_sagami
+	name_list_cisalpine = cn_oik_cisalpine_c_sagami
+	name_list_lombard = cn_oik_lombard_c_sagami
+	name_list_sicilian = cn_oik_sicilian_c_sagami
+	name_list_sardinian = cn_oik_sardinian_c_sagami
+	name_list_vlach = cn_oik_vlach_c_sagami
 				}
 
 b_kamakura = {
@@ -3006,6 +3918,12 @@ b_kamakura = {
 						name_list_norse = cn_oik_norse_b_kamakura
 						name_list_persian = cn_oik_persian_b_kamakura
 						name_list_roman = cn_oik_roman_b_kamakura
+	name_list_italian = cn_oik_italian_b_kamakura
+	name_list_cisalpine = cn_oik_cisalpine_b_kamakura
+	name_list_lombard = cn_oik_lombard_b_kamakura
+	name_list_sicilian = cn_oik_sicilian_b_kamakura
+	name_list_sardinian = cn_oik_sardinian_b_kamakura
+	name_list_vlach = cn_oik_vlach_b_kamakura
 					}
 
 }
@@ -3025,6 +3943,12 @@ b_kamakura = {
 						name_list_norse = cn_oik_norse_b_hakone
 						name_list_persian = cn_oik_persian_b_hakone
 						name_list_roman = cn_oik_roman_b_hakone
+	name_list_italian = cn_oik_italian_b_hakone
+	name_list_cisalpine = cn_oik_cisalpine_b_hakone
+	name_list_lombard = cn_oik_lombard_b_hakone
+	name_list_sicilian = cn_oik_sicilian_b_hakone
+	name_list_sardinian = cn_oik_sardinian_b_hakone
+	name_list_vlach = cn_oik_vlach_b_hakone
 					}
 
 }
@@ -3044,6 +3968,12 @@ b_kamakura = {
 						name_list_norse = cn_oik_norse_b_osumi
 						name_list_persian = cn_oik_persian_b_osumi
 						name_list_roman = cn_oik_roman_b_osumi
+	name_list_italian = cn_oik_italian_b_osumi
+	name_list_cisalpine = cn_oik_cisalpine_b_osumi
+	name_list_lombard = cn_oik_lombard_b_osumi
+	name_list_sicilian = cn_oik_sicilian_b_osumi
+	name_list_sardinian = cn_oik_sardinian_b_osumi
+	name_list_vlach = cn_oik_vlach_b_osumi
 					}
 
 }
@@ -3064,6 +3994,12 @@ b_kamakura = {
 					name_list_norse = cn_oik_norse_c_izu
 					name_list_persian = cn_oik_persian_c_izu
 					name_list_roman = cn_oik_roman_c_izu
+	name_list_italian = cn_oik_italian_c_izu
+	name_list_cisalpine = cn_oik_cisalpine_c_izu
+	name_list_lombard = cn_oik_lombard_c_izu
+	name_list_sicilian = cn_oik_sicilian_c_izu
+	name_list_sardinian = cn_oik_sardinian_c_izu
+	name_list_vlach = cn_oik_vlach_c_izu
 				}
 
 b_tagata = {
@@ -3082,6 +4018,12 @@ b_tagata = {
 						name_list_norse = cn_oik_norse_b_tagata
 						name_list_persian = cn_oik_persian_b_tagata
 						name_list_roman = cn_oik_roman_b_tagata
+	name_list_italian = cn_oik_italian_b_tagata
+	name_list_cisalpine = cn_oik_cisalpine_b_tagata
+	name_list_lombard = cn_oik_lombard_b_tagata
+	name_list_sicilian = cn_oik_sicilian_b_tagata
+	name_list_sardinian = cn_oik_sardinian_b_tagata
+	name_list_vlach = cn_oik_vlach_b_tagata
 					}
 
 }
@@ -3101,6 +4043,12 @@ b_tagata = {
 						name_list_norse = cn_oik_norse_b_kamo_izu
 						name_list_persian = cn_oik_persian_b_kamo_izu
 						name_list_roman = cn_oik_roman_b_kamo_izu
+	name_list_italian = cn_oik_italian_b_kamo_izu
+	name_list_cisalpine = cn_oik_cisalpine_b_kamo_izu
+	name_list_lombard = cn_oik_lombard_b_kamo_izu
+	name_list_sicilian = cn_oik_sicilian_b_kamo_izu
+	name_list_sardinian = cn_oik_sardinian_b_kamo_izu
+	name_list_vlach = cn_oik_vlach_b_kamo_izu
 					}
 
 }
@@ -3121,6 +4069,12 @@ b_tagata = {
 					name_list_norse = cn_oik_norse_c_kozuke
 					name_list_persian = cn_oik_persian_c_kozuke
 					name_list_roman = cn_oik_roman_c_kozuke
+	name_list_italian = cn_oik_italian_c_kozuke
+	name_list_cisalpine = cn_oik_cisalpine_c_kozuke
+	name_list_lombard = cn_oik_lombard_c_kozuke
+	name_list_sicilian = cn_oik_sicilian_c_kozuke
+	name_list_sardinian = cn_oik_sardinian_c_kozuke
+	name_list_vlach = cn_oik_vlach_c_kozuke
 				}
 
 b_gunma = {
@@ -3139,6 +4093,12 @@ b_gunma = {
 						name_list_norse = cn_oik_norse_b_gunma
 						name_list_persian = cn_oik_persian_b_gunma
 						name_list_roman = cn_oik_roman_b_gunma
+	name_list_italian = cn_oik_italian_b_gunma
+	name_list_cisalpine = cn_oik_cisalpine_b_gunma
+	name_list_lombard = cn_oik_lombard_b_gunma
+	name_list_sicilian = cn_oik_sicilian_b_gunma
+	name_list_sardinian = cn_oik_sardinian_b_gunma
+	name_list_vlach = cn_oik_vlach_b_gunma
 					}
 
 }
@@ -3158,6 +4118,12 @@ b_gunma = {
 						name_list_norse = cn_oik_norse_b_tone
 						name_list_persian = cn_oik_persian_b_tone
 						name_list_roman = cn_oik_roman_b_tone
+	name_list_italian = cn_oik_italian_b_tone
+	name_list_cisalpine = cn_oik_cisalpine_b_tone
+	name_list_lombard = cn_oik_lombard_b_tone
+	name_list_sicilian = cn_oik_sicilian_b_tone
+	name_list_sardinian = cn_oik_sardinian_b_tone
+	name_list_vlach = cn_oik_vlach_b_tone
 					}
 
 }
@@ -3177,6 +4143,12 @@ b_gunma = {
 						name_list_norse = cn_oik_norse_b_nitta
 						name_list_persian = cn_oik_persian_b_nitta
 						name_list_roman = cn_oik_roman_b_nitta
+	name_list_italian = cn_oik_italian_b_nitta
+	name_list_cisalpine = cn_oik_cisalpine_b_nitta
+	name_list_lombard = cn_oik_lombard_b_nitta
+	name_list_sicilian = cn_oik_sicilian_b_nitta
+	name_list_sardinian = cn_oik_sardinian_b_nitta
+	name_list_vlach = cn_oik_vlach_b_nitta
 					}
 
 }
@@ -3196,6 +4168,12 @@ b_gunma = {
 						name_list_norse = cn_oik_norse_b_agatsuma
 						name_list_persian = cn_oik_persian_b_agatsuma
 						name_list_roman = cn_oik_roman_b_agatsuma
+	name_list_italian = cn_oik_italian_b_agatsuma
+	name_list_cisalpine = cn_oik_cisalpine_b_agatsuma
+	name_list_lombard = cn_oik_lombard_b_agatsuma
+	name_list_sicilian = cn_oik_sicilian_b_agatsuma
+	name_list_sardinian = cn_oik_sardinian_b_agatsuma
+	name_list_vlach = cn_oik_vlach_b_agatsuma
 					}
 
 }
@@ -3223,6 +4201,12 @@ b_gunma = {
 				name_list_norse = cn_oik_norse_d_tokaido
 				name_list_persian = cn_oik_persian_d_tokaido
 				name_list_roman = cn_oik_roman_d_tokaido
+	name_list_italian = cn_oik_italian_d_tokaido
+	name_list_cisalpine = cn_oik_cisalpine_d_tokaido
+	name_list_lombard = cn_oik_lombard_d_tokaido
+	name_list_sicilian = cn_oik_sicilian_d_tokaido
+	name_list_sardinian = cn_oik_sardinian_d_tokaido
+	name_list_vlach = cn_oik_vlach_d_tokaido
 			}
 
 c_ise = {
@@ -3240,6 +4224,12 @@ c_ise = {
 					name_list_norse = cn_oik_norse_c_ise
 					name_list_persian = cn_oik_persian_c_ise
 					name_list_roman = cn_oik_roman_c_ise
+	name_list_italian = cn_oik_italian_c_ise
+	name_list_cisalpine = cn_oik_cisalpine_c_ise
+	name_list_lombard = cn_oik_lombard_c_ise
+	name_list_sicilian = cn_oik_sicilian_c_ise
+	name_list_sardinian = cn_oik_sardinian_c_ise
+	name_list_vlach = cn_oik_vlach_c_ise
 				}
 
 b_ano = {
@@ -3258,6 +4248,12 @@ b_ano = {
 						name_list_norse = cn_oik_norse_b_ano
 						name_list_persian = cn_oik_persian_b_ano
 						name_list_roman = cn_oik_roman_b_ano
+	name_list_italian = cn_oik_italian_b_ano
+	name_list_cisalpine = cn_oik_cisalpine_b_ano
+	name_list_lombard = cn_oik_lombard_b_ano
+	name_list_sicilian = cn_oik_sicilian_b_ano
+	name_list_sardinian = cn_oik_sardinian_b_ano
+	name_list_vlach = cn_oik_vlach_b_ano
 					}
 
 }
@@ -3277,6 +4273,12 @@ b_ano = {
 						name_list_norse = cn_oik_norse_b_ise_jingu
 						name_list_persian = cn_oik_persian_b_ise_jingu
 						name_list_roman = cn_oik_roman_b_ise_jingu
+	name_list_italian = cn_oik_italian_b_ise_jingu
+	name_list_cisalpine = cn_oik_cisalpine_b_ise_jingu
+	name_list_lombard = cn_oik_lombard_b_ise_jingu
+	name_list_sicilian = cn_oik_sicilian_b_ise_jingu
+	name_list_sardinian = cn_oik_sardinian_b_ise_jingu
+	name_list_vlach = cn_oik_vlach_b_ise_jingu
 					}
 
 }
@@ -3296,6 +4298,12 @@ b_ano = {
 						name_list_norse = cn_oik_norse_b_iga
 						name_list_persian = cn_oik_persian_b_iga
 						name_list_roman = cn_oik_roman_b_iga
+	name_list_italian = cn_oik_italian_b_iga
+	name_list_cisalpine = cn_oik_cisalpine_b_iga
+	name_list_lombard = cn_oik_lombard_b_iga
+	name_list_sicilian = cn_oik_sicilian_b_iga
+	name_list_sardinian = cn_oik_sardinian_b_iga
+	name_list_vlach = cn_oik_vlach_b_iga
 					}
 
 }
@@ -3315,6 +4323,12 @@ b_ano = {
 						name_list_norse = cn_oik_norse_b_mie
 						name_list_persian = cn_oik_persian_b_mie
 						name_list_roman = cn_oik_roman_b_mie
+	name_list_italian = cn_oik_italian_b_mie
+	name_list_cisalpine = cn_oik_cisalpine_b_mie
+	name_list_lombard = cn_oik_lombard_b_mie
+	name_list_sicilian = cn_oik_sicilian_b_mie
+	name_list_sardinian = cn_oik_sardinian_b_mie
+	name_list_vlach = cn_oik_vlach_b_mie
 					}
 
 }
@@ -3334,6 +4348,12 @@ b_ano = {
 						name_list_norse = cn_oik_norse_b_shima
 						name_list_persian = cn_oik_persian_b_shima
 						name_list_roman = cn_oik_roman_b_shima
+	name_list_italian = cn_oik_italian_b_shima
+	name_list_cisalpine = cn_oik_cisalpine_b_shima
+	name_list_lombard = cn_oik_lombard_b_shima
+	name_list_sicilian = cn_oik_sicilian_b_shima
+	name_list_sardinian = cn_oik_sardinian_b_shima
+	name_list_vlach = cn_oik_vlach_b_shima
 					}
 
 }
@@ -3354,6 +4374,12 @@ b_ano = {
 					name_list_norse = cn_oik_norse_c_owari
 					name_list_persian = cn_oik_persian_c_owari
 					name_list_roman = cn_oik_roman_c_owari
+	name_list_italian = cn_oik_italian_c_owari
+	name_list_cisalpine = cn_oik_cisalpine_c_owari
+	name_list_lombard = cn_oik_lombard_c_owari
+	name_list_sicilian = cn_oik_sicilian_c_owari
+	name_list_sardinian = cn_oik_sardinian_c_owari
+	name_list_vlach = cn_oik_vlach_c_owari
 				}
 
 b_nakashima = {
@@ -3372,6 +4398,12 @@ b_nakashima = {
 						name_list_norse = cn_oik_norse_b_nakashima
 						name_list_persian = cn_oik_persian_b_nakashima
 						name_list_roman = cn_oik_roman_b_nakashima
+	name_list_italian = cn_oik_italian_b_nakashima
+	name_list_cisalpine = cn_oik_cisalpine_b_nakashima
+	name_list_lombard = cn_oik_lombard_b_nakashima
+	name_list_sicilian = cn_oik_sicilian_b_nakashima
+	name_list_sardinian = cn_oik_sardinian_b_nakashima
+	name_list_vlach = cn_oik_vlach_b_nakashima
 					}
 
 }
@@ -3391,6 +4423,12 @@ b_nakashima = {
 						name_list_norse = cn_oik_norse_b_atsuta
 						name_list_persian = cn_oik_persian_b_atsuta
 						name_list_roman = cn_oik_roman_b_atsuta
+	name_list_italian = cn_oik_italian_b_atsuta
+	name_list_cisalpine = cn_oik_cisalpine_b_atsuta
+	name_list_lombard = cn_oik_lombard_b_atsuta
+	name_list_sicilian = cn_oik_sicilian_b_atsuta
+	name_list_sardinian = cn_oik_sardinian_b_atsuta
+	name_list_vlach = cn_oik_vlach_b_atsuta
 					}
 
 }
@@ -3410,6 +4448,12 @@ b_nakashima = {
 						name_list_norse = cn_oik_norse_b_kasugai
 						name_list_persian = cn_oik_persian_b_kasugai
 						name_list_roman = cn_oik_roman_b_kasugai
+	name_list_italian = cn_oik_italian_b_kasugai
+	name_list_cisalpine = cn_oik_cisalpine_b_kasugai
+	name_list_lombard = cn_oik_lombard_b_kasugai
+	name_list_sicilian = cn_oik_sicilian_b_kasugai
+	name_list_sardinian = cn_oik_sardinian_b_kasugai
+	name_list_vlach = cn_oik_vlach_b_kasugai
 					}
 
 }
@@ -3430,6 +4474,12 @@ b_nakashima = {
 					name_list_norse = cn_oik_norse_c_mikawa
 					name_list_persian = cn_oik_persian_c_mikawa
 					name_list_roman = cn_oik_roman_c_mikawa
+	name_list_italian = cn_oik_italian_c_mikawa
+	name_list_cisalpine = cn_oik_cisalpine_c_mikawa
+	name_list_lombard = cn_oik_lombard_c_mikawa
+	name_list_sicilian = cn_oik_sicilian_c_mikawa
+	name_list_sardinian = cn_oik_sardinian_c_mikawa
+	name_list_vlach = cn_oik_vlach_c_mikawa
 				}
 
 b_atsumi = {
@@ -3448,6 +4498,12 @@ b_atsumi = {
 						name_list_norse = cn_oik_norse_b_atsumi
 						name_list_persian = cn_oik_persian_b_atsumi
 						name_list_roman = cn_oik_roman_b_atsumi
+	name_list_italian = cn_oik_italian_b_atsumi
+	name_list_cisalpine = cn_oik_cisalpine_b_atsumi
+	name_list_lombard = cn_oik_lombard_b_atsumi
+	name_list_sicilian = cn_oik_sicilian_b_atsumi
+	name_list_sardinian = cn_oik_sardinian_b_atsumi
+	name_list_vlach = cn_oik_vlach_b_atsumi
 					}
 
 }
@@ -3467,6 +4523,12 @@ b_atsumi = {
 						name_list_norse = cn_oik_norse_b_nukata
 						name_list_persian = cn_oik_persian_b_nukata
 						name_list_roman = cn_oik_roman_b_nukata
+	name_list_italian = cn_oik_italian_b_nukata
+	name_list_cisalpine = cn_oik_cisalpine_b_nukata
+	name_list_lombard = cn_oik_lombard_b_nukata
+	name_list_sicilian = cn_oik_sicilian_b_nukata
+	name_list_sardinian = cn_oik_sardinian_b_nukata
+	name_list_vlach = cn_oik_vlach_b_nukata
 					}
 
 }
@@ -3486,6 +4548,12 @@ b_atsumi = {
 						name_list_norse = cn_oik_norse_b_shitara
 						name_list_persian = cn_oik_persian_b_shitara
 						name_list_roman = cn_oik_roman_b_shitara
+	name_list_italian = cn_oik_italian_b_shitara
+	name_list_cisalpine = cn_oik_cisalpine_b_shitara
+	name_list_lombard = cn_oik_lombard_b_shitara
+	name_list_sicilian = cn_oik_sicilian_b_shitara
+	name_list_sardinian = cn_oik_sardinian_b_shitara
+	name_list_vlach = cn_oik_vlach_b_shitara
 					}
 
 }
@@ -3505,6 +4573,12 @@ b_atsumi = {
 						name_list_norse = cn_oik_norse_b_kamo_mikawa
 						name_list_persian = cn_oik_persian_b_kamo_mikawa
 						name_list_roman = cn_oik_roman_b_kamo_mikawa
+	name_list_italian = cn_oik_italian_b_kamo_mikawa
+	name_list_cisalpine = cn_oik_cisalpine_b_kamo_mikawa
+	name_list_lombard = cn_oik_lombard_b_kamo_mikawa
+	name_list_sicilian = cn_oik_sicilian_b_kamo_mikawa
+	name_list_sardinian = cn_oik_sardinian_b_kamo_mikawa
+	name_list_vlach = cn_oik_vlach_b_kamo_mikawa
 					}
 
 }
@@ -3525,6 +4599,12 @@ b_atsumi = {
 					name_list_norse = cn_oik_norse_c_suruga
 					name_list_persian = cn_oik_persian_c_suruga
 					name_list_roman = cn_oik_roman_c_suruga
+	name_list_italian = cn_oik_italian_c_suruga
+	name_list_cisalpine = cn_oik_cisalpine_c_suruga
+	name_list_lombard = cn_oik_lombard_c_suruga
+	name_list_sicilian = cn_oik_sicilian_c_suruga
+	name_list_sardinian = cn_oik_sardinian_c_suruga
+	name_list_vlach = cn_oik_vlach_c_suruga
 				}
 
 b_abe = {
@@ -3543,6 +4623,12 @@ b_abe = {
 						name_list_norse = cn_oik_norse_b_abe
 						name_list_persian = cn_oik_persian_b_abe
 						name_list_roman = cn_oik_roman_b_abe
+	name_list_italian = cn_oik_italian_b_abe
+	name_list_cisalpine = cn_oik_cisalpine_b_abe
+	name_list_lombard = cn_oik_lombard_b_abe
+	name_list_sicilian = cn_oik_sicilian_b_abe
+	name_list_sardinian = cn_oik_sardinian_b_abe
+	name_list_vlach = cn_oik_vlach_b_abe
 					}
 
 }
@@ -3562,6 +4648,12 @@ b_abe = {
 						name_list_norse = cn_oik_norse_b_fuji
 						name_list_persian = cn_oik_persian_b_fuji
 						name_list_roman = cn_oik_roman_b_fuji
+	name_list_italian = cn_oik_italian_b_fuji
+	name_list_cisalpine = cn_oik_cisalpine_b_fuji
+	name_list_lombard = cn_oik_lombard_b_fuji
+	name_list_sicilian = cn_oik_sicilian_b_fuji
+	name_list_sardinian = cn_oik_sardinian_b_fuji
+	name_list_vlach = cn_oik_vlach_b_fuji
 					}
 
 }
@@ -3581,6 +4673,12 @@ b_abe = {
 						name_list_norse = cn_oik_norse_b_shida
 						name_list_persian = cn_oik_persian_b_shida
 						name_list_roman = cn_oik_roman_b_shida
+	name_list_italian = cn_oik_italian_b_shida
+	name_list_cisalpine = cn_oik_cisalpine_b_shida
+	name_list_lombard = cn_oik_lombard_b_shida
+	name_list_sicilian = cn_oik_sicilian_b_shida
+	name_list_sardinian = cn_oik_sardinian_b_shida
+	name_list_vlach = cn_oik_vlach_b_shida
 					}
 
 }
@@ -3601,6 +4699,12 @@ b_abe = {
 					name_list_norse = cn_oik_norse_c_totomi
 					name_list_persian = cn_oik_persian_c_totomi
 					name_list_roman = cn_oik_roman_c_totomi
+	name_list_italian = cn_oik_italian_c_totomi
+	name_list_cisalpine = cn_oik_cisalpine_c_totomi
+	name_list_lombard = cn_oik_lombard_c_totomi
+	name_list_sicilian = cn_oik_sicilian_c_totomi
+	name_list_sardinian = cn_oik_sardinian_c_totomi
+	name_list_vlach = cn_oik_vlach_c_totomi
 				}
 
 b_toyoda = {
@@ -3619,6 +4723,12 @@ b_toyoda = {
 						name_list_norse = cn_oik_norse_b_toyoda
 						name_list_persian = cn_oik_persian_b_toyoda
 						name_list_roman = cn_oik_roman_b_toyoda
+	name_list_italian = cn_oik_italian_b_toyoda
+	name_list_cisalpine = cn_oik_cisalpine_b_toyoda
+	name_list_lombard = cn_oik_lombard_b_toyoda
+	name_list_sicilian = cn_oik_sicilian_b_toyoda
+	name_list_sardinian = cn_oik_sardinian_b_toyoda
+	name_list_vlach = cn_oik_vlach_b_toyoda
 					}
 
 }
@@ -3638,6 +4748,12 @@ b_toyoda = {
 						name_list_norse = cn_oik_norse_b_suchi
 						name_list_persian = cn_oik_persian_b_suchi
 						name_list_roman = cn_oik_roman_b_suchi
+	name_list_italian = cn_oik_italian_b_suchi
+	name_list_cisalpine = cn_oik_cisalpine_b_suchi
+	name_list_lombard = cn_oik_lombard_b_suchi
+	name_list_sicilian = cn_oik_sicilian_b_suchi
+	name_list_sardinian = cn_oik_sardinian_b_suchi
+	name_list_vlach = cn_oik_vlach_b_suchi
 					}
 
 }
@@ -3657,6 +4773,12 @@ b_toyoda = {
 						name_list_norse = cn_oik_norse_b_fuchi
 						name_list_persian = cn_oik_persian_b_fuchi
 						name_list_roman = cn_oik_roman_b_fuchi
+	name_list_italian = cn_oik_italian_b_fuchi
+	name_list_cisalpine = cn_oik_cisalpine_b_fuchi
+	name_list_lombard = cn_oik_lombard_b_fuchi
+	name_list_sicilian = cn_oik_sicilian_b_fuchi
+	name_list_sardinian = cn_oik_sardinian_b_fuchi
+	name_list_vlach = cn_oik_vlach_b_fuchi
 					}
 
 }
@@ -3684,6 +4806,12 @@ b_toyoda = {
 				name_list_norse = cn_oik_norse_d_tosando
 				name_list_persian = cn_oik_persian_d_tosando
 				name_list_roman = cn_oik_roman_d_tosando
+	name_list_italian = cn_oik_italian_d_tosando
+	name_list_cisalpine = cn_oik_cisalpine_d_tosando
+	name_list_lombard = cn_oik_lombard_d_tosando
+	name_list_sicilian = cn_oik_sicilian_d_tosando
+	name_list_sardinian = cn_oik_sardinian_d_tosando
+	name_list_vlach = cn_oik_vlach_d_tosando
 			}
 
 c_omi = {
@@ -3701,6 +4829,12 @@ c_omi = {
 					name_list_norse = cn_oik_norse_c_omi
 					name_list_persian = cn_oik_persian_c_omi
 					name_list_roman = cn_oik_roman_c_omi
+	name_list_italian = cn_oik_italian_c_omi
+	name_list_cisalpine = cn_oik_cisalpine_c_omi
+	name_list_lombard = cn_oik_lombard_c_omi
+	name_list_sicilian = cn_oik_sicilian_c_omi
+	name_list_sardinian = cn_oik_sardinian_c_omi
+	name_list_vlach = cn_oik_vlach_c_omi
 				}
 
 b_koka = {
@@ -3719,6 +4853,12 @@ b_koka = {
 						name_list_norse = cn_oik_norse_b_koka
 						name_list_persian = cn_oik_persian_b_koka
 						name_list_roman = cn_oik_roman_b_koka
+	name_list_italian = cn_oik_italian_b_koka
+	name_list_cisalpine = cn_oik_cisalpine_b_koka
+	name_list_lombard = cn_oik_lombard_b_koka
+	name_list_sicilian = cn_oik_sicilian_b_koka
+	name_list_sardinian = cn_oik_sardinian_b_koka
+	name_list_vlach = cn_oik_vlach_b_koka
 					}
 
 }
@@ -3738,6 +4878,12 @@ b_koka = {
 						name_list_norse = cn_oik_norse_b_enryaku_ji
 						name_list_persian = cn_oik_persian_b_enryaku_ji
 						name_list_roman = cn_oik_roman_b_enryaku_ji
+	name_list_italian = cn_oik_italian_b_enryaku_ji
+	name_list_cisalpine = cn_oik_cisalpine_b_enryaku_ji
+	name_list_lombard = cn_oik_lombard_b_enryaku_ji
+	name_list_sicilian = cn_oik_sicilian_b_enryaku_ji
+	name_list_sardinian = cn_oik_sardinian_b_enryaku_ji
+	name_list_vlach = cn_oik_vlach_b_enryaku_ji
 					}
 
 }
@@ -3757,6 +4903,12 @@ b_koka = {
 						name_list_norse = cn_oik_norse_b_inukami
 						name_list_persian = cn_oik_persian_b_inukami
 						name_list_roman = cn_oik_roman_b_inukami
+	name_list_italian = cn_oik_italian_b_inukami
+	name_list_cisalpine = cn_oik_cisalpine_b_inukami
+	name_list_lombard = cn_oik_lombard_b_inukami
+	name_list_sicilian = cn_oik_sicilian_b_inukami
+	name_list_sardinian = cn_oik_sardinian_b_inukami
+	name_list_vlach = cn_oik_vlach_b_inukami
 					}
 
 }
@@ -3776,6 +4928,12 @@ b_koka = {
 						name_list_norse = cn_oik_norse_b_azai
 						name_list_persian = cn_oik_persian_b_azai
 						name_list_roman = cn_oik_roman_b_azai
+	name_list_italian = cn_oik_italian_b_azai
+	name_list_cisalpine = cn_oik_cisalpine_b_azai
+	name_list_lombard = cn_oik_lombard_b_azai
+	name_list_sicilian = cn_oik_sicilian_b_azai
+	name_list_sardinian = cn_oik_sardinian_b_azai
+	name_list_vlach = cn_oik_vlach_b_azai
 					}
 
 }
@@ -3796,6 +4954,12 @@ b_koka = {
 					name_list_norse = cn_oik_norse_c_mino
 					name_list_persian = cn_oik_persian_c_mino
 					name_list_roman = cn_oik_roman_c_mino
+	name_list_italian = cn_oik_italian_c_mino
+	name_list_cisalpine = cn_oik_cisalpine_c_mino
+	name_list_lombard = cn_oik_lombard_c_mino
+	name_list_sicilian = cn_oik_sicilian_c_mino
+	name_list_sardinian = cn_oik_sardinian_c_mino
+	name_list_vlach = cn_oik_vlach_c_mino
 				}
 
 b_fuwa = {
@@ -3814,6 +4978,12 @@ b_fuwa = {
 						name_list_norse = cn_oik_norse_b_fuwa
 						name_list_persian = cn_oik_persian_b_fuwa
 						name_list_roman = cn_oik_roman_b_fuwa
+	name_list_italian = cn_oik_italian_b_fuwa
+	name_list_cisalpine = cn_oik_cisalpine_b_fuwa
+	name_list_lombard = cn_oik_lombard_b_fuwa
+	name_list_sicilian = cn_oik_sicilian_b_fuwa
+	name_list_sardinian = cn_oik_sardinian_b_fuwa
+	name_list_vlach = cn_oik_vlach_b_fuwa
 					}
 
 }
@@ -3833,6 +5003,12 @@ b_fuwa = {
 						name_list_norse = cn_oik_norse_b_gujo
 						name_list_persian = cn_oik_persian_b_gujo
 						name_list_roman = cn_oik_roman_b_gujo
+	name_list_italian = cn_oik_italian_b_gujo
+	name_list_cisalpine = cn_oik_cisalpine_b_gujo
+	name_list_lombard = cn_oik_lombard_b_gujo
+	name_list_sicilian = cn_oik_sicilian_b_gujo
+	name_list_sardinian = cn_oik_sardinian_b_gujo
+	name_list_vlach = cn_oik_vlach_b_gujo
 					}
 
 }
@@ -3852,6 +5028,12 @@ b_fuwa = {
 						name_list_norse = cn_oik_norse_b_kani
 						name_list_persian = cn_oik_persian_b_kani
 						name_list_roman = cn_oik_roman_b_kani
+	name_list_italian = cn_oik_italian_b_kani
+	name_list_cisalpine = cn_oik_cisalpine_b_kani
+	name_list_lombard = cn_oik_lombard_b_kani
+	name_list_sicilian = cn_oik_sicilian_b_kani
+	name_list_sardinian = cn_oik_sardinian_b_kani
+	name_list_vlach = cn_oik_vlach_b_kani
 					}
 
 }
@@ -3871,6 +5053,12 @@ b_fuwa = {
 						name_list_norse = cn_oik_norse_b_motosu
 						name_list_persian = cn_oik_persian_b_motosu
 						name_list_roman = cn_oik_roman_b_motosu
+	name_list_italian = cn_oik_italian_b_motosu
+	name_list_cisalpine = cn_oik_cisalpine_b_motosu
+	name_list_lombard = cn_oik_lombard_b_motosu
+	name_list_sicilian = cn_oik_sicilian_b_motosu
+	name_list_sardinian = cn_oik_sardinian_b_motosu
+	name_list_vlach = cn_oik_vlach_b_motosu
 					}
 
 }
@@ -3890,6 +5078,12 @@ b_fuwa = {
 						name_list_norse = cn_oik_norse_b_mugi
 						name_list_persian = cn_oik_persian_b_mugi
 						name_list_roman = cn_oik_roman_b_mugi
+	name_list_italian = cn_oik_italian_b_mugi
+	name_list_cisalpine = cn_oik_cisalpine_b_mugi
+	name_list_lombard = cn_oik_lombard_b_mugi
+	name_list_sicilian = cn_oik_sicilian_b_mugi
+	name_list_sardinian = cn_oik_sardinian_b_mugi
+	name_list_vlach = cn_oik_vlach_b_mugi
 					}
 
 }
@@ -3910,6 +5104,12 @@ b_fuwa = {
 					name_list_norse = cn_oik_norse_c_hida
 					name_list_persian = cn_oik_persian_c_hida
 					name_list_roman = cn_oik_roman_c_hida
+	name_list_italian = cn_oik_italian_c_hida
+	name_list_cisalpine = cn_oik_cisalpine_c_hida
+	name_list_lombard = cn_oik_lombard_c_hida
+	name_list_sicilian = cn_oik_sicilian_c_hida
+	name_list_sardinian = cn_oik_sardinian_c_hida
+	name_list_vlach = cn_oik_vlach_c_hida
 				}
 
 b_ono_hida = {
@@ -3928,6 +5128,12 @@ b_ono_hida = {
 						name_list_norse = cn_oik_norse_b_ono_hida
 						name_list_persian = cn_oik_persian_b_ono_hida
 						name_list_roman = cn_oik_roman_b_ono_hida
+	name_list_italian = cn_oik_italian_b_ono_hida
+	name_list_cisalpine = cn_oik_cisalpine_b_ono_hida
+	name_list_lombard = cn_oik_lombard_b_ono_hida
+	name_list_sicilian = cn_oik_sicilian_b_ono_hida
+	name_list_sardinian = cn_oik_sardinian_b_ono_hida
+	name_list_vlach = cn_oik_vlach_b_ono_hida
 					}
 
 }
@@ -3947,6 +5153,12 @@ b_ono_hida = {
 						name_list_norse = cn_oik_norse_b_yoshiki_hida
 						name_list_persian = cn_oik_persian_b_yoshiki_hida
 						name_list_roman = cn_oik_roman_b_yoshiki_hida
+	name_list_italian = cn_oik_italian_b_yoshiki_hida
+	name_list_cisalpine = cn_oik_cisalpine_b_yoshiki_hida
+	name_list_lombard = cn_oik_lombard_b_yoshiki_hida
+	name_list_sicilian = cn_oik_sicilian_b_yoshiki_hida
+	name_list_sardinian = cn_oik_sardinian_b_yoshiki_hida
+	name_list_vlach = cn_oik_vlach_b_yoshiki_hida
 					}
 
 }
@@ -3966,6 +5178,12 @@ b_ono_hida = {
 						name_list_norse = cn_oik_norse_b_mashita
 						name_list_persian = cn_oik_persian_b_mashita
 						name_list_roman = cn_oik_roman_b_mashita
+	name_list_italian = cn_oik_italian_b_mashita
+	name_list_cisalpine = cn_oik_cisalpine_b_mashita
+	name_list_lombard = cn_oik_lombard_b_mashita
+	name_list_sicilian = cn_oik_sicilian_b_mashita
+	name_list_sardinian = cn_oik_sardinian_b_mashita
+	name_list_vlach = cn_oik_vlach_b_mashita
 					}
 
 }
@@ -3986,6 +5204,12 @@ b_ono_hida = {
 					name_list_norse = cn_oik_norse_c_shinano
 					name_list_persian = cn_oik_persian_c_shinano
 					name_list_roman = cn_oik_roman_c_shinano
+	name_list_italian = cn_oik_italian_c_shinano
+	name_list_cisalpine = cn_oik_cisalpine_c_shinano
+	name_list_lombard = cn_oik_lombard_c_shinano
+	name_list_sicilian = cn_oik_sicilian_c_shinano
+	name_list_sardinian = cn_oik_sardinian_c_shinano
+	name_list_vlach = cn_oik_vlach_c_shinano
 				}
 
 b_tsukama = {
@@ -4004,6 +5228,12 @@ b_tsukama = {
 						name_list_norse = cn_oik_norse_b_tsukama
 						name_list_persian = cn_oik_persian_b_tsukama
 						name_list_roman = cn_oik_roman_b_tsukama
+	name_list_italian = cn_oik_italian_b_tsukama
+	name_list_cisalpine = cn_oik_cisalpine_b_tsukama
+	name_list_lombard = cn_oik_lombard_b_tsukama
+	name_list_sicilian = cn_oik_sicilian_b_tsukama
+	name_list_sardinian = cn_oik_sardinian_b_tsukama
+	name_list_vlach = cn_oik_vlach_b_tsukama
 					}
 
 }
@@ -4023,6 +5253,12 @@ b_tsukama = {
 						name_list_norse = cn_oik_norse_b_zenko_ji
 						name_list_persian = cn_oik_persian_b_zenko_ji
 						name_list_roman = cn_oik_roman_b_zenko_ji
+	name_list_italian = cn_oik_italian_b_zenko_ji
+	name_list_cisalpine = cn_oik_cisalpine_b_zenko_ji
+	name_list_lombard = cn_oik_lombard_b_zenko_ji
+	name_list_sicilian = cn_oik_sicilian_b_zenko_ji
+	name_list_sardinian = cn_oik_sardinian_b_zenko_ji
+	name_list_vlach = cn_oik_vlach_b_zenko_ji
 					}
 
 }
@@ -4042,6 +5278,12 @@ b_tsukama = {
 						name_list_norse = cn_oik_norse_b_saku
 						name_list_persian = cn_oik_persian_b_saku
 						name_list_roman = cn_oik_roman_b_saku
+	name_list_italian = cn_oik_italian_b_saku
+	name_list_cisalpine = cn_oik_cisalpine_b_saku
+	name_list_lombard = cn_oik_lombard_b_saku
+	name_list_sicilian = cn_oik_sicilian_b_saku
+	name_list_sardinian = cn_oik_sardinian_b_saku
+	name_list_vlach = cn_oik_vlach_b_saku
 					}
 
 }
@@ -4061,6 +5303,12 @@ b_tsukama = {
 						name_list_norse = cn_oik_norse_b_azumi
 						name_list_persian = cn_oik_persian_b_azumi
 						name_list_roman = cn_oik_roman_b_azumi
+	name_list_italian = cn_oik_italian_b_azumi
+	name_list_cisalpine = cn_oik_cisalpine_b_azumi
+	name_list_lombard = cn_oik_lombard_b_azumi
+	name_list_sicilian = cn_oik_sicilian_b_azumi
+	name_list_sardinian = cn_oik_sardinian_b_azumi
+	name_list_vlach = cn_oik_vlach_b_azumi
 					}
 
 }
@@ -4081,6 +5329,12 @@ b_tsukama = {
 					name_list_norse = cn_oik_norse_c_kai
 					name_list_persian = cn_oik_persian_c_kai
 					name_list_roman = cn_oik_roman_c_kai
+	name_list_italian = cn_oik_italian_c_kai
+	name_list_cisalpine = cn_oik_cisalpine_c_kai
+	name_list_lombard = cn_oik_lombard_c_kai
+	name_list_sicilian = cn_oik_sicilian_c_kai
+	name_list_sardinian = cn_oik_sardinian_c_kai
+	name_list_vlach = cn_oik_vlach_c_kai
 				}
 
 b_yatsushiro = {
@@ -4099,6 +5353,12 @@ b_yatsushiro = {
 						name_list_norse = cn_oik_norse_b_yatsushiro
 						name_list_persian = cn_oik_persian_b_yatsushiro
 						name_list_roman = cn_oik_roman_b_yatsushiro
+	name_list_italian = cn_oik_italian_b_yatsushiro
+	name_list_cisalpine = cn_oik_cisalpine_b_yatsushiro
+	name_list_lombard = cn_oik_lombard_b_yatsushiro
+	name_list_sicilian = cn_oik_sicilian_b_yatsushiro
+	name_list_sardinian = cn_oik_sardinian_b_yatsushiro
+	name_list_vlach = cn_oik_vlach_b_yatsushiro
 					}
 
 }
@@ -4118,6 +5378,12 @@ b_yatsushiro = {
 						name_list_norse = cn_oik_norse_b_tsuru
 						name_list_persian = cn_oik_persian_b_tsuru
 						name_list_roman = cn_oik_roman_b_tsuru
+	name_list_italian = cn_oik_italian_b_tsuru
+	name_list_cisalpine = cn_oik_cisalpine_b_tsuru
+	name_list_lombard = cn_oik_lombard_b_tsuru
+	name_list_sicilian = cn_oik_sicilian_b_tsuru
+	name_list_sardinian = cn_oik_sardinian_b_tsuru
+	name_list_vlach = cn_oik_vlach_b_tsuru
 					}
 
 }
@@ -4137,6 +5403,12 @@ b_yatsushiro = {
 						name_list_norse = cn_oik_norse_b_koma
 						name_list_persian = cn_oik_persian_b_koma
 						name_list_roman = cn_oik_roman_b_koma
+	name_list_italian = cn_oik_italian_b_koma
+	name_list_cisalpine = cn_oik_cisalpine_b_koma
+	name_list_lombard = cn_oik_lombard_b_koma
+	name_list_sicilian = cn_oik_sicilian_b_koma
+	name_list_sardinian = cn_oik_sardinian_b_koma
+	name_list_vlach = cn_oik_vlach_b_koma
 					}
 
 }
@@ -4164,6 +5436,12 @@ b_yatsushiro = {
 				name_list_norse = cn_oik_norse_d_hokurikudo
 				name_list_persian = cn_oik_persian_d_hokurikudo
 				name_list_roman = cn_oik_roman_d_hokurikudo
+	name_list_italian = cn_oik_italian_d_hokurikudo
+	name_list_cisalpine = cn_oik_cisalpine_d_hokurikudo
+	name_list_lombard = cn_oik_lombard_d_hokurikudo
+	name_list_sicilian = cn_oik_sicilian_d_hokurikudo
+	name_list_sardinian = cn_oik_sardinian_d_hokurikudo
+	name_list_vlach = cn_oik_vlach_d_hokurikudo
 			}
 
 c_echizen = {
@@ -4181,6 +5459,12 @@ c_echizen = {
 					name_list_norse = cn_oik_norse_c_echizen
 					name_list_persian = cn_oik_persian_c_echizen
 					name_list_roman = cn_oik_roman_c_echizen
+	name_list_italian = cn_oik_italian_c_echizen
+	name_list_cisalpine = cn_oik_cisalpine_c_echizen
+	name_list_lombard = cn_oik_lombard_c_echizen
+	name_list_sicilian = cn_oik_sicilian_c_echizen
+	name_list_sardinian = cn_oik_sardinian_c_echizen
+	name_list_vlach = cn_oik_vlach_c_echizen
 				}
 
 b_nyu = {
@@ -4199,6 +5483,12 @@ b_nyu = {
 						name_list_norse = cn_oik_norse_b_nyu
 						name_list_persian = cn_oik_persian_b_nyu
 						name_list_roman = cn_oik_roman_b_nyu
+	name_list_italian = cn_oik_italian_b_nyu
+	name_list_cisalpine = cn_oik_cisalpine_b_nyu
+	name_list_lombard = cn_oik_lombard_b_nyu
+	name_list_sicilian = cn_oik_sicilian_b_nyu
+	name_list_sardinian = cn_oik_sardinian_b_nyu
+	name_list_vlach = cn_oik_vlach_b_nyu
 					}
 
 }
@@ -4218,6 +5508,12 @@ b_nyu = {
 						name_list_norse = cn_oik_norse_b_ono_echizen
 						name_list_persian = cn_oik_persian_b_ono_echizen
 						name_list_roman = cn_oik_roman_b_ono_echizen
+	name_list_italian = cn_oik_italian_b_ono_echizen
+	name_list_cisalpine = cn_oik_cisalpine_b_ono_echizen
+	name_list_lombard = cn_oik_lombard_b_ono_echizen
+	name_list_sicilian = cn_oik_sicilian_b_ono_echizen
+	name_list_sardinian = cn_oik_sardinian_b_ono_echizen
+	name_list_vlach = cn_oik_vlach_b_ono_echizen
 					}
 
 }
@@ -4237,6 +5533,12 @@ b_nyu = {
 						name_list_norse = cn_oik_norse_b_tsuruga
 						name_list_persian = cn_oik_persian_b_tsuruga
 						name_list_roman = cn_oik_roman_b_tsuruga
+	name_list_italian = cn_oik_italian_b_tsuruga
+	name_list_cisalpine = cn_oik_cisalpine_b_tsuruga
+	name_list_lombard = cn_oik_lombard_b_tsuruga
+	name_list_sicilian = cn_oik_sicilian_b_tsuruga
+	name_list_sardinian = cn_oik_sardinian_b_tsuruga
+	name_list_vlach = cn_oik_vlach_b_tsuruga
 					}
 
 }
@@ -4256,6 +5558,12 @@ b_nyu = {
 						name_list_norse = cn_oik_norse_b_wakasa
 						name_list_persian = cn_oik_persian_b_wakasa
 						name_list_roman = cn_oik_roman_b_wakasa
+	name_list_italian = cn_oik_italian_b_wakasa
+	name_list_cisalpine = cn_oik_cisalpine_b_wakasa
+	name_list_lombard = cn_oik_lombard_b_wakasa
+	name_list_sicilian = cn_oik_sicilian_b_wakasa
+	name_list_sardinian = cn_oik_sardinian_b_wakasa
+	name_list_vlach = cn_oik_vlach_b_wakasa
 					}
 
 }
@@ -4275,6 +5583,12 @@ b_nyu = {
 						name_list_norse = cn_oik_norse_b_sakai
 						name_list_persian = cn_oik_persian_b_sakai
 						name_list_roman = cn_oik_roman_b_sakai
+	name_list_italian = cn_oik_italian_b_sakai
+	name_list_cisalpine = cn_oik_cisalpine_b_sakai
+	name_list_lombard = cn_oik_lombard_b_sakai
+	name_list_sicilian = cn_oik_sicilian_b_sakai
+	name_list_sardinian = cn_oik_sardinian_b_sakai
+	name_list_vlach = cn_oik_vlach_b_sakai
 					}
 
 }
@@ -4295,6 +5609,12 @@ b_nyu = {
 					name_list_norse = cn_oik_norse_c_echigo
 					name_list_persian = cn_oik_persian_c_echigo
 					name_list_roman = cn_oik_roman_c_echigo
+	name_list_italian = cn_oik_italian_c_echigo
+	name_list_cisalpine = cn_oik_cisalpine_c_echigo
+	name_list_lombard = cn_oik_lombard_c_echigo
+	name_list_sicilian = cn_oik_sicilian_c_echigo
+	name_list_sardinian = cn_oik_sardinian_c_echigo
+	name_list_vlach = cn_oik_vlach_c_echigo
 				}
 
 b_kubiki = {
@@ -4313,6 +5633,12 @@ b_kubiki = {
 						name_list_norse = cn_oik_norse_b_kubiki
 						name_list_persian = cn_oik_persian_b_kubiki
 						name_list_roman = cn_oik_roman_b_kubiki
+	name_list_italian = cn_oik_italian_b_kubiki
+	name_list_cisalpine = cn_oik_cisalpine_b_kubiki
+	name_list_lombard = cn_oik_lombard_b_kubiki
+	name_list_sicilian = cn_oik_sicilian_b_kubiki
+	name_list_sardinian = cn_oik_sardinian_b_kubiki
+	name_list_vlach = cn_oik_vlach_b_kubiki
 					}
 
 }
@@ -4332,6 +5658,12 @@ b_kubiki = {
 						name_list_norse = cn_oik_norse_b_yahiko
 						name_list_persian = cn_oik_persian_b_yahiko
 						name_list_roman = cn_oik_roman_b_yahiko
+	name_list_italian = cn_oik_italian_b_yahiko
+	name_list_cisalpine = cn_oik_cisalpine_b_yahiko
+	name_list_lombard = cn_oik_lombard_b_yahiko
+	name_list_sicilian = cn_oik_sicilian_b_yahiko
+	name_list_sardinian = cn_oik_sardinian_b_yahiko
+	name_list_vlach = cn_oik_vlach_b_yahiko
 					}
 
 }
@@ -4351,6 +5683,12 @@ b_kubiki = {
 						name_list_norse = cn_oik_norse_b_kambara
 						name_list_persian = cn_oik_persian_b_kambara
 						name_list_roman = cn_oik_roman_b_kambara
+	name_list_italian = cn_oik_italian_b_kambara
+	name_list_cisalpine = cn_oik_cisalpine_b_kambara
+	name_list_lombard = cn_oik_lombard_b_kambara
+	name_list_sicilian = cn_oik_sicilian_b_kambara
+	name_list_sardinian = cn_oik_sardinian_b_kambara
+	name_list_vlach = cn_oik_vlach_b_kambara
 					}
 
 }
@@ -4370,6 +5708,12 @@ b_kubiki = {
 						name_list_norse = cn_oik_norse_b_iwafune
 						name_list_persian = cn_oik_persian_b_iwafune
 						name_list_roman = cn_oik_roman_b_iwafune
+	name_list_italian = cn_oik_italian_b_iwafune
+	name_list_cisalpine = cn_oik_cisalpine_b_iwafune
+	name_list_lombard = cn_oik_lombard_b_iwafune
+	name_list_sicilian = cn_oik_sicilian_b_iwafune
+	name_list_sardinian = cn_oik_sardinian_b_iwafune
+	name_list_vlach = cn_oik_vlach_b_iwafune
 					}
 
 }
@@ -4389,6 +5733,12 @@ b_kubiki = {
 						name_list_norse = cn_oik_norse_b_sado
 						name_list_persian = cn_oik_persian_b_sado
 						name_list_roman = cn_oik_roman_b_sado
+	name_list_italian = cn_oik_italian_b_sado
+	name_list_cisalpine = cn_oik_cisalpine_b_sado
+	name_list_lombard = cn_oik_lombard_b_sado
+	name_list_sicilian = cn_oik_sicilian_b_sado
+	name_list_sardinian = cn_oik_sardinian_b_sado
+	name_list_vlach = cn_oik_vlach_b_sado
 					}
 
 }
@@ -4408,6 +5758,12 @@ b_kubiki = {
 						name_list_norse = cn_oik_norse_b_uonuma
 						name_list_persian = cn_oik_persian_b_uonuma
 						name_list_roman = cn_oik_roman_b_uonuma
+	name_list_italian = cn_oik_italian_b_uonuma
+	name_list_cisalpine = cn_oik_cisalpine_b_uonuma
+	name_list_lombard = cn_oik_lombard_b_uonuma
+	name_list_sicilian = cn_oik_sicilian_b_uonuma
+	name_list_sardinian = cn_oik_sardinian_b_uonuma
+	name_list_vlach = cn_oik_vlach_b_uonuma
 					}
 
 }
@@ -4428,6 +5784,12 @@ b_kubiki = {
 					name_list_norse = cn_oik_norse_c_etchu
 					name_list_persian = cn_oik_persian_c_etchu
 					name_list_roman = cn_oik_roman_c_etchu
+	name_list_italian = cn_oik_italian_c_etchu
+	name_list_cisalpine = cn_oik_cisalpine_c_etchu
+	name_list_lombard = cn_oik_lombard_c_etchu
+	name_list_sicilian = cn_oik_sicilian_c_etchu
+	name_list_sardinian = cn_oik_sardinian_c_etchu
+	name_list_vlach = cn_oik_vlach_c_etchu
 				}
 
 b_imizu = {
@@ -4446,6 +5808,12 @@ b_imizu = {
 						name_list_norse = cn_oik_norse_b_imizu
 						name_list_persian = cn_oik_persian_b_imizu
 						name_list_roman = cn_oik_roman_b_imizu
+	name_list_italian = cn_oik_italian_b_imizu
+	name_list_cisalpine = cn_oik_cisalpine_b_imizu
+	name_list_lombard = cn_oik_lombard_b_imizu
+	name_list_sicilian = cn_oik_sicilian_b_imizu
+	name_list_sardinian = cn_oik_sardinian_b_imizu
+	name_list_vlach = cn_oik_vlach_b_imizu
 					}
 
 }
@@ -4465,6 +5833,12 @@ b_imizu = {
 						name_list_norse = cn_oik_norse_b_tateyama
 						name_list_persian = cn_oik_persian_b_tateyama
 						name_list_roman = cn_oik_roman_b_tateyama
+	name_list_italian = cn_oik_italian_b_tateyama
+	name_list_cisalpine = cn_oik_cisalpine_b_tateyama
+	name_list_lombard = cn_oik_lombard_b_tateyama
+	name_list_sicilian = cn_oik_sicilian_b_tateyama
+	name_list_sardinian = cn_oik_sardinian_b_tateyama
+	name_list_vlach = cn_oik_vlach_b_tateyama
 					}
 
 }
@@ -4485,6 +5859,12 @@ b_imizu = {
 					name_list_norse = cn_oik_norse_c_noto
 					name_list_persian = cn_oik_persian_c_noto
 					name_list_roman = cn_oik_roman_c_noto
+	name_list_italian = cn_oik_italian_c_noto
+	name_list_cisalpine = cn_oik_cisalpine_c_noto
+	name_list_lombard = cn_oik_lombard_c_noto
+	name_list_sicilian = cn_oik_sicilian_c_noto
+	name_list_sardinian = cn_oik_sardinian_c_noto
+	name_list_vlach = cn_oik_vlach_c_noto
 				}
 
 b_kashima = {
@@ -4503,6 +5883,12 @@ b_kashima = {
 						name_list_norse = cn_oik_norse_b_kashima
 						name_list_persian = cn_oik_persian_b_kashima
 						name_list_roman = cn_oik_roman_b_kashima
+	name_list_italian = cn_oik_italian_b_kashima
+	name_list_cisalpine = cn_oik_cisalpine_b_kashima
+	name_list_lombard = cn_oik_lombard_b_kashima
+	name_list_sicilian = cn_oik_sicilian_b_kashima
+	name_list_sardinian = cn_oik_sardinian_b_kashima
+	name_list_vlach = cn_oik_vlach_b_kashima
 					}
 
 }
@@ -4522,6 +5908,12 @@ b_kashima = {
 						name_list_norse = cn_oik_norse_b_fugeshi
 						name_list_persian = cn_oik_persian_b_fugeshi
 						name_list_roman = cn_oik_roman_b_fugeshi
+	name_list_italian = cn_oik_italian_b_fugeshi
+	name_list_cisalpine = cn_oik_cisalpine_b_fugeshi
+	name_list_lombard = cn_oik_lombard_b_fugeshi
+	name_list_sicilian = cn_oik_sicilian_b_fugeshi
+	name_list_sardinian = cn_oik_sardinian_b_fugeshi
+	name_list_vlach = cn_oik_vlach_b_fugeshi
 					}
 
 }
@@ -4542,6 +5934,12 @@ b_kashima = {
 					name_list_norse = cn_oik_norse_c_kaga
 					name_list_persian = cn_oik_persian_c_kaga
 					name_list_roman = cn_oik_roman_c_kaga
+	name_list_italian = cn_oik_italian_c_kaga
+	name_list_cisalpine = cn_oik_cisalpine_c_kaga
+	name_list_lombard = cn_oik_lombard_c_kaga
+	name_list_sicilian = cn_oik_sicilian_c_kaga
+	name_list_sardinian = cn_oik_sardinian_c_kaga
+	name_list_vlach = cn_oik_vlach_c_kaga
 				}
 
 b_enuma = {
@@ -4560,6 +5958,12 @@ b_enuma = {
 						name_list_norse = cn_oik_norse_b_enuma
 						name_list_persian = cn_oik_persian_b_enuma
 						name_list_roman = cn_oik_roman_b_enuma
+	name_list_italian = cn_oik_italian_b_enuma
+	name_list_cisalpine = cn_oik_cisalpine_b_enuma
+	name_list_lombard = cn_oik_lombard_b_enuma
+	name_list_sicilian = cn_oik_sicilian_b_enuma
+	name_list_sardinian = cn_oik_sardinian_b_enuma
+	name_list_vlach = cn_oik_vlach_b_enuma
 					}
 
 }
@@ -4579,6 +5983,12 @@ b_enuma = {
 						name_list_norse = cn_oik_norse_b_haku
 						name_list_persian = cn_oik_persian_b_haku
 						name_list_roman = cn_oik_roman_b_haku
+	name_list_italian = cn_oik_italian_b_haku
+	name_list_cisalpine = cn_oik_cisalpine_b_haku
+	name_list_lombard = cn_oik_lombard_b_haku
+	name_list_sicilian = cn_oik_sicilian_b_haku
+	name_list_sardinian = cn_oik_sardinian_b_haku
+	name_list_vlach = cn_oik_vlach_b_haku
 					}
 
 }
@@ -4608,6 +6018,12 @@ b_enuma = {
 			name_list_norse = cn_oik_norse_k_tsukushi
 			name_list_persian = cn_oik_persian_k_tsukushi
 			name_list_roman = cn_oik_roman_k_tsukushi
+	name_list_italian = cn_oik_italian_k_tsukushi
+	name_list_cisalpine = cn_oik_cisalpine_k_tsukushi
+	name_list_lombard = cn_oik_lombard_k_tsukushi
+	name_list_sicilian = cn_oik_sicilian_k_tsukushi
+	name_list_sardinian = cn_oik_sardinian_k_tsukushi
+	name_list_vlach = cn_oik_vlach_k_tsukushi
 		}
 
 d_north_saikaido = {
@@ -4632,6 +6048,12 @@ d_north_saikaido = {
 				name_list_norse = cn_oik_norse_d_north_saikaido
 				name_list_persian = cn_oik_persian_d_north_saikaido
 				name_list_roman = cn_oik_roman_d_north_saikaido
+	name_list_italian = cn_oik_italian_d_north_saikaido
+	name_list_cisalpine = cn_oik_cisalpine_d_north_saikaido
+	name_list_lombard = cn_oik_lombard_d_north_saikaido
+	name_list_sicilian = cn_oik_sicilian_d_north_saikaido
+	name_list_sardinian = cn_oik_sardinian_d_north_saikaido
+	name_list_vlach = cn_oik_vlach_d_north_saikaido
 			}
 
 c_chikuzen = {
@@ -4649,6 +6071,12 @@ c_chikuzen = {
 					name_list_norse = cn_oik_norse_c_chikuzen
 					name_list_persian = cn_oik_persian_c_chikuzen
 					name_list_roman = cn_oik_roman_c_chikuzen
+	name_list_italian = cn_oik_italian_c_chikuzen
+	name_list_cisalpine = cn_oik_cisalpine_c_chikuzen
+	name_list_lombard = cn_oik_lombard_c_chikuzen
+	name_list_sicilian = cn_oik_sicilian_c_chikuzen
+	name_list_sardinian = cn_oik_sardinian_c_chikuzen
+	name_list_vlach = cn_oik_vlach_c_chikuzen
 				}
 
 b_dazaifu = {
@@ -4667,6 +6095,12 @@ b_dazaifu = {
 						name_list_norse = cn_oik_norse_b_dazaifu
 						name_list_persian = cn_oik_persian_b_dazaifu
 						name_list_roman = cn_oik_roman_b_dazaifu
+	name_list_italian = cn_oik_italian_b_dazaifu
+	name_list_cisalpine = cn_oik_cisalpine_b_dazaifu
+	name_list_lombard = cn_oik_lombard_b_dazaifu
+	name_list_sicilian = cn_oik_sicilian_b_dazaifu
+	name_list_sardinian = cn_oik_sardinian_b_dazaifu
+	name_list_vlach = cn_oik_vlach_b_dazaifu
 					}
 
 }
@@ -4686,6 +6120,12 @@ b_dazaifu = {
 						name_list_norse = cn_oik_norse_b_hakata
 						name_list_persian = cn_oik_persian_b_hakata
 						name_list_roman = cn_oik_roman_b_hakata
+	name_list_italian = cn_oik_italian_b_hakata
+	name_list_cisalpine = cn_oik_cisalpine_b_hakata
+	name_list_lombard = cn_oik_lombard_b_hakata
+	name_list_sicilian = cn_oik_sicilian_b_hakata
+	name_list_sardinian = cn_oik_sardinian_b_hakata
+	name_list_vlach = cn_oik_vlach_b_hakata
 					}
 
 }
@@ -4705,6 +6145,12 @@ b_dazaifu = {
 						name_list_norse = cn_oik_norse_b_munakata
 						name_list_persian = cn_oik_persian_b_munakata
 						name_list_roman = cn_oik_roman_b_munakata
+	name_list_italian = cn_oik_italian_b_munakata
+	name_list_cisalpine = cn_oik_cisalpine_b_munakata
+	name_list_lombard = cn_oik_lombard_b_munakata
+	name_list_sicilian = cn_oik_sicilian_b_munakata
+	name_list_sardinian = cn_oik_sardinian_b_munakata
+	name_list_vlach = cn_oik_vlach_b_munakata
 					}
 
 }
@@ -4724,6 +6170,12 @@ b_dazaifu = {
 						name_list_norse = cn_oik_norse_b_kurate
 						name_list_persian = cn_oik_persian_b_kurate
 						name_list_roman = cn_oik_roman_b_kurate
+	name_list_italian = cn_oik_italian_b_kurate
+	name_list_cisalpine = cn_oik_cisalpine_b_kurate
+	name_list_lombard = cn_oik_lombard_b_kurate
+	name_list_sicilian = cn_oik_sicilian_b_kurate
+	name_list_sardinian = cn_oik_sardinian_b_kurate
+	name_list_vlach = cn_oik_vlach_b_kurate
 					}
 
 }
@@ -4744,6 +6196,12 @@ b_dazaifu = {
 					name_list_norse = cn_oik_norse_c_bungo
 					name_list_persian = cn_oik_persian_c_bungo
 					name_list_roman = cn_oik_roman_c_bungo
+	name_list_italian = cn_oik_italian_c_bungo
+	name_list_cisalpine = cn_oik_cisalpine_c_bungo
+	name_list_lombard = cn_oik_lombard_c_bungo
+	name_list_sicilian = cn_oik_sicilian_c_bungo
+	name_list_sardinian = cn_oik_sardinian_c_bungo
+	name_list_vlach = cn_oik_vlach_c_bungo
 				}
 
 b_oita = {
@@ -4762,6 +6220,12 @@ b_oita = {
 						name_list_norse = cn_oik_norse_b_oita
 						name_list_persian = cn_oik_persian_b_oita
 						name_list_roman = cn_oik_roman_b_oita
+	name_list_italian = cn_oik_italian_b_oita
+	name_list_cisalpine = cn_oik_cisalpine_b_oita
+	name_list_lombard = cn_oik_lombard_b_oita
+	name_list_sicilian = cn_oik_sicilian_b_oita
+	name_list_sardinian = cn_oik_sardinian_b_oita
+	name_list_vlach = cn_oik_vlach_b_oita
 					}
 
 }
@@ -4781,6 +6245,12 @@ b_oita = {
 						name_list_norse = cn_oik_norse_b_amabe
 						name_list_persian = cn_oik_persian_b_amabe
 						name_list_roman = cn_oik_roman_b_amabe
+	name_list_italian = cn_oik_italian_b_amabe
+	name_list_cisalpine = cn_oik_cisalpine_b_amabe
+	name_list_lombard = cn_oik_lombard_b_amabe
+	name_list_sicilian = cn_oik_sicilian_b_amabe
+	name_list_sardinian = cn_oik_sardinian_b_amabe
+	name_list_vlach = cn_oik_vlach_b_amabe
 					}
 
 }
@@ -4800,6 +6270,12 @@ b_oita = {
 						name_list_norse = cn_oik_norse_b_ono
 						name_list_persian = cn_oik_persian_b_ono
 						name_list_roman = cn_oik_roman_b_ono
+	name_list_italian = cn_oik_italian_b_ono
+	name_list_cisalpine = cn_oik_cisalpine_b_ono
+	name_list_lombard = cn_oik_lombard_b_ono
+	name_list_sicilian = cn_oik_sicilian_b_ono
+	name_list_sardinian = cn_oik_sardinian_b_ono
+	name_list_vlach = cn_oik_vlach_b_ono
 					}
 
 }
@@ -4819,6 +6295,12 @@ b_oita = {
 						name_list_norse = cn_oik_norse_b_kunisaki
 						name_list_persian = cn_oik_persian_b_kunisaki
 						name_list_roman = cn_oik_roman_b_kunisaki
+	name_list_italian = cn_oik_italian_b_kunisaki
+	name_list_cisalpine = cn_oik_cisalpine_b_kunisaki
+	name_list_lombard = cn_oik_lombard_b_kunisaki
+	name_list_sicilian = cn_oik_sicilian_b_kunisaki
+	name_list_sardinian = cn_oik_sardinian_b_kunisaki
+	name_list_vlach = cn_oik_vlach_b_kunisaki
 					}
 
 }
@@ -4838,6 +6320,12 @@ b_oita = {
 						name_list_norse = cn_oik_norse_b_hita
 						name_list_persian = cn_oik_persian_b_hita
 						name_list_roman = cn_oik_roman_b_hita
+	name_list_italian = cn_oik_italian_b_hita
+	name_list_cisalpine = cn_oik_cisalpine_b_hita
+	name_list_lombard = cn_oik_lombard_b_hita
+	name_list_sicilian = cn_oik_sicilian_b_hita
+	name_list_sardinian = cn_oik_sardinian_b_hita
+	name_list_vlach = cn_oik_vlach_b_hita
 					}
 
 }
@@ -4858,6 +6346,12 @@ b_oita = {
 					name_list_norse = cn_oik_norse_c_buzen
 					name_list_persian = cn_oik_persian_c_buzen
 					name_list_roman = cn_oik_roman_c_buzen
+	name_list_italian = cn_oik_italian_c_buzen
+	name_list_cisalpine = cn_oik_cisalpine_c_buzen
+	name_list_lombard = cn_oik_lombard_c_buzen
+	name_list_sicilian = cn_oik_sicilian_c_buzen
+	name_list_sardinian = cn_oik_sardinian_c_buzen
+	name_list_vlach = cn_oik_vlach_c_buzen
 				}
 
 b_usa = {
@@ -4876,6 +6370,12 @@ b_usa = {
 						name_list_norse = cn_oik_norse_b_usa
 						name_list_persian = cn_oik_persian_b_usa
 						name_list_roman = cn_oik_roman_b_usa
+	name_list_italian = cn_oik_italian_b_usa
+	name_list_cisalpine = cn_oik_cisalpine_b_usa
+	name_list_lombard = cn_oik_lombard_b_usa
+	name_list_sicilian = cn_oik_sicilian_b_usa
+	name_list_sardinian = cn_oik_sardinian_b_usa
+	name_list_vlach = cn_oik_vlach_b_usa
 					}
 
 }
@@ -4895,6 +6395,12 @@ b_usa = {
 						name_list_norse = cn_oik_norse_b_hiko
 						name_list_persian = cn_oik_persian_b_hiko
 						name_list_roman = cn_oik_roman_b_hiko
+	name_list_italian = cn_oik_italian_b_hiko
+	name_list_cisalpine = cn_oik_cisalpine_b_hiko
+	name_list_lombard = cn_oik_lombard_b_hiko
+	name_list_sicilian = cn_oik_sicilian_b_hiko
+	name_list_sardinian = cn_oik_sardinian_b_hiko
+	name_list_vlach = cn_oik_vlach_b_hiko
 					}
 
 }
@@ -4914,6 +6420,12 @@ b_usa = {
 						name_list_norse = cn_oik_norse_b_kiku
 						name_list_persian = cn_oik_persian_b_kiku
 						name_list_roman = cn_oik_roman_b_kiku
+	name_list_italian = cn_oik_italian_b_kiku
+	name_list_cisalpine = cn_oik_cisalpine_b_kiku
+	name_list_lombard = cn_oik_lombard_b_kiku
+	name_list_sicilian = cn_oik_sicilian_b_kiku
+	name_list_sardinian = cn_oik_sardinian_b_kiku
+	name_list_vlach = cn_oik_vlach_b_kiku
 					}
 
 }
@@ -4934,6 +6446,12 @@ b_usa = {
 					name_list_norse = cn_oik_norse_c_chikugo
 					name_list_persian = cn_oik_persian_c_chikugo
 					name_list_roman = cn_oik_roman_c_chikugo
+	name_list_italian = cn_oik_italian_c_chikugo
+	name_list_cisalpine = cn_oik_cisalpine_c_chikugo
+	name_list_lombard = cn_oik_lombard_c_chikugo
+	name_list_sicilian = cn_oik_sicilian_c_chikugo
+	name_list_sardinian = cn_oik_sardinian_c_chikugo
+	name_list_vlach = cn_oik_vlach_c_chikugo
 				}
 
 b_mii = {
@@ -4952,6 +6470,12 @@ b_mii = {
 						name_list_norse = cn_oik_norse_b_mii
 						name_list_persian = cn_oik_persian_b_mii
 						name_list_roman = cn_oik_roman_b_mii
+	name_list_italian = cn_oik_italian_b_mii
+	name_list_cisalpine = cn_oik_cisalpine_b_mii
+	name_list_lombard = cn_oik_lombard_b_mii
+	name_list_sicilian = cn_oik_sicilian_b_mii
+	name_list_sardinian = cn_oik_sardinian_b_mii
+	name_list_vlach = cn_oik_vlach_b_mii
 					}
 
 }
@@ -4971,6 +6495,12 @@ b_mii = {
 						name_list_norse = cn_oik_norse_b_mizuma
 						name_list_persian = cn_oik_persian_b_mizuma
 						name_list_roman = cn_oik_roman_b_mizuma
+	name_list_italian = cn_oik_italian_b_mizuma
+	name_list_cisalpine = cn_oik_cisalpine_b_mizuma
+	name_list_lombard = cn_oik_lombard_b_mizuma
+	name_list_sicilian = cn_oik_sicilian_b_mizuma
+	name_list_sardinian = cn_oik_sardinian_b_mizuma
+	name_list_vlach = cn_oik_vlach_b_mizuma
 					}
 
 }
@@ -4991,6 +6521,12 @@ b_mii = {
 					name_list_norse = cn_oik_norse_c_hizen
 					name_list_persian = cn_oik_persian_c_hizen
 					name_list_roman = cn_oik_roman_c_hizen
+	name_list_italian = cn_oik_italian_c_hizen
+	name_list_cisalpine = cn_oik_cisalpine_c_hizen
+	name_list_lombard = cn_oik_lombard_c_hizen
+	name_list_sicilian = cn_oik_sicilian_c_hizen
+	name_list_sardinian = cn_oik_sardinian_c_hizen
+	name_list_vlach = cn_oik_vlach_c_hizen
 				}
 
 b_saga = {
@@ -5009,6 +6545,12 @@ b_saga = {
 						name_list_norse = cn_oik_norse_b_saga
 						name_list_persian = cn_oik_persian_b_saga
 						name_list_roman = cn_oik_roman_b_saga
+	name_list_italian = cn_oik_italian_b_saga
+	name_list_cisalpine = cn_oik_cisalpine_b_saga
+	name_list_lombard = cn_oik_lombard_b_saga
+	name_list_sicilian = cn_oik_sicilian_b_saga
+	name_list_sardinian = cn_oik_sardinian_b_saga
+	name_list_vlach = cn_oik_vlach_b_saga
 					}
 
 }
@@ -5028,6 +6570,12 @@ b_saga = {
 						name_list_norse = cn_oik_norse_b_matsura
 						name_list_persian = cn_oik_persian_b_matsura
 						name_list_roman = cn_oik_roman_b_matsura
+	name_list_italian = cn_oik_italian_b_matsura
+	name_list_cisalpine = cn_oik_cisalpine_b_matsura
+	name_list_lombard = cn_oik_lombard_b_matsura
+	name_list_sicilian = cn_oik_sicilian_b_matsura
+	name_list_sardinian = cn_oik_sardinian_b_matsura
+	name_list_vlach = cn_oik_vlach_b_matsura
 					}
 
 }
@@ -5047,6 +6595,12 @@ b_saga = {
 						name_list_norse = cn_oik_norse_b_sonogi
 						name_list_persian = cn_oik_persian_b_sonogi
 						name_list_roman = cn_oik_roman_b_sonogi
+	name_list_italian = cn_oik_italian_b_sonogi
+	name_list_cisalpine = cn_oik_cisalpine_b_sonogi
+	name_list_lombard = cn_oik_lombard_b_sonogi
+	name_list_sicilian = cn_oik_sicilian_b_sonogi
+	name_list_sardinian = cn_oik_sardinian_b_sonogi
+	name_list_vlach = cn_oik_vlach_b_sonogi
 					}
 
 }
@@ -5066,6 +6620,12 @@ b_saga = {
 						name_list_norse = cn_oik_norse_b_chikanoshima
 						name_list_persian = cn_oik_persian_b_chikanoshima
 						name_list_roman = cn_oik_roman_b_chikanoshima
+	name_list_italian = cn_oik_italian_b_chikanoshima
+	name_list_cisalpine = cn_oik_cisalpine_b_chikanoshima
+	name_list_lombard = cn_oik_lombard_b_chikanoshima
+	name_list_sicilian = cn_oik_sicilian_b_chikanoshima
+	name_list_sardinian = cn_oik_sardinian_b_chikanoshima
+	name_list_vlach = cn_oik_vlach_b_chikanoshima
 					}
 
 }
@@ -5086,6 +6646,12 @@ b_saga = {
 					name_list_norse = cn_oik_norse_c_tsushima
 					name_list_persian = cn_oik_persian_c_tsushima
 					name_list_roman = cn_oik_roman_c_tsushima
+	name_list_italian = cn_oik_italian_c_tsushima
+	name_list_cisalpine = cn_oik_cisalpine_c_tsushima
+	name_list_lombard = cn_oik_lombard_c_tsushima
+	name_list_sicilian = cn_oik_sicilian_c_tsushima
+	name_list_sardinian = cn_oik_sardinian_c_tsushima
+	name_list_vlach = cn_oik_vlach_c_tsushima
 				}
 
 b_yora = {
@@ -5104,6 +6670,12 @@ b_yora = {
 						name_list_norse = cn_oik_norse_b_yora
 						name_list_persian = cn_oik_persian_b_yora
 						name_list_roman = cn_oik_roman_b_yora
+	name_list_italian = cn_oik_italian_b_yora
+	name_list_cisalpine = cn_oik_cisalpine_b_yora
+	name_list_lombard = cn_oik_lombard_b_yora
+	name_list_sicilian = cn_oik_sicilian_b_yora
+	name_list_sardinian = cn_oik_sardinian_b_yora
+	name_list_vlach = cn_oik_vlach_b_yora
 					}
 
 }
@@ -5131,6 +6703,12 @@ b_yora = {
 				name_list_norse = cn_oik_norse_d_south_saikaido
 				name_list_persian = cn_oik_persian_d_south_saikaido
 				name_list_roman = cn_oik_roman_d_south_saikaido
+	name_list_italian = cn_oik_italian_d_south_saikaido
+	name_list_cisalpine = cn_oik_cisalpine_d_south_saikaido
+	name_list_lombard = cn_oik_lombard_d_south_saikaido
+	name_list_sicilian = cn_oik_sicilian_d_south_saikaido
+	name_list_sardinian = cn_oik_sardinian_d_south_saikaido
+	name_list_vlach = cn_oik_vlach_d_south_saikaido
 			}
 
 c_satsuma = {
@@ -5148,6 +6726,12 @@ c_satsuma = {
 					name_list_norse = cn_oik_norse_c_satsuma
 					name_list_persian = cn_oik_persian_c_satsuma
 					name_list_roman = cn_oik_roman_c_satsuma
+	name_list_italian = cn_oik_italian_c_satsuma
+	name_list_cisalpine = cn_oik_cisalpine_c_satsuma
+	name_list_lombard = cn_oik_lombard_c_satsuma
+	name_list_sicilian = cn_oik_sicilian_c_satsuma
+	name_list_sardinian = cn_oik_sardinian_c_satsuma
+	name_list_vlach = cn_oik_vlach_c_satsuma
 				}
 
 b_izumi_satsuma = {
@@ -5166,6 +6750,12 @@ b_izumi_satsuma = {
 						name_list_norse = cn_oik_norse_b_izumi_satsuma
 						name_list_persian = cn_oik_persian_b_izumi_satsuma
 						name_list_roman = cn_oik_roman_b_izumi_satsuma
+	name_list_italian = cn_oik_italian_b_izumi_satsuma
+	name_list_cisalpine = cn_oik_cisalpine_b_izumi_satsuma
+	name_list_lombard = cn_oik_lombard_b_izumi_satsuma
+	name_list_sicilian = cn_oik_sicilian_b_izumi_satsuma
+	name_list_sardinian = cn_oik_sardinian_b_izumi_satsuma
+	name_list_vlach = cn_oik_vlach_b_izumi_satsuma
 					}
 
 }
@@ -5185,6 +6775,12 @@ b_izumi_satsuma = {
 						name_list_norse = cn_oik_norse_b_kawanabe
 						name_list_persian = cn_oik_persian_b_kawanabe
 						name_list_roman = cn_oik_roman_b_kawanabe
+	name_list_italian = cn_oik_italian_b_kawanabe
+	name_list_cisalpine = cn_oik_cisalpine_b_kawanabe
+	name_list_lombard = cn_oik_lombard_b_kawanabe
+	name_list_sicilian = cn_oik_sicilian_b_kawanabe
+	name_list_sardinian = cn_oik_sardinian_b_kawanabe
+	name_list_vlach = cn_oik_vlach_b_kawanabe
 					}
 
 }
@@ -5204,6 +6800,12 @@ b_izumi_satsuma = {
 						name_list_norse = cn_oik_norse_b_kagoshima
 						name_list_persian = cn_oik_persian_b_kagoshima
 						name_list_roman = cn_oik_roman_b_kagoshima
+	name_list_italian = cn_oik_italian_b_kagoshima
+	name_list_cisalpine = cn_oik_cisalpine_b_kagoshima
+	name_list_lombard = cn_oik_lombard_b_kagoshima
+	name_list_sicilian = cn_oik_sicilian_b_kagoshima
+	name_list_sardinian = cn_oik_sardinian_b_kagoshima
+	name_list_vlach = cn_oik_vlach_b_kagoshima
 					}
 
 }
@@ -5223,6 +6825,12 @@ b_izumi_satsuma = {
 						name_list_norse = cn_oik_norse_b_isa
 						name_list_persian = cn_oik_persian_b_isa
 						name_list_roman = cn_oik_roman_b_isa
+	name_list_italian = cn_oik_italian_b_isa
+	name_list_cisalpine = cn_oik_cisalpine_b_isa
+	name_list_lombard = cn_oik_lombard_b_isa
+	name_list_sicilian = cn_oik_sicilian_b_isa
+	name_list_sardinian = cn_oik_sardinian_b_isa
+	name_list_vlach = cn_oik_vlach_b_isa
 					}
 
 }
@@ -5243,6 +6851,12 @@ b_izumi_satsuma = {
 					name_list_norse = cn_oik_norse_c_higo
 					name_list_persian = cn_oik_persian_c_higo
 					name_list_roman = cn_oik_roman_c_higo
+	name_list_italian = cn_oik_italian_c_higo
+	name_list_cisalpine = cn_oik_cisalpine_c_higo
+	name_list_lombard = cn_oik_lombard_c_higo
+	name_list_sicilian = cn_oik_sicilian_c_higo
+	name_list_sardinian = cn_oik_sardinian_c_higo
+	name_list_vlach = cn_oik_vlach_c_higo
 				}
 
 b_mashiki = {
@@ -5261,6 +6875,12 @@ b_mashiki = {
 						name_list_norse = cn_oik_norse_b_mashiki
 						name_list_persian = cn_oik_persian_b_mashiki
 						name_list_roman = cn_oik_roman_b_mashiki
+	name_list_italian = cn_oik_italian_b_mashiki
+	name_list_cisalpine = cn_oik_cisalpine_b_mashiki
+	name_list_lombard = cn_oik_lombard_b_mashiki
+	name_list_sicilian = cn_oik_sicilian_b_mashiki
+	name_list_sardinian = cn_oik_sardinian_b_mashiki
+	name_list_vlach = cn_oik_vlach_b_mashiki
 					}
 
 }
@@ -5280,6 +6900,12 @@ b_mashiki = {
 						name_list_norse = cn_oik_norse_b_aso_higo
 						name_list_persian = cn_oik_persian_b_aso_higo
 						name_list_roman = cn_oik_roman_b_aso_higo
+	name_list_italian = cn_oik_italian_b_aso_higo
+	name_list_cisalpine = cn_oik_cisalpine_b_aso_higo
+	name_list_lombard = cn_oik_lombard_b_aso_higo
+	name_list_sicilian = cn_oik_sicilian_b_aso_higo
+	name_list_sardinian = cn_oik_sardinian_b_aso_higo
+	name_list_vlach = cn_oik_vlach_b_aso_higo
 					}
 
 }
@@ -5299,6 +6925,12 @@ b_mashiki = {
 						name_list_norse = cn_oik_norse_b_kikuchi
 						name_list_persian = cn_oik_persian_b_kikuchi
 						name_list_roman = cn_oik_roman_b_kikuchi
+	name_list_italian = cn_oik_italian_b_kikuchi
+	name_list_cisalpine = cn_oik_cisalpine_b_kikuchi
+	name_list_lombard = cn_oik_lombard_b_kikuchi
+	name_list_sicilian = cn_oik_sicilian_b_kikuchi
+	name_list_sardinian = cn_oik_sardinian_b_kikuchi
+	name_list_vlach = cn_oik_vlach_b_kikuchi
 					}
 
 }
@@ -5318,6 +6950,12 @@ b_mashiki = {
 						name_list_norse = cn_oik_norse_b_amakusa
 						name_list_persian = cn_oik_persian_b_amakusa
 						name_list_roman = cn_oik_roman_b_amakusa
+	name_list_italian = cn_oik_italian_b_amakusa
+	name_list_cisalpine = cn_oik_cisalpine_b_amakusa
+	name_list_lombard = cn_oik_lombard_b_amakusa
+	name_list_sicilian = cn_oik_sicilian_b_amakusa
+	name_list_sardinian = cn_oik_sardinian_b_amakusa
+	name_list_vlach = cn_oik_vlach_b_amakusa
 					}
 
 }
@@ -5337,6 +6975,12 @@ b_mashiki = {
 						name_list_norse = cn_oik_norse_b_yatsushiro_higo
 						name_list_persian = cn_oik_persian_b_yatsushiro_higo
 						name_list_roman = cn_oik_roman_b_yatsushiro_higo
+	name_list_italian = cn_oik_italian_b_yatsushiro_higo
+	name_list_cisalpine = cn_oik_cisalpine_b_yatsushiro_higo
+	name_list_lombard = cn_oik_lombard_b_yatsushiro_higo
+	name_list_sicilian = cn_oik_sicilian_b_yatsushiro_higo
+	name_list_sardinian = cn_oik_sardinian_b_yatsushiro_higo
+	name_list_vlach = cn_oik_vlach_b_yatsushiro_higo
 					}
 
 }
@@ -5356,6 +7000,12 @@ b_mashiki = {
 						name_list_norse = cn_oik_norse_b_kuma
 						name_list_persian = cn_oik_persian_b_kuma
 						name_list_roman = cn_oik_roman_b_kuma
+	name_list_italian = cn_oik_italian_b_kuma
+	name_list_cisalpine = cn_oik_cisalpine_b_kuma
+	name_list_lombard = cn_oik_lombard_b_kuma
+	name_list_sicilian = cn_oik_sicilian_b_kuma
+	name_list_sardinian = cn_oik_sardinian_b_kuma
+	name_list_vlach = cn_oik_vlach_b_kuma
 					}
 
 }
@@ -5376,6 +7026,12 @@ b_mashiki = {
 					name_list_norse = cn_oik_norse_c_hyuga
 					name_list_persian = cn_oik_persian_c_hyuga
 					name_list_roman = cn_oik_roman_c_hyuga
+	name_list_italian = cn_oik_italian_c_hyuga
+	name_list_cisalpine = cn_oik_cisalpine_c_hyuga
+	name_list_lombard = cn_oik_lombard_c_hyuga
+	name_list_sicilian = cn_oik_sicilian_c_hyuga
+	name_list_sardinian = cn_oik_sardinian_c_hyuga
+	name_list_vlach = cn_oik_vlach_c_hyuga
 				}
 
 b_koyu = {
@@ -5394,6 +7050,12 @@ b_koyu = {
 						name_list_norse = cn_oik_norse_b_koyu
 						name_list_persian = cn_oik_persian_b_koyu
 						name_list_roman = cn_oik_roman_b_koyu
+	name_list_italian = cn_oik_italian_b_koyu
+	name_list_cisalpine = cn_oik_cisalpine_b_koyu
+	name_list_lombard = cn_oik_lombard_b_koyu
+	name_list_sicilian = cn_oik_sicilian_b_koyu
+	name_list_sardinian = cn_oik_sardinian_b_koyu
+	name_list_vlach = cn_oik_vlach_b_koyu
 					}
 
 }
@@ -5413,6 +7075,12 @@ b_koyu = {
 						name_list_norse = cn_oik_norse_b_naka
 						name_list_persian = cn_oik_persian_b_naka
 						name_list_roman = cn_oik_roman_b_naka
+	name_list_italian = cn_oik_italian_b_naka
+	name_list_cisalpine = cn_oik_cisalpine_b_naka
+	name_list_lombard = cn_oik_lombard_b_naka
+	name_list_sicilian = cn_oik_sicilian_b_naka
+	name_list_sardinian = cn_oik_sardinian_b_naka
+	name_list_vlach = cn_oik_vlach_b_naka
 					}
 
 }
@@ -5432,6 +7100,12 @@ b_koyu = {
 						name_list_norse = cn_oik_norse_b_miyazaki
 						name_list_persian = cn_oik_persian_b_miyazaki
 						name_list_roman = cn_oik_roman_b_miyazaki
+	name_list_italian = cn_oik_italian_b_miyazaki
+	name_list_cisalpine = cn_oik_cisalpine_b_miyazaki
+	name_list_lombard = cn_oik_lombard_b_miyazaki
+	name_list_sicilian = cn_oik_sicilian_b_miyazaki
+	name_list_sardinian = cn_oik_sardinian_b_miyazaki
+	name_list_vlach = cn_oik_vlach_b_miyazaki
 					}
 
 }
@@ -5451,6 +7125,12 @@ b_koyu = {
 						name_list_norse = cn_oik_norse_b_usuki
 						name_list_persian = cn_oik_persian_b_usuki
 						name_list_roman = cn_oik_roman_b_usuki
+	name_list_italian = cn_oik_italian_b_usuki
+	name_list_cisalpine = cn_oik_cisalpine_b_usuki
+	name_list_lombard = cn_oik_lombard_b_usuki
+	name_list_sicilian = cn_oik_sicilian_b_usuki
+	name_list_sardinian = cn_oik_sardinian_b_usuki
+	name_list_vlach = cn_oik_vlach_b_usuki
 					}
 
 }
@@ -5470,6 +7150,12 @@ b_koyu = {
 						name_list_norse = cn_oik_norse_b_morokata
 						name_list_persian = cn_oik_persian_b_morokata
 						name_list_roman = cn_oik_roman_b_morokata
+	name_list_italian = cn_oik_italian_b_morokata
+	name_list_cisalpine = cn_oik_cisalpine_b_morokata
+	name_list_lombard = cn_oik_lombard_b_morokata
+	name_list_sicilian = cn_oik_sicilian_b_morokata
+	name_list_sardinian = cn_oik_sardinian_b_morokata
+	name_list_vlach = cn_oik_vlach_b_morokata
 					}
 
 }
@@ -5490,6 +7176,12 @@ b_koyu = {
 					name_list_norse = cn_oik_norse_c_osumi
 					name_list_persian = cn_oik_persian_c_osumi
 					name_list_roman = cn_oik_roman_c_osumi
+	name_list_italian = cn_oik_italian_c_osumi
+	name_list_cisalpine = cn_oik_cisalpine_c_osumi
+	name_list_lombard = cn_oik_lombard_c_osumi
+	name_list_sicilian = cn_oik_sicilian_c_osumi
+	name_list_sardinian = cn_oik_sardinian_c_osumi
+	name_list_vlach = cn_oik_vlach_c_osumi
 				}
 
 b_soo = {
@@ -5508,6 +7200,12 @@ b_soo = {
 						name_list_norse = cn_oik_norse_b_soo
 						name_list_persian = cn_oik_persian_b_soo
 						name_list_roman = cn_oik_roman_b_soo
+	name_list_italian = cn_oik_italian_b_soo
+	name_list_cisalpine = cn_oik_cisalpine_b_soo
+	name_list_lombard = cn_oik_lombard_b_soo
+	name_list_sicilian = cn_oik_sicilian_b_soo
+	name_list_sardinian = cn_oik_sardinian_b_soo
+	name_list_vlach = cn_oik_vlach_b_soo
 					}
 
 }
@@ -5527,6 +7225,12 @@ b_soo = {
 						name_list_norse = cn_oik_norse_b_kimotsuki
 						name_list_persian = cn_oik_persian_b_kimotsuki
 						name_list_roman = cn_oik_roman_b_kimotsuki
+	name_list_italian = cn_oik_italian_b_kimotsuki
+	name_list_cisalpine = cn_oik_cisalpine_b_kimotsuki
+	name_list_lombard = cn_oik_lombard_b_kimotsuki
+	name_list_sicilian = cn_oik_sicilian_b_kimotsuki
+	name_list_sardinian = cn_oik_sardinian_b_kimotsuki
+	name_list_vlach = cn_oik_vlach_b_kimotsuki
 					}
 
 }
@@ -5546,6 +7250,12 @@ b_soo = {
 						name_list_norse = cn_oik_norse_b_kuwabara
 						name_list_persian = cn_oik_persian_b_kuwabara
 						name_list_roman = cn_oik_roman_b_kuwabara
+	name_list_italian = cn_oik_italian_b_kuwabara
+	name_list_cisalpine = cn_oik_cisalpine_b_kuwabara
+	name_list_lombard = cn_oik_lombard_b_kuwabara
+	name_list_sicilian = cn_oik_sicilian_b_kuwabara
+	name_list_sardinian = cn_oik_sardinian_b_kuwabara
+	name_list_vlach = cn_oik_vlach_b_kuwabara
 					}
 
 }
@@ -5565,6 +7275,12 @@ b_soo = {
 						name_list_norse = cn_oik_norse_b_tane
 						name_list_persian = cn_oik_persian_b_tane
 						name_list_roman = cn_oik_roman_b_tane
+	name_list_italian = cn_oik_italian_b_tane
+	name_list_cisalpine = cn_oik_cisalpine_b_tane
+	name_list_lombard = cn_oik_lombard_b_tane
+	name_list_sicilian = cn_oik_sicilian_b_tane
+	name_list_sardinian = cn_oik_sardinian_b_tane
+	name_list_vlach = cn_oik_vlach_b_tane
 					}
 
 }
@@ -5757,6 +7473,12 @@ k_chrysanthemum_throne = {
 		name_list_norse = cn_oik_norse_k_chrysanthemum_throne
 		name_list_persian = cn_oik_persian_k_chrysanthemum_throne
 		name_list_roman = cn_oik_roman_k_chrysanthemum_throne
+	name_list_italian = cn_oik_italian_k_chrysanthemum_throne
+	name_list_cisalpine = cn_oik_cisalpine_k_chrysanthemum_throne
+	name_list_lombard = cn_oik_lombard_k_chrysanthemum_throne
+	name_list_sicilian = cn_oik_sicilian_k_chrysanthemum_throne
+	name_list_sardinian = cn_oik_sardinian_k_chrysanthemum_throne
+	name_list_vlach = cn_oik_vlach_k_chrysanthemum_throne
 	}
 
 }
@@ -5787,6 +7509,12 @@ d_laamp_shunkan = { # Shunkan Minamoto
 		name_list_norse = cn_oik_norse_d_laamp_shunkan
 		name_list_persian = cn_oik_persian_d_laamp_shunkan
 		name_list_roman = cn_oik_roman_d_laamp_shunkan
+	name_list_italian = cn_oik_italian_d_laamp_shunkan
+	name_list_cisalpine = cn_oik_cisalpine_d_laamp_shunkan
+	name_list_lombard = cn_oik_lombard_d_laamp_shunkan
+	name_list_sicilian = cn_oik_sicilian_d_laamp_shunkan
+	name_list_sardinian = cn_oik_sardinian_d_laamp_shunkan
+	name_list_vlach = cn_oik_vlach_d_laamp_shunkan
 	}
 
 }
@@ -5815,6 +7543,12 @@ d_laamp_takaoka = { # Prince Takaoka (Shinnyo)
 		name_list_norse = cn_oik_norse_d_laamp_takaoka
 		name_list_persian = cn_oik_persian_d_laamp_takaoka
 		name_list_roman = cn_oik_roman_d_laamp_takaoka
+	name_list_italian = cn_oik_italian_d_laamp_takaoka
+	name_list_cisalpine = cn_oik_cisalpine_d_laamp_takaoka
+	name_list_lombard = cn_oik_lombard_d_laamp_takaoka
+	name_list_sicilian = cn_oik_sicilian_d_laamp_takaoka
+	name_list_sardinian = cn_oik_sardinian_d_laamp_takaoka
+	name_list_vlach = cn_oik_vlach_d_laamp_takaoka
 	}
 
 }
@@ -5843,6 +7577,12 @@ d_laamp_yoshitsune = { # Yoshitsune Minamoto
 		name_list_norse = cn_oik_norse_d_laamp_yoshitsune
 		name_list_persian = cn_oik_persian_d_laamp_yoshitsune
 		name_list_roman = cn_oik_roman_d_laamp_yoshitsune
+	name_list_italian = cn_oik_italian_d_laamp_yoshitsune
+	name_list_cisalpine = cn_oik_cisalpine_d_laamp_yoshitsune
+	name_list_lombard = cn_oik_lombard_d_laamp_yoshitsune
+	name_list_sicilian = cn_oik_sicilian_d_laamp_yoshitsune
+	name_list_sardinian = cn_oik_sardinian_d_laamp_yoshitsune
+	name_list_vlach = cn_oik_vlach_d_laamp_yoshitsune
 	}
 
 }
@@ -5871,6 +7611,12 @@ d_laamp_miyoshi_kiyotsura = { # Miyoshi Kiyotsura, Kiyotsura's Inspectors
 		name_list_norse = cn_oik_norse_d_laamp_miyoshi_kiyotsura
 		name_list_persian = cn_oik_persian_d_laamp_miyoshi_kiyotsura
 		name_list_roman = cn_oik_roman_d_laamp_miyoshi_kiyotsura
+	name_list_italian = cn_oik_italian_d_laamp_miyoshi_kiyotsura
+	name_list_cisalpine = cn_oik_cisalpine_d_laamp_miyoshi_kiyotsura
+	name_list_lombard = cn_oik_lombard_d_laamp_miyoshi_kiyotsura
+	name_list_sicilian = cn_oik_sicilian_d_laamp_miyoshi_kiyotsura
+	name_list_sardinian = cn_oik_sardinian_d_laamp_miyoshi_kiyotsura
+	name_list_vlach = cn_oik_vlach_d_laamp_miyoshi_kiyotsura
 	}
 
 }
@@ -5899,6 +7645,12 @@ d_laamp_hiei_wayfarers = { # Jōjin, Hiei Wayfarers
 		name_list_norse = cn_oik_norse_d_laamp_hiei_wayfarers
 		name_list_persian = cn_oik_persian_d_laamp_hiei_wayfarers
 		name_list_roman = cn_oik_roman_d_laamp_hiei_wayfarers
+	name_list_italian = cn_oik_italian_d_laamp_hiei_wayfarers
+	name_list_cisalpine = cn_oik_cisalpine_d_laamp_hiei_wayfarers
+	name_list_lombard = cn_oik_lombard_d_laamp_hiei_wayfarers
+	name_list_sicilian = cn_oik_sicilian_d_laamp_hiei_wayfarers
+	name_list_sardinian = cn_oik_sardinian_d_laamp_hiei_wayfarers
+	name_list_vlach = cn_oik_vlach_d_laamp_hiei_wayfarers
 	}
 
 }
@@ -5927,6 +7679,12 @@ d_laamp_northern_blades = { # Isawa no Saburō, Northern Blades
 		name_list_norse = cn_oik_norse_d_laamp_northern_blades
 		name_list_persian = cn_oik_persian_d_laamp_northern_blades
 		name_list_roman = cn_oik_roman_d_laamp_northern_blades
+	name_list_italian = cn_oik_italian_d_laamp_northern_blades
+	name_list_cisalpine = cn_oik_cisalpine_d_laamp_northern_blades
+	name_list_lombard = cn_oik_lombard_d_laamp_northern_blades
+	name_list_sicilian = cn_oik_sicilian_d_laamp_northern_blades
+	name_list_sardinian = cn_oik_sardinian_d_laamp_northern_blades
+	name_list_vlach = cn_oik_vlach_d_laamp_northern_blades
 	}
 
 }
@@ -5955,6 +7713,12 @@ d_laamp_band_of_the_inland_sea = { # Tsukushi no Koretaka, Band of the Inland Se
 		name_list_norse = cn_oik_norse_d_laamp_band_of_the_inland_sea
 		name_list_persian = cn_oik_persian_d_laamp_band_of_the_inland_sea
 		name_list_roman = cn_oik_roman_d_laamp_band_of_the_inland_sea
+	name_list_italian = cn_oik_italian_d_laamp_band_of_the_inland_sea
+	name_list_cisalpine = cn_oik_cisalpine_d_laamp_band_of_the_inland_sea
+	name_list_lombard = cn_oik_lombard_d_laamp_band_of_the_inland_sea
+	name_list_sicilian = cn_oik_sicilian_d_laamp_band_of_the_inland_sea
+	name_list_sardinian = cn_oik_sardinian_d_laamp_band_of_the_inland_sea
+	name_list_vlach = cn_oik_vlach_d_laamp_band_of_the_inland_sea
 	}
 
 }

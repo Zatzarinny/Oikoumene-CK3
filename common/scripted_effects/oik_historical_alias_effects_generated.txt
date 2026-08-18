@@ -1,11 +1,7 @@
 ﻿# Oikoumene title-name override bridge controller.
 #
-# Why this exists:
-# title history and vanilla scripts can store an explicit title localisation key.
-# Stored names take precedence over ordinary cultural_names. These effects explicitly
-# restore the correct Oikoumene key for supported name lists while preserving vanilla
-# state for unsupported cultures.
-
+# This file preserves the working v0.1 controller semantics and extends only the
+# name-list ladders to the seventeen supported naming layers.
 
 oik_set_k_east_francia_cultural_name = {
 	if = {
@@ -51,6 +47,30 @@ oik_set_k_east_francia_cultural_name = {
 	else_if = {
 		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
 		set_title_name = cn_oik_roman_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_italian } } }
+		set_title_name = cn_oik_italian_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_cisalpine } } }
+		set_title_name = cn_oik_cisalpine_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_lombard } } }
+		set_title_name = cn_oik_lombard_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sicilian } } }
+		set_title_name = cn_oik_sicilian_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sardinian } } }
+		set_title_name = cn_oik_sardinian_k_east_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_vlach } } }
+		set_title_name = cn_oik_vlach_k_east_francia
 	}
 	else = {
 		set_title_name = EAST_FRANCIA
@@ -101,6 +121,30 @@ oik_set_k_germany_cultural_name = {
 	else_if = {
 		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
 		set_title_name = cn_oik_alias_roman_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_italian } } }
+		set_title_name = cn_oik_alias_italian_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_cisalpine } } }
+		set_title_name = cn_oik_alias_cisalpine_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_lombard } } }
+		set_title_name = cn_oik_alias_lombard_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sicilian } } }
+		set_title_name = cn_oik_alias_sicilian_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sardinian } } }
+		set_title_name = cn_oik_alias_sardinian_k_germany
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_vlach } } }
+		set_title_name = cn_oik_alias_vlach_k_germany
 	}
 	else = {
 		set_title_name = k_germany
@@ -166,6 +210,30 @@ oik_set_k_france_cultural_name = {
 		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
 		set_title_name = cn_oik_roman_k_france
 	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_italian } } }
+		set_title_name = cn_oik_italian_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_cisalpine } } }
+		set_title_name = cn_oik_cisalpine_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_lombard } } }
+		set_title_name = cn_oik_lombard_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sicilian } } }
+		set_title_name = cn_oik_sicilian_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sardinian } } }
+		set_title_name = cn_oik_sardinian_k_france
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_vlach } } }
+		set_title_name = cn_oik_vlach_k_france
+	}
 	else = {
 		reset_title_name = yes
 	}
@@ -215,6 +283,30 @@ oik_set_k_west_francia_cultural_name = {
 	else_if = {
 		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
 		set_title_name = cn_oik_alias_roman_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_italian } } }
+		set_title_name = cn_oik_alias_italian_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_cisalpine } } }
+		set_title_name = cn_oik_alias_cisalpine_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_lombard } } }
+		set_title_name = cn_oik_alias_lombard_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sicilian } } }
+		set_title_name = cn_oik_alias_sicilian_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sardinian } } }
+		set_title_name = cn_oik_alias_sardinian_k_west_francia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_vlach } } }
+		set_title_name = cn_oik_alias_vlach_k_west_francia
 	}
 	else = {
 		set_title_name = WEST_FRANCIA
@@ -280,6 +372,30 @@ oik_set_k_lotharingia_cultural_name = {
 		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
 		set_title_name = cn_oik_roman_k_lotharingia
 	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_italian } } }
+		set_title_name = cn_oik_italian_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_cisalpine } } }
+		set_title_name = cn_oik_cisalpine_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_lombard } } }
+		set_title_name = cn_oik_lombard_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sicilian } } }
+		set_title_name = cn_oik_sicilian_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sardinian } } }
+		set_title_name = cn_oik_sardinian_k_lotharingia
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_vlach } } }
+		set_title_name = cn_oik_vlach_k_lotharingia
+	}
 	else = {
 		if = {
 			limit = { current_date >= 855.8.22 }
@@ -340,6 +456,30 @@ oik_set_d_northumberland_cultural_name = {
 	else_if = {
 		limit = { holder ?= { culture = { has_name_list = name_list_roman } } }
 		set_title_name = cn_oik_roman_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_italian } } }
+		set_title_name = cn_oik_italian_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_cisalpine } } }
+		set_title_name = cn_oik_cisalpine_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_lombard } } }
+		set_title_name = cn_oik_lombard_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sicilian } } }
+		set_title_name = cn_oik_sicilian_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_sardinian } } }
+		set_title_name = cn_oik_sardinian_d_northumberland
+	}
+	else_if = {
+		limit = { holder ?= { culture = { has_name_list = name_list_vlach } } }
+		set_title_name = cn_oik_vlach_d_northumberland
 	}
 	else = {
 		if = {
